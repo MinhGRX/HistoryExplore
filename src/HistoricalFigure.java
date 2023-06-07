@@ -1,41 +1,40 @@
 public class HistoricalFigure {
     
     private String name;
-    private String alternativeName;
-    private String dateOfBirth;
-    private String dateOfDeath;
-    private String hometown;
-    private String description;
+    private String otherName;
+    private String lifeTime;
+    private String dynasty;
+    private String category;
+    private String family;
     
     
     // Getters
     public String getName() {
         return name;
     }
-    public String getAlternativeName() {
-        return alternativeName;
+    public String getOtherName() {
+        return otherName;
     }
-    public String getDateOfBirth() {
-        return dateOfBirth;
+    public String getLifeTime() {
+        return lifeTime;
     }
-    public String getDateOfDeath() {
-        return dateOfDeath;
+    public String getDynasty() {
+        return dynasty;
     }
-    public String getHometown() {
-        return hometown;
+    public String getCategory() {
+        return category;
     }
-    public String getDescription() {
-        return description;
+    public String getFamily() {
+        return family;
     }
 
     // Contructors
-    public HistoricalFigure(String name, String alternativeName, String dateOfBirth, String dateOfDeath,
-            String hometown, String description) {
+    public HistoricalFigure(String name, String otherName, String lifeTime, String family, String dynasty, String category) {
         this.name = name;
-        this.alternativeName = alternativeName;
-        this.dateOfBirth = dateOfBirth;
-        this.dateOfDeath = dateOfDeath;
-        this.hometown = hometown;
-        this.description = description;
+        this.otherName = otherName;
+        this.lifeTime = lifeTime;
+        this.family = family;
+        this.dynasty = dynasty;
+        this.category = category;
     }
 }
