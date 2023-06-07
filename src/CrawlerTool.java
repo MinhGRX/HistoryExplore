@@ -79,7 +79,7 @@ public class CrawlerTool {
     private static void crawVietNamKings() {
         List<HistoricalFigure> figures = new ArrayList<HistoricalFigure>();
         String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam#";
-        String outputFileName = "test.html";
+        String outputFileName = "VietNamKings.json";
         PrintWriter writer = createAppendFileWriter(outputFileName);
         Document doc = new Document("UTF-8");
         try {
@@ -87,7 +87,7 @@ public class CrawlerTool {
         } catch(IOException e) {
             e.printStackTrace();
         }
-        String shortDesciption = "King of Viet Nam";
+        String shortDesciption;
         String name;
         String otherName;
         String dynasty;
@@ -102,18 +102,20 @@ public class CrawlerTool {
                 table = table.nextElementSibling();
             for(Element tr : table.selectFirst("tbody").select("tr")) {
                 if(!tr.attr("style").equals("background:#bdbbd7; height:18px;")) {
+                    shortDesciption = "King of Viet Nam";
                     name = tr.select("td:nth-child(2)").text();
                     otherName = tr.select("td:nth-child(6)").text();
                     familyMember = tr.select("td:nth-child(7)").text();
-                    assumeTime = "(" + tr.select("td:nth-child(8):not(a)").text() + " - "
-                                + tr.select("td:nth-child(10):not(a)").text() + ")";
+                    assumeTime = "(" + tr.select("td:nth-child(8)").text() + " - "
+                                + tr.select("td:nth-child(10)").text() + ")";
                     shortDesciption += assumeTime;
-                    
+                    figures.add(new HistoricalFigure(name, otherName, "unknow", familyMember, dynasty, shortDesciption));
                 }
-
             }
         }
-
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        String json = gson.toJson(figures);
+        writer.print(json);
         writer.close();
     }
     public static void main(String[] args) {
