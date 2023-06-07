@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\gson-2.8.2.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jsoup-1.16.1.jar"
+    ]
+}
