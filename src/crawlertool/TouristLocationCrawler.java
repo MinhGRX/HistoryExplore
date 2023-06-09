@@ -1,3 +1,5 @@
+package crawlertool;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -15,7 +17,9 @@ import org.jsoup.nodes.Element;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-public class CrawlerTool {
+import explore.location.TourismLocation;
+
+public class TouristLocationCrawler {
     private static PrintWriter createAppendFileWriter(String filePath) {
         try {
             File outputFile = new File(filePath);
@@ -76,63 +80,8 @@ public class CrawlerTool {
         }
     }
     
-    private static void crawVietNamKings() {
-        List<HistoricalFigure> figures = new ArrayList<HistoricalFigure>();
-        String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam#";
-        String outputFileName = "VietNamKings.json";
-        PrintWriter writer = createAppendFileWriter(outputFileName);
-        Document doc = new Document("UTF-8");
-        try {
-            doc = Jsoup.connect(url).get();
-        } catch(IOException e) {
-            e.printStackTrace();
-        }
-        String shortDesciption;
-        String name;
-        String otherName;
-        String dynasty;
-        String familyMember;
-        Element table;
-        String assumeTime;
-
-        for(Element h3 : doc.select("#mw-content-text > div.mw-parser-output > h3")) {
-            dynasty = h3.select(".mw-headline").text();
-            table = h3.nextElementSibling();
-            while(table.selectFirst("tbody") == null)
-                table = table.nextElementSibling();
-            for(Element tr : table.selectFirst("tbody").select("tr")) {
-                if(!tr.attr("style").equals("background:#bdbbd7; height:18px;")) {
-                    shortDesciption = "King of Viet Nam";
-                    name = tr.select("td:nth-child(2)").text();
-                    otherName = tr.select("td:nth-child(6)").text();
-                    familyMember = tr.select("td:nth-child(7)").text();
-                    assumeTime = "(" + tr.select("td:nth-child(8)").text() + " - "
-                                + tr.select("td:nth-child(10)").text() + ")";
-                    shortDesciption += assumeTime;
-                    figures.add(new HistoricalFigure(name, otherName, "unknow", familyMember, dynasty, shortDesciption));
-                }
-            }
-        }
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        String json = gson.toJson(figures);
-        writer.print(json);
-        writer.close();
-    }
     public static void main(String[] args) {
-        crawVietNamKings();
+        crawlLocation();
     }
 }
 // https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam#
-//
-
-//#mw-content-text > div.mw-parser-output > table:nth-child(17)
-//#mw-content-text > div.mw-parser-output > table:nth-child(19)
-//#mw-content-text > div.mw-parser-output > table:nth-child(21)
-//#mw-content-text > div.mw-parser-output > table:nth-child(25)
-//#mw-content-text > div.mw-parser-output > table:nth-child(28)
-//#mw-content-text > div.mw-parser-output > table:nth-child(31)
-//#mw-content-text > div.mw-parser-output > table:nth-child(34)
-//#mw-content-text > div.mw-parser-output > table:nth-child(37)
-//#mw-content-text > div.mw-parser-output > table:nth-child(40)
-//#mw-content-text > div.mw-parser-output > table:nth-child(42)
-//#mw-content-text > div.mw-parser-output > table.table.toccolours > tbody > tr:nth-child(2) > td > table
