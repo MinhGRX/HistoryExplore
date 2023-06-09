@@ -1,3 +1,4 @@
+package explore.dynasty;
 public class Dynasty {
     private String name;
     private String founder;

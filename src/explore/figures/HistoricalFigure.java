@@ -1,3 +1,5 @@
+package explore.figures;
+
 public class HistoricalFigure {
     
     private String name;

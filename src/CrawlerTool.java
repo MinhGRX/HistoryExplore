@@ -7,6 +7,7 @@ import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.*;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -14,6 +15,9 @@ import org.jsoup.nodes.Element;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+
+import explore.figures.*;
+import explore.location.TourismLocation;
 
 public class CrawlerTool {
     private static PrintWriter createAppendFileWriter(String filePath) {
@@ -94,6 +98,8 @@ public class CrawlerTool {
         String familyMember;
         Element table;
         String assumeTime;
+        Pattern pattern = Pattern.compile("\\[\\w+\\]");
+        Matcher matcher;
 
         for(Element h3 : doc.select("#mw-content-text > div.mw-parser-output > h3")) {
             dynasty = h3.select(".mw-headline").text();
@@ -109,6 +115,22 @@ public class CrawlerTool {
                     assumeTime = "(" + tr.select("td:nth-child(8)").text() + " - "
                                 + tr.select("td:nth-child(10)").text() + ")";
                     shortDesciption += assumeTime;
+
+                    matcher = pattern.matcher(name);
+                    name = matcher.replaceAll("");
+
+                    matcher = pattern.matcher(otherName);
+                    otherName = matcher.replaceAll("");
+
+                    matcher = pattern.matcher(familyMember);
+                    familyMember = matcher.replaceAll("");
+
+                    matcher = pattern.matcher(dynasty);
+                    dynasty = matcher.replaceAll("");
+
+                    matcher = pattern.matcher(shortDesciption);
+                    shortDesciption = matcher.replaceAll("");
+
                     figures.add(new HistoricalFigure(name, otherName, "unknow", familyMember, dynasty, shortDesciption));
                 }
             }

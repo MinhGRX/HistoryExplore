@@ -1,3 +1,4 @@
+package explore.location;
 public class TourismLocation {
     
     private String name;
