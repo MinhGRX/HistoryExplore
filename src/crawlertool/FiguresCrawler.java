@@ -31,6 +31,16 @@ public class FiguresCrawler {
 				return null;
 			}
         }
+    private static int getDynasty(String name, List<String>kings) {
+        int i = 0;
+        for(String king: kings)
+        {
+            if(king.contains(name))
+                return i;
+            i++;
+        }
+        return 0;
+    }
 
   	private static void crawlVietNamKings() {
 		List<HistoricalFigure> figures = new ArrayList<HistoricalFigure>();
@@ -43,50 +53,59 @@ public class FiguresCrawler {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		String shortDesciption;
+        
+        // List emperors of dynasties
+        List<String> dynasties = new ArrayList<String>();
+        List<String> kings = new ArrayList<String>();
+        for(Element tr : doc.select("#mw-content-text > div.mw-parser-output > div.navbox > table > tbody > tr")) {
+                dynasties.add(tr.selectFirst("th").text());
+                kings.add(tr.select("td > div").text());
+        }
+        dynasties.set(0, "");
+        String shortDesciption;
 		String name;
 		String otherName;
 		String dynasty;
 		String familyMember;
-		Element table;
 		String assumeTime;
+
+        // Regex to remove unnecessary charracters
 		Pattern pattern = Pattern.compile("\\[\\w+\\]");
 		Matcher matcher;
 
-		for (Element h3 : doc.select("#mw-content-text > div.mw-parser-output > h3")) {
-			dynasty = h3.select(".mw-headline").text();
-			table = h3.nextElementSibling();
-			while (table.selectFirst("tbody") == null) 
-				table = table.nextElementSibling();
-			for (Element tr : table.selectFirst("tbody").select("tr")) {
-				if (!tr.attr("style").equals("background:#bdbbd7; height:18px;")) {
-					shortDesciption = "King of Viet Nam";
-					name = tr.select("td:nth-child(2)").text();
-					otherName = tr.select("td:nth-child(6)").text();
-					familyMember = tr.select("td:nth-child(7)").text();
-					assumeTime = "(" + tr.select("td:nth-child(8)").text() +
-								" - " + tr.select("td:nth-child(10)").text() + ")";
-					shortDesciption += assumeTime;
+		for (Element table : doc.select("#mw-content-text > div.mw-parser-output table")) {
+            if(table.attr("cellpadding").equals("0"))
+                for (Element tr : table.selectFirst("tbody").select("tr")) {
+                    if (!tr.attr("style").equals("background:#bdbbd7; height:18px;")) {
+                        shortDesciption = "King of Viet Nam";
+                        name = tr.select("td:nth-child(2)").text();
+                        otherName = tr.select("td:nth-child(6)").text();
+                        familyMember = tr.select("td:nth-child(7)").text();
+                        assumeTime = "(" + tr.select("td:nth-child(8)").text() +
+                                    " - " + tr.select("td:nth-child(10)").text() + ")";
+                        shortDesciption += assumeTime;
+                        dynasty = dynasties.get(getDynasty(name, kings));
 
-					// Standart name
-					matcher = pattern.matcher(name);
-					name = matcher.replaceAll("");
-					//Standart otherName
-					matcher = pattern.matcher(otherName);
-					otherName = matcher.replaceAll("");
-					//Standart familyMember
-					matcher = pattern.matcher(familyMember);
-					familyMember = matcher.replaceAll("");
-					//Standart dynasty
-					matcher = pattern.matcher(dynasty);
-					dynasty = matcher.replaceAll("");
-					//Standart shortDescription
-					matcher = pattern.matcher(shortDesciption);
-					shortDesciption = matcher.replaceAll("");
+                        // Standart name
+                        matcher = pattern.matcher(name);
+                        name = matcher.replaceAll("");
+                        //Standart otherName
+                        matcher = pattern.matcher(otherName);
+                        otherName = matcher.replaceAll("");
+                        //Standart familyMember
+                        matcher = pattern.matcher(familyMember);
+                        familyMember = matcher.replaceAll("");
+                        //Standart dynasty
+                        matcher = pattern.matcher(dynasty);
+                        dynasty = matcher.replaceAll("");
+                        //Standart shortDescription
+                        matcher = pattern.matcher(shortDesciption);
+                        shortDesciption = matcher.replaceAll("");
 
-					figures.add(new HistoricalFigure(name, otherName, "unknow", familyMember, dynasty, shortDesciption));
-				}
-			}
+
+                        figures.add(new HistoricalFigure(name, otherName, "unknow", familyMember, dynasty, shortDesciption));
+                    }
+                }
 		}
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		String json = gson.toJson(figures);
@@ -95,6 +114,6 @@ public class FiguresCrawler {
 	}
 
 	public static void main(String[] args) {
-		crawlVietNamKings();
-	}
+        crawlVietNamKings();
+    }
 }
