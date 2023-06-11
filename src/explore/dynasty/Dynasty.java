@@ -3,7 +3,7 @@ public class Dynasty {
     private String name;
     private String founder;
     private String capital;
-    private String reignTime;
+    private String time;
 
     // Getters
     public String getName() {
@@ -15,15 +15,15 @@ public class Dynasty {
     public String getCapital() {
         return capital;
     }
-    public String getReignTime() {
-        return reignTime;
+    public String gettime() {
+        return time;
     }
 
     // Contructors
-    public Dynasty(String name, String founder, String capital, String reignTime) {
+    public Dynasty(String name, String founder, String capital, String time) {
         this.name = name;
         this.founder = founder;
         this.capital = capital;
-        this.reignTime = reignTime;
+        this.time = time;
     }    
 }

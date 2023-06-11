@@ -94,7 +94,104 @@ public class FiguresCrawler {
 		writer.close();
 	}
 
-	public static void main(String[] args) {
-		crawlVietNamKings();
-	}
+	public static void main(String[] args) throws IOException{
+        String a = null;
+        String b = null;
+        String c = null;
+        String d = null;
+        String sinh = null;
+        String mat = null;
+        int count = 0;
+        int count1 = 0;
+        String[] trieuDai = new String[25];
+        final Gson gson = new Gson();
+        final String url = "https://vi.wikipedia.org/wiki/Vua_Việt_Nam";
+        try {
+            final Document doc = Jsoup.connect(url).get();
+            System.out.println(doc.title());
+            doc.select("sup").remove();
+            Elements rows = doc.select("tr[style*=\"height:50px;\"]");
+            Elements trieuDais = doc.getElementsByClass("vector-toc-text");
+            kings[] king = new kings[rows.size()];
+            for (Element row : rows) {
+                Element link = row.select("tr td:nth-child(2)").first();
+                a = link.text().replaceAll("\\[+[0-9a-zA-Z]+\\]", "");
+                Element hrefs = link.select("a[href]").first();
+                String hreff = "https://vi.wikipedia.org" + hrefs.attr("href");
+                try {
+                    Document document = Jsoup.connect(URLDecoder.decode(hreff, "UTF-8")).get();
+                        Element box = document.getElementsByClass("infobox").first();
+                        if (box != null) {
+                            Elements trs = box.getElementsByTag("tr");
+                            for (Element tr : trs) {
+                                mat = tr.text();
+                                if (mat.startsWith("Sinh")) {
+                                    sinh = tr.text().replaceAll("\\[+[0-9aAàÀảẢãÃáÁạẠăĂằẰẳẲẵẴắẮặẶâÂầẦẩẨẫẪấẤậẬbBcCdDđĐeEèÈẻẺẽẼéÉẹẸêÊềỀểỂễỄếẾệỆfFgGhHiIìÌỉỈĩĨíÍịỊjJkKlLmMnNoOòÒỏỎõÕóÓọỌôÔồỒổỔỗỖốỐộỘơƠờỜởỞỡỠớỚợỢpPqQrRsStTuUùÙủỦũŨúÚụỤưƯừỪửỬữỮứỨựỰvVwWxXyYỳỲỷỶỹỸýÝỵỴzZ ]+\\]", "");
+                                    sinh = sinh.replaceAll("\\bSinh ?\\b", "");
+                                }
+                                if (mat.startsWith("Mất")) {
+                                    mat = tr.text().replaceAll("\\[+[0-9aAàÀảẢãÃáÁạẠăĂằẰẳẲẵẴắẮặẶâÂầẦẩẨẫẪấẤậẬbBcCdDđĐeEèÈẻẺẽẼéÉẹẸêÊềỀểỂễỄếẾệỆfFgGhHiIìÌỉỈĩĨíÍịỊjJkKlLmMnNoOòÒỏỎõÕóÓọỌôÔồỒổỔỗỖốỐộỘơƠờỜởỞỡỠớỚợỢpPqQrRsStTuUùÙủỦũŨúÚụỤưƯừỪửỬữỮứỨựỰvVwWxXyYỳỲỷỶỹỸýÝỵỴzZ ]+\\]", "");
+                                    mat = mat.replaceAll("\\bMất ?\\b", "");
+                                    break;
+                                }
+                                else mat = "?";
+                            }
+                        }
+
+                } catch (HttpStatusException e) {
+                    // handle the HTTP error status code here
+                    int statusCode = e.getStatusCode();
+                    if (statusCode == 400 || statusCode == 404) {
+                        sinh = "?";
+                        mat = "?";
+                        System.out.println("Error: " + e.getMessage());
+                    } else {
+                        e.printStackTrace();
+                    }
+                } catch (IOException e) {
+                    // handle any other IO exceptions here
+                    e.printStackTrace();
+                }
+                b = row.select("tr td:nth-child(5)").text().replaceAll("\\[+[0-9a-zA-Z]+\\]", "");
+                c = row.select("tr td:nth-child(n+8)").text().replaceAll("\\[+[0-9a-zA-Z]+\\]", "");
+                d = row.select("tr td:nth-child(7)").text().replaceAll("\\[+[0-9a-zA-Z]+\\]", "");
+                king[count] = new kings(count + 1, a, sinh, mat,null, b, c, d);
+                sinh = "?";
+                mat = "?";
+                count++;
+
+            }
+            Elements div = doc.getElementsByClass("vector-toc-text");
+            for(Element thoiKy : div){
+                Element thuTu = thoiKy.getElementsByClass("vector-toc-numb").first();
+                if(thuTu != null && !NumberUtils.isDigits(thuTu.text())&& Double.parseDouble(thuTu.text())>1 && Double.parseDouble(thuTu.text()) < 11 ){
+                    trieuDai[count1] = thoiKy.text().replaceAll("\\((.*?)\\)|[0-9.]|hoặc","");
+                    count1++;
+                }
+            }
+            count1 = 0;
+            int count2 = 0;
+            Elements tables = doc.getElementsByTag("table");
+            for (Element table : tables) {
+                Elements rowss = table.select("tr[style*=\"height:50px;\"]");
+                if (rowss.size() != 0) {
+                    for (Element row : rowss) {
+                        king[count1].setTrieuDai(trieuDai[count2]);
+                        count1++;
+                    }
+                    count2++;
+                }
+            }
+            for (int i = 1; i <= count; i++) {
+                FileWriter writer = new FileWriter("vua\\" + i + ".json");
+                String json = gson.toJson(king[i - 1]);
+                writer.write(json);
+                writer.close();
+            }
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+
+    }
 }
