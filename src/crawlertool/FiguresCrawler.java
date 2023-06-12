@@ -13,6 +13,7 @@ import org.jsoup.nodes.Element;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+import explore.figures.Emperor;
 import explore.figures.HistoricalFigure;
 
 public class FiguresCrawler {
@@ -31,12 +32,13 @@ public class FiguresCrawler {
 				return null;
 			}
         }
-    private static int getDynasty(String name, List<String>kings) {
+    private static int getDynasty(List<String> names, List<String>kings) {
         int i = 0;
         for(String king: kings)
         {
-            if(king.contains(name))
-                return i;
+            for(String name: names)
+                if(king.contains(name))
+                    return i;
             i++;
         }
         return 0;
@@ -64,47 +66,43 @@ public class FiguresCrawler {
         dynasties.set(0, "");
         String shortDesciption;
 		String name;
-		String otherName;
 		String dynasty;
-		String familyMember;
 		String assumeTime;
+        List<String> names;
 
         // Regex to remove unnecessary charracters
 		Pattern pattern = Pattern.compile("\\[\\w+\\]");
-		Matcher matcher;
 
+        shortDesciption = "Vua Việt Nam";
 		for (Element table : doc.select("#mw-content-text > div.mw-parser-output table")) {
             if(table.attr("cellpadding").equals("0"))
                 for (Element tr : table.selectFirst("tbody").select("tr")) {
                     if (!tr.attr("style").equals("background:#bdbbd7; height:18px;")) {
-                        shortDesciption = "King of Viet Nam";
+                        names = new ArrayList<String>();
                         name = tr.select("td:nth-child(2)").text();
-                        otherName = tr.select("td:nth-child(6)").text();
-                        familyMember = tr.select("td:nth-child(7)").text();
-                        assumeTime = "(" + tr.select("td:nth-child(8)").text() +
-                                    " - " + tr.select("td:nth-child(10)").text() + ")";
-                        shortDesciption += assumeTime;
-                        dynasty = dynasties.get(getDynasty(name, kings));
+                        name = pattern.matcher(name).replaceAll("");
 
-                        // Standart name
-                        matcher = pattern.matcher(name);
-                        name = matcher.replaceAll("");
-                        //Standart otherName
-                        matcher = pattern.matcher(otherName);
-                        otherName = matcher.replaceAll("");
-                        //Standart familyMember
-                        matcher = pattern.matcher(familyMember);
-                        familyMember = matcher.replaceAll("");
-                        //Standart dynasty
-                        matcher = pattern.matcher(dynasty);
-                        dynasty = matcher.replaceAll("");
-                        //Standart shortDescription
-                        matcher = pattern.matcher(shortDesciption);
-                        shortDesciption = matcher.replaceAll("");
+                        assumeTime = tr.select("td:nth-child(8)").text() +
+                                    " - " + tr.select("td:nth-child(10)").text();
+                        assumeTime = pattern.matcher(assumeTime).replaceAll("");
+                        
+                        names.add(name);
+                        for(String x : tr.select("td:nth-child(4)").text().split(", ")) {
+                            x = pattern.matcher(x).replaceAll("");
+                            if(!names.contains(x))
+                                names.add(x);
+                        }
+                        for(String x : tr.select("td:nth-child(6)").text().split(", ")) {
+                            x = pattern.matcher(x).replaceAll("");
+                            if(!names.contains(x))
+                                names.add(x);
+                        }
 
+                        dynasty = dynasties.get(getDynasty(names, kings));
+                        dynasty = pattern.matcher(dynasty).replaceAll("");
 
-                        figures.add(new HistoricalFigure(name, otherName, "unknow", familyMember, dynasty, shortDesciption));
-                    }
+                        if(!name.isEmpty())
+                            figures.add(new Emperor(name, names, "unknow", shortDesciption, dynasty, assumeTime));                  }
                 }
 		}
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
