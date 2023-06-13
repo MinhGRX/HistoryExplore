@@ -65,10 +65,38 @@ public class EventCrawler {
         writer.close();
     }
 
-    private static void crawFestival() {
-        
+    private static void crawlFestival() {
+        String url = "https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_Vi%E1%BB%87t_Nam";
+        List<Festival> events = new ArrayList<Festival>();
+        String name;
+        String time;
+        String location;
+        String relativeFigure;
+
+        Document doc = new Document("UTF-8");
+        try {
+            doc = Jsoup.connect(url).get();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        for(Element tr : doc.select("#mw-content-text > div.mw-parser-output > table.prettytable.wikitable > tbody > tr")) {
+            if(!tr.attr("bgcolor").equals("#CCCCCC")) {
+                time = tr.select("td:nth-child(1)").text();
+                location = tr.select("td:nth-child(2)").text();
+                name = tr.select("td:nth-child(3)").text();
+                relativeFigure = tr.select("td:nth-child(5)").text();
+                events.add(new Festival(name, time, location, relativeFigure));
+            }
+        }
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        String json = gson.toJson(events);
+        PrintWriter writer = createAppendFileWriter("VietNamFestival.json");
+        writer.print(json);
+        writer.close();
     }
     public static void main(String[] args) {
+        crawlFestival();
         crawlWar();
     }
 

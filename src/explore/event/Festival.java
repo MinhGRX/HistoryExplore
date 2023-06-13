@@ -1,15 +1,13 @@
 package explore.event;
 
-import java.util.List;
-
 public class Festival extends Event{
-    private List<String> relativeFigures;
+    private String relativeFigures;
     
-    public List<String> getRelativeFigures() {
+    public String getRelativeFigures() {
         return relativeFigures;
     }
 
-    public Festival(String name, String occurTime, String location, List<String> relativeFigures) {
+    public Festival(String name, String occurTime, String location, String relativeFigures) {
         super(name, occurTime, location);
         this.relativeFigures = relativeFigures;
     }  
