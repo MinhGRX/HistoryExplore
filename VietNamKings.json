@@ -7,7 +7,7 @@
       "Kinh Dương Vương",
       "Lộc Tục"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -18,7 +18,7 @@
       "Lạc Long Quân",
       "Sùng Lãm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -27,10 +27,9 @@
     "name": "Hùng Vương thứ nhất",
     "otherName": [
       "Hùng Vương thứ nhất",
-      "Hùng Quốc Vương",
-      "không rõ"
+      "Hùng Quốc Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -39,10 +38,9 @@
     "name": "Hùng Vương thứ hai",
     "otherName": [
       "Hùng Vương thứ hai",
-      "Hùng Hiền Vương",
-      "không rõ"
+      "Hùng Hiền Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -51,22 +49,20 @@
     "name": "Hùng Vương thứ ba",
     "otherName": [
       "Hùng Vương thứ ba",
-      "Hùng Lân Vương",
-      "không rõ"
+      "Hùng Lân Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ tư",
     "otherName": [
       "Hùng Vương thứ tư",
-      "Hùng Diệp Vương",
-      "không rõ"
+      "Hùng Diệp Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -75,26 +71,24 @@
     "name": "Hùng Vương thứ năm",
     "otherName": [
       "Hùng Vương thứ năm",
-      "Hùng Hy Vương",
-      "không rõ"
+      "Hùng Hy Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ sáu",
     "otherName": [
       "Hùng Vương thứ sáu",
-      "Hùng Huy Vương",
-      "không rõ"
+      "Hùng Huy Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ bảy",
     "otherName": [
@@ -102,11 +96,11 @@
       "Hùng Chiêu Vương",
       "Lang Liêu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ tám",
     "otherName": [
@@ -114,7 +108,7 @@
       "Hùng Vĩ Vương",
       "Thừa Vân Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -126,11 +120,11 @@
       "Hùng Định Vương",
       "Quân Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ mười",
     "otherName": [
@@ -138,11 +132,11 @@
       "Hùng Uy Vương",
       "Hùng Hải Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 11",
     "otherName": [
@@ -150,23 +144,22 @@
       "Hùng Trinh Vương",
       "Hưng Đức Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 12",
     "otherName": [
       "Hùng Vương thứ 12",
-      "Hùng Vũ Vương",
-      "không rõ"
+      "Hùng Vũ Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 13",
     "otherName": [
@@ -174,11 +167,11 @@
       "Hùng Việt Vương",
       "Tuấn Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 14",
     "otherName": [
@@ -186,11 +179,11 @@
       "Hùng Anh Vương",
       "Chân Nhân Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 15",
     "otherName": [
@@ -198,11 +191,11 @@
       "Hùng Triêu Vương",
       "Cảnh Chiêu Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 16",
     "otherName": [
@@ -210,19 +203,18 @@
       "Hùng Tạo Vương",
       "Đức Quân Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "? - ?",
     "name": "Hùng Vương thứ 17",
     "otherName": [
       "Hùng Vương thứ 17",
-      "Hùng Nghị Vương",
-      "không rõ"
+      "Hùng Nghị Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -231,10 +223,9 @@
     "name": "Hùng Vương thứ 18",
     "otherName": [
       "Hùng Vương thứ 18",
-      "Hùng Duệ Vương Hùng Tuyền Vương",
-      "không rõ"
+      "Hùng Duệ Vương Hùng Tuyền Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -246,7 +237,7 @@
       "Hùng Kính Vương",
       "Huệ Lang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -257,7 +248,7 @@
       "An Dương Vương",
       "Thục Phán (蜀泮)"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -269,7 +260,7 @@
       "Vũ Vương Vũ Đế",
       "Triệu Đà"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -281,7 +272,7 @@
       "Văn Vương Văn Đế",
       "Triệu Hồ Triệu Muội"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -293,7 +284,7 @@
       "Minh Vương",
       "Triệu Anh Tề"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -305,7 +296,7 @@
       "Ai Vương",
       "Triệu Hưng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -317,7 +308,7 @@
       "Dương Vương Thuật Dương Vương Vệ Dương vương Vệ Dương hầu",
       "Triệu Kiến Đức"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -329,7 +320,7 @@
       "Trinh Linh Chi Phu Nhân",
       "Trưng Trắc (徵側) Lạc Trắc"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -342,7 +333,7 @@
       "Nam Việt Đế",
       "Lý Bí Lý Bôn (李賁)"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -355,7 +346,7 @@
       "Dạ Trạch Vương Thần Vũ Hoàng Đế",
       "Triệu Quang Phục (趙光復)"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -364,10 +355,9 @@
     "name": "Đào Lang Vương",
     "otherName": [
       "Đào Lang Vương",
-      "không có",
       "Lý Thiên Bảo"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -379,7 +369,7 @@
       "Nam Đế Anh Liệt Nhân Hiếu Khâm Minh Thánh Vũ Hoàng Đế",
       "Lý Phật Tử (李佛子)"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -387,10 +377,9 @@
     "reignTime": "602 - 603",
     "name": "Lý Sư Lợi",
     "otherName": [
-      "Lý Sư Lợi",
-      "không có"
+      "Lý Sư Lợi"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -403,7 +392,7 @@
       "Hắc Đế",
       "Mai Thúc Loan, (梅叔鸞) Mai Huyền Thành, Mai Lập Thành, Mai Thúc Yên, Mai Phượng."
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -412,11 +401,10 @@
     "name": "Mai Thiếu Đế",
     "otherName": [
       "Mai Thiếu Đế",
-      "không có",
       "Mai Thúc Huy",
       "Mai Bảo Sơn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -425,10 +413,9 @@
     "name": "Bạch Đầu Đế",
     "otherName": [
       "Bạch Đầu Đế",
-      "không có",
       "Mai Kỳ Sơn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -441,7 +428,7 @@
       "Phùng Hưng (馮興)",
       "Phùng Cự Lão"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -449,10 +436,9 @@
     "reignTime": "791 - 791",
     "name": "Phùng An",
     "otherName": [
-      "Phùng An",
-      "không có"
+      "Phùng An"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -464,7 +450,7 @@
       "Tiên Vương",
       "Khúc Thừa Dụ (曲承裕)"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -476,7 +462,7 @@
       "Trung Vương",
       "Khúc Hạo, (曲顥) Khúc Thừa Hạo"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -488,7 +474,7 @@
       "Hậu Vương",
       "Khúc Thừa Mỹ (曲承美) Khúc Toàn Mỹ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -497,10 +483,9 @@
     "name": "Dương Chính Công",
     "otherName": [
       "Dương Chính Công",
-      "không có",
       "Dương Đình Nghệ, (楊廷藝) Dương Diên Nghệ (楊筵藝)"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -509,10 +494,9 @@
     "name": "Kiều Công Tiễn",
     "otherName": [
       "Kiều Công Tiễn",
-      "không có",
       "Kiều Công Tiễn, (矯公羨) Kiểu Công Tiễn, Kiểu Công Hạo,"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -524,7 +508,7 @@
       "Nhà Đinh",
       "Nhà Lý"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -533,10 +517,9 @@
     "name": "Tiền Ngô Vương",
     "otherName": [
       "Tiền Ngô Vương",
-      "không có",
       "Ngô Quyền"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -548,7 +531,7 @@
       "Trương Dương Công",
       "Dương Tam Kha, Dương Chủ Tướng, Dương Thiệu Hồng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -557,10 +540,9 @@
     "name": "Thiên Sách Vương",
     "otherName": [
       "Thiên Sách Vương",
-      "không có",
       "Ngô Xương Ngập"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -569,10 +551,9 @@
     "name": "Nam Tấn Vương",
     "otherName": [
       "Nam Tấn Vương",
-      "không có",
       "Ngô Xương Tấn, Ngô Xương Văn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -581,10 +562,9 @@
     "name": "Ngô Sứ Quân",
     "otherName": [
       "Ngô Sứ Quân",
-      "không có",
       "Ngô Xương Xí"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -596,7 +576,7 @@
       "Tiên Hoàng Đế Đại Thắng Minh Hoàng Đế",
       "Đinh Bộ Lĩnh, Đinh Hoàn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -608,7 +588,7 @@
       "Phế Đế Thiếu Đế",
       "Đinh Toàn, Đinh Tuệ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -620,7 +600,7 @@
       "Đại Hành Hoàng Đế Minh Càn Ứng Vận Thần Vũ Thăng Bình Chí Nhân Quảng Hiếu Hoàng đế",
       "Lê Hoàn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -629,10 +609,9 @@
     "name": "Lê Trung Tông",
     "otherName": [
       "Lê Trung Tông",
-      "không có",
       "Lê Long Việt"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -644,7 +623,7 @@
       "Khai Thiên Ứng Vận Thánh Văn Thần Vũ Tắc Thiên Sùng Đạo Đại Thắng Minh Quang Hiếu Hoàng Đế Ngọa Triều Hoàng Đế",
       "Lê Long Đĩnh,"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -656,7 +635,7 @@
       "Thần Vũ Hoàng Đế",
       "Lý Công Uẩn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -668,7 +647,7 @@
       "Từ Hiếu Hoàng đế",
       "Lý Phật Mã, Lý Đức Chính"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -680,7 +659,7 @@
       "Thánh Thần Hoàng đế",
       "Lý Nhật Tôn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -692,7 +671,7 @@
       "Hiếu Từ Thánh Thần Văn Vũ Hoàng Đế",
       "Lý Càn Đức"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -704,7 +683,7 @@
       "Quảng Văn Sùng Hiếu Khâm Minh Văn Vũ Hoàng Đế",
       "Lý Dương Hoán"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -716,7 +695,7 @@
       "Chí Hiếu Hoàng Đế",
       "Lý Thiên Tộ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -728,7 +707,7 @@
       "Quang Hiếu Hoàng Đế",
       "Lý Long Cán Lý Long Trát"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -736,10 +715,9 @@
     "reignTime": "1209 - 1209",
     "name": "Lý Thẩm",
     "otherName": [
-      "Lý Thẩm",
-      "không có"
+      "Lý Thẩm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -751,7 +729,7 @@
       "Hoành Hiếu Hoàng đế",
       "Lý Sảm, Lý Hạo Sảm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -760,10 +738,9 @@
     "name": "Lý Nguyên Vương",
     "otherName": [
       "Lý Nguyên Vương",
-      "Nguyên Vương Văn Vương",
-      "không rõ"
+      "Nguyên Vương Văn Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -775,7 +752,7 @@
       "Chiêu Hoàng",
       "Lý Phật Kim, Lý Thiên Hinh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -787,7 +764,7 @@
       "Thống Thiên Ngự Cực Long Công Hậu Đức Hiền Công Hựu Thuận Thánh Văn Thần Vũ Hiếu Nguyên Hoàng Đế",
       "Trần Cảnh Trần Bồ Trần Quang Bỉnh Trần Nhật Cảnh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -799,7 +776,7 @@
       "Huyền Công Thịnh Đức Nhân Minh Văn Vũ Tuyên Hiếu Hoàng Đế",
       "Trần Hoảng Trần Uy Hoảng Trần Quang Bính Trần Nhật Huyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -811,7 +788,7 @@
       "Pháp Thiên Sùng Đạo Ứng Thế Hóa Dân Long Từ Hiển Hiệu Thánh Văn Thần Vũ Nguyên Minh Duệ Hiếu Hoàng Đế",
       "Trần Khâm Trần Nhật Tuấn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -823,7 +800,7 @@
       "Hiển Văn Duệ Vũ Khâm Minh Nhân Hiếu Hoàng Đế",
       "Trần Thuyên Trần Nhật 㷃 Trần Nhật 𤊞"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -835,7 +812,7 @@
       "Chương Nghiêu Văn Triết Hoàng Đế",
       "Trần Mạnh Trần Thánh Sinh Trần Nhật Khoáng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -847,7 +824,7 @@
       " Thể Nguyên Ngự Cực Duệ Thánh Chí Hiếu Hoàng Đế",
       "Trần Vượng Trần Thiên Kiến  Trần Nhật 㷆"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -859,7 +836,7 @@
       "Thống Thiên Thể Đạo Nhân Minh Quang Hiếu Hoàng đế",
       "Trần Hạo Trần Nhật Khuê"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -871,7 +848,7 @@
       "Hôn Đức Công",
       "Trần Nhật Lễ Dương Nhật Lễ Trần Nhật Kiên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -883,7 +860,7 @@
       "Quang Nhiên Anh Triết Hoàng Đế Thể Thiên Kiến Cực Thuần Hiếu Hoàng Đế",
       "Trần Phủ Trần Thúc Minh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -895,7 +872,7 @@
       "Kế Thiên Ứng Vận Nhân Minh Khâm Hiếu Hoàng Đế",
       "Trần Kính Trần Nhật Đoan"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -907,7 +884,7 @@
       "Phế Đế",
       "Trần Hiện Trần Nhật Vĩ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -916,10 +893,9 @@
     "name": "Trần Thuận Tông",
     "otherName": [
       "Trần Thuận Tông",
-      "không có",
       "Trần Ngung Trần Nhật Hỗn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -931,7 +907,7 @@
       "Thiếu Đế",
       "Trần An"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -943,7 +919,7 @@
       "Chương Hoàng",
       "Hồ Quý Ly Hồ Nhất Nguyên Lê Quý Ly Lê Nhất Nguyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -952,10 +928,9 @@
     "name": "Hồ Hán Thương",
     "otherName": [
       "Hồ Hán Thương",
-      "không có",
       "Hồ Hán Thương Lê Hán Thương Hồ Hỏa"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -963,10 +938,9 @@
     "reignTime": "1407 - 1407",
     "name": "Trần Nguyệt Hồ",
     "otherName": [
-      "Trần Nguyệt Hồ",
-      "không có"
+      "Trần Nguyệt Hồ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -975,11 +949,10 @@
     "name": "Giản Định Đế",
     "otherName": [
       "Giản Định Đế",
-      "không có",
       "Trần Ngỗi",
       "Trần Quỹ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -988,11 +961,10 @@
     "name": "Trùng Quang Đế",
     "otherName": [
       "Trùng Quang Đế",
-      "không có",
       "Trần Quý Khoáng",
       "Trần Quý Khoách"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1001,10 +973,9 @@
     "name": "Trần Cảo",
     "otherName": [
       "Trần Cảo",
-      "không có",
       "Trần Cảo, Trần Địch, Trần Cao, Trần Hồ Ông"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1016,7 +987,7 @@
       "Thống Thiên Khải Vận Thánh Đức Thần Công Duệ Văn Anh Vũ Khoan Minh Dũng Trí Hoàng Nghĩa Chí Minh Đại Hiếu Cao Hoàng Đế",
       "Lê Lợi"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1028,7 +999,7 @@
       "Kế Thiên Thể Đạo Hiển Đức Thánh Công Khâm Minh Văn Tư Anh Duệ Triết Chiêu Hiến Kiến Trung Văn Hoàng Đế",
       "Lê Nguyên Long Lê Lân"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1040,7 +1011,7 @@
       "Khâm Văn Nhân Hiếu Tuyên Minh Thông Duệ Tuyên Hoàng Đế",
       "Lê Bang Cơ Lê Cơ Long Lê Tuấn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1052,7 +1023,7 @@
       "Lệ Đức Hầu",
       "Lê Nghi Dân Lê Tông"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1064,7 +1035,7 @@
       "Sùng Thiên Quảng Vận Cao Minh Quang Chính Chí Đức Đại Công Thánh Văn Thần Vũ Đạt Hiếu Thuần Hoàng Đế",
       "Lê Tư Thành Lê Hạo"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1076,7 +1047,7 @@
       "Thể Thiên Ngưng Đạo Mậu Đức Chí Chiêu Văn Thiệu Vũ Tuyên Triết Khâm Thành Chương Hiếu Duệ Hoàng Đế",
       "Lê Tranh Lê Sanh Lê Huy Lê Tăng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1088,7 +1059,7 @@
       "Chiêu Nghĩa Hiển Nhân Ôn Cung Uyên Mặc Hiếu Doãn Cung Khâm Hoàng Đế",
       "Lê Thuần"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1100,7 +1071,7 @@
       "Uy Mục Đế",
       "Lê Tuấn Lê Huyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1112,7 +1083,7 @@
       "Tương Dực Đế",
       "Lê Oánh Lê Oanh Lê Dinh Lê Trừu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1120,10 +1091,9 @@
     "reignTime": "1516 - 1516",
     "name": "Lê Quang Trị",
     "otherName": [
-      "Lê Quang Trị",
-      "không có"
+      "Lê Quang Trị"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1135,7 +1105,7 @@
       "Thần Hoàng Đế",
       "Lê Y Lê Huệ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1143,10 +1113,9 @@
     "reignTime": "1518 - 1519",
     "name": "Lê Bảng",
     "otherName": [
-      "Lê Bảng",
-      "không có"
+      "Lê Bảng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1155,10 +1124,9 @@
     "name": "Lê Do",
     "otherName": [
       "Lê Do",
-      "không có",
       "Lê Do Lê Dữu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1170,7 +1138,7 @@
       "Cung Hoàng Đế",
       "Lê Xuân Lê Lự Lê Khánh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1182,7 +1150,7 @@
       "Nhân Minh Cao Hoàng Đế",
       "Mạc Đăng Dung"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1194,7 +1162,7 @@
       "Khâm Triết Văn Hoàng Đế",
       "Mạc Đăng Doanh Mạc Phương Doanh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1206,7 +1174,7 @@
       "Hiển Hoàng Đế",
       "Mạc Phúc Hải Mạc Đức Nguyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1214,10 +1182,9 @@
     "reignTime": "1546 - 1547",
     "name": "Mạc Chính Trung",
     "otherName": [
-      "Mạc Chính Trung",
-      "không có"
+      "Mạc Chính Trung"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1229,7 +1196,7 @@
       "Anh Nghị Hoàng Đế Duệ Hoàng Đế",
       "Mạc Phúc Nguyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1241,7 +1208,7 @@
       "An Thiên Huy Địa Trang Văn Cẩn Vũ Bình Định Huệ Cương Hiếu Tĩnh Hoàng Đế",
       "Mạc Mậu Hợp"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1253,7 +1220,7 @@
       "Khai Thiên Xung Địa An Văn Đoạt Vũ Thành Hoàng Đế",
       "Mạc Toàn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1265,7 +1232,7 @@
       "Hoài Nghị Minh Huấn Trinh Hoàng Đế",
       "Mạc Kính Chỉ Mạc Kính Bang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1277,7 +1244,7 @@
       "Khởi Thiên Đĩnh Địa Khắc Văn Định Vũ Linh Hoàng Đế",
       "Mạc Kính Cung"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1289,7 +1256,7 @@
       "Hoà Thiên Phù Địa Độ Văn Khánh Vũ Huệ Nguyên Hoàng Đế",
       "Mạc Kính Khoan"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1301,7 +1268,7 @@
       "Trang Thiên Huệ Địa Cảnh Văn Di Vũ Khai Hoàng Đế",
       "Mạc Kính Vũ Mạc Kính Hoàn Mạc Kính Diệu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1313,7 +1280,7 @@
       "Hoàn Thiên Thanh Địa Đoạt Văn Dương Vũ Huệ Đại Vương",
       "Mạc Kính Hẻ Mạc Kính Thụy Mạc Nguyên Thanh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1325,7 +1292,7 @@
       "Thiên Địa Đại Bảo Văn Vũ Độ Đại Vương",
       "Mạc Kính Quang Mạc Kính Tiêu Mạc Kính Hoảng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1337,7 +1304,7 @@
       "Dụ Hoàng Đế",
       "Lê Ninh Lê Huyến Lê Duy Ninh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1349,7 +1316,7 @@
       "Vũ Hoàng Đế",
       "Lê Huyên Lê Duy Huyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1361,7 +1328,7 @@
       "Tuấn Hoàng Đế",
       "Lê Duy Bang"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1373,7 +1340,7 @@
       "Nghị Hoàng Đế",
       "Lê Đàm Lê Duy Đàm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1385,7 +1352,7 @@
       "Huệ Hoàng Đế Giản Huy Đế",
       "Lê Duy Tân"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1397,7 +1364,7 @@
       "Uyên Hoàng Đế",
       "Lê Duy Kỳ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1409,7 +1376,7 @@
       "Thuận Hoàng Đế",
       "Lê Duy Hựu Lê Duy Đề"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1421,7 +1388,7 @@
       "Uyên Hoàng Đế",
       "Lê Duy Kỳ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1433,7 +1400,7 @@
       "Mục Hoàng Đế",
       "Lê Duy Vũ Lê Duy Hy"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1445,7 +1412,7 @@
       "Mỹ Hoàng Đế",
       "Lê Duy Cối Lê Duy Khoái"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1457,7 +1424,7 @@
       "Chương Hoàng Đế",
       "Lê Duy Hợp Lê Duy Hiệp Lê Duy Cáp"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1469,7 +1436,7 @@
       "Hòa Hoàng Đế",
       "Lê Duy Đường Lê Duy Tạo"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1480,7 +1447,7 @@
       "Lê Duy Phường",
       "Hôn Đức Công"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1492,7 +1459,7 @@
       "Giản Hoàng Đế",
       "Lê Duy Tường Lê Duy Hỗ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1504,7 +1471,7 @@
       "Huy Hoàng Đế",
       "Lê Duy Thận Lê Duy Chấn Lê Duy Hỗ"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1516,7 +1483,7 @@
       "Vĩnh Hoàng Đế",
       "Lê Duy Diêu Lê Duy Đào"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1528,7 +1495,7 @@
       "Mẫn Hoàng Đế",
       "Lê Duy Kỳ Lê Duy Khiêm Lê Tư Khiêm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1539,7 +1506,7 @@
       "Trịnh Kiểm",
       "Minh Khang Thái Vương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1551,7 +1518,7 @@
       "Tuấn Đức Hầu",
       "Trung Quốc Công"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1563,11 +1530,11 @@
       "Triết Vương",
       "Trịnh Tùng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "Chúa Trịnh (1545–1787)",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "1623 - 1657",
     "name": "Thanh Đô Vương",
     "otherName": [
@@ -1575,7 +1542,7 @@
       "Nghị Vương",
       "Trịnh Tráng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1587,7 +1554,7 @@
       "Dương Vương",
       "Trịnh Tạc"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1599,7 +1566,7 @@
       "Khang Vương",
       "Trịnh Căn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1611,7 +1578,7 @@
       "Nhân Vương",
       "Trịnh Cương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1623,11 +1590,11 @@
       "Thuận Vương",
       "Trịnh Giang Trịnh Khương Trịnh 𣞪"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "Chúa Trịnh (1545–1787)",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "1740 - 1767",
     "name": "Minh Đô Vương",
     "otherName": [
@@ -1635,7 +1602,7 @@
       "Ân Vương",
       "Trịnh Doanh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1647,7 +1614,7 @@
       "Thịnh Vương",
       "Trịnh Sâm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1659,7 +1626,7 @@
       "Xung Mẫn Vương",
       "Trịnh Cán"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1671,7 +1638,7 @@
       "Anh Liệt Linh Vương",
       "Trịnh Khải Trịnh Tông"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1683,7 +1650,7 @@
       "Huệ Định Công",
       "Trịnh Bồng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1695,7 +1662,7 @@
       "Triệu Cơ Tùy Thống Khâm Minh Cung Ý Cần Nghĩa Đạt Lý Hiển Ứng Chiêu Hựu Diệu Linh Gia Dụ Hoàng Đế",
       "Nguyễn Hoàng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1707,7 +1674,7 @@
       "Hiển Mô Quang Liệt Ôn Cung Minh Duệ Dực Thiện Tuy Du Hiếu Văn Hoàng Đế",
       "Nguyễn Phúc Nguyên"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1719,7 +1686,7 @@
       "Thừa Cơ Toàn Thống Quân Minh Hùng Nghị Uy Đoán Anh Vũ Hiếu Chiêu Hoàng Đế",
       "Nguyễn Phúc Lan"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1731,7 +1698,7 @@
       "Tuyên Uy Kiến Vũ Anh Minh Trang Chính Thánh Đức Thần Công Hiếu Triết Hoàng Đế",
       "Nguyễn Phúc Tần Nguyễn Phúc Cần"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1743,7 +1710,7 @@
       "Thiệu Hư Toản Nghiệp Khoan Hồng Bác Hậu Ôn Huệ Từ Tường Hiếu Nghĩa Hoàng Đế",
       "Nguyễn Phúc Thái Nguyễn Phúc Trăn Nguyễn Phúc Ngàn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1755,7 +1722,7 @@
       "Anh Mô Hùng Lược Thánh Minh Tuyên Đạt Khoan Từ Nhân Thứ Hiếu Minh Hoàng Đế",
       "Nguyễn Phúc Chu Nguyễn Phúc Tùng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1767,11 +1734,11 @@
       "Tuyên Quang Thiệu Liệt Tuấn Triết Tĩnh Uyên Kinh Văn Vĩ Vũ Hiếu Ninh Hoàng Đế",
       "Nguyễn Phúc Chú Nguyễn Phúc Trú Nguyễn Phúc Thụ Nguyễn Phúc Vượng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
-    "dynasty": "Nhà Triệu (207–111 TCN)",
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
     "reignTime": "1738 - 1765",
     "name": "Vũ Vương",
     "otherName": [
@@ -1779,7 +1746,7 @@
       "Kiền Cương Uy Đoán Thần Nghị Thánh Du Nhân Từ Duệ Trí Hiếu Vũ Hoàng Đế",
       "Nguyễn Phúc Khoát Nguyễn Phúc Hiểu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1791,7 +1758,7 @@
       "Thông Minh Khoan Hậu Anh Mẫn Huệ Hòa Hiếu Định Hoàng Đế",
       "Nguyễn Phúc Thuần Nguyễn Phúc Hân"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1803,7 +1770,7 @@
       "Cung Mẫn Anh Đoán Huyền Mặc Vĩ Văn Mục Vương",
       "Nguyễn Phúc Dương"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1815,7 +1782,7 @@
       "Minh Đức Hoàng Đế",
       "Hồ Nhạc Nguyễn Nhạc Nguyễn Văn Nhạc"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1827,7 +1794,7 @@
       "Vũ Hoàng Đế Trung Thuần Vương",
       "Nguyễn Huệ Nguyễn Quang Bình Nguyễn Văn Huệ Hồ Thơm"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1836,10 +1803,9 @@
     "name": "Nguyễn Quang Toản",
     "otherName": [
       "Nguyễn Quang Toản",
-      "không có",
       "Nguyễn Quang Toản Nguyễn Trát"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1851,7 +1817,7 @@
       "Khai Thiên Hoằng Đạo Lập Kỷ Thùy Thống Thần Văn Thánh Vũ Tuấn Đức Long Công Chí Nhân Đại Hiếu Cao Hoàng Đế",
       "Nguyễn Phúc Ánh Nguyễn Phúc Chủng Nguyễn Phúc Noãn"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1863,7 +1829,7 @@
       "Thể Thiên Xương Vận Chí Hiếu Thuần Đức Văn Vũ Minh Đoán Sáng Thuật Đại Thành Hậu Trạch Phong Công Nhân Hoàng Đế",
       "Nguyễn Phúc Đảm Nguyễn Phúc Kiểu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1875,7 +1841,7 @@
       "Thiệu Thiên Long Vận Chí Thiện Thuần Hiếu Khoan Minh Duệ Đoán Văn Trị Vũ Công Thánh Triết Chương Hoàng Đế",
       "Nguyễn Phúc Miên Tông Nguyễn Phúc Tuyền Nguyễn Phúc Dung"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1887,7 +1853,7 @@
       "Thể Thiên Hanh Vận Chí Thành Đạt Hiếu Thể Kiện Đôn Nhân Khiêm Cung Minh Lược Duệ Văn Anh Hoàng Đế",
       "Nguyễn Phúc Hồng Nhậm Nguyễn Phúc Thì"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1899,7 +1865,7 @@
       "Huệ Hoàng Đế",
       "Nguyễn Phúc Ưng Chân Nguyễn Phúc Ưng Ái"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1911,7 +1877,7 @@
       "Phế Đế",
       "Nguyễn Phúc Hồng Dật Nguyễn Phúc Thăng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1923,7 +1889,7 @@
       "Thiệu Đức Chí Hiếu Uyên Duệ Nghị Hoàng Đế",
       "Nguyễn Phúc Ưng Đăng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1935,7 +1901,7 @@
       "Xuất Đế",
       "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1947,7 +1913,7 @@
       "Hoằng Liệt Thống Thiết Mẫn Huệ Thuần Hoàng Đế",
       "Nguyễn Phúc Ưng Kỷ Nguyễn Phúc Ưng Đường Nguyễn Phúc Ưng Thị Nguyễn Phúc Biện Chánh Mông"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1959,7 +1925,7 @@
       "Phế Đế",
       "Nguyễn Phúc Bửu Lân Nguyễn Phúc Chiêu"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1971,7 +1937,7 @@
       "Phế Đế",
       "Nguyễn Phúc Vĩnh San Nguyễn Phúc Hoảng"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1983,7 +1949,7 @@
       "Tự Thiên Gia Vận Thánh Minh Thần Trí Nhân Hiếu Thành Kính Di Mô Thừa Liệt Tuyên Hoàng Đế",
       "Nguyễn Phúc Bửu Đảo"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   },
   {
@@ -1992,10 +1958,9 @@
     "name": "Bảo Đại",
     "otherName": [
       "Bảo Đại",
-      "không có",
       "Nguyễn Phúc Vĩnh Thụy Nguyễn Phúc Thiển"
     ],
-    "lifeTime": "unknow",
+    "lifeTime": "",
     "category": "Vua Việt Nam"
   }
 ]

@@ -37,7 +37,7 @@ public class FiguresCrawler {
         for(String king: kings)
         {
             for(String name: names)
-                if(king.contains(name))
+                if(king.toLowerCase().contains(name.toLowerCase()))
                     return i;
             i++;
         }
@@ -68,6 +68,7 @@ public class FiguresCrawler {
 		String name;
 		String dynasty;
 		String assumeTime;
+        //String lifeTime;
         List<String> names;
 
         // Regex to remove unnecessary charracters
@@ -86,15 +87,17 @@ public class FiguresCrawler {
                                     " - " + tr.select("td:nth-child(10)").text();
                         assumeTime = pattern.matcher(assumeTime).replaceAll("");
                         
+                        //lifeTime = getLivingTime(tr.selectFirst("td:nth-child(2) > b > a").attr("href"));
+
                         names.add(name);
                         for(String x : tr.select("td:nth-child(4)").text().split(", ")) {
                             x = pattern.matcher(x).replaceAll("");
-                            if(!names.contains(x))
+                            if(!names.contains(x) && !x.contains("không"))
                                 names.add(x);
                         }
                         for(String x : tr.select("td:nth-child(6)").text().split(", ")) {
                             x = pattern.matcher(x).replaceAll("");
-                            if(!names.contains(x))
+                            if(!names.contains(x) && !x.contains("không"))
                                 names.add(x);
                         }
 
@@ -102,7 +105,7 @@ public class FiguresCrawler {
                         dynasty = pattern.matcher(dynasty).replaceAll("");
 
                         if(!name.isEmpty())
-                            figures.add(new Emperor(name, names, "unknow", shortDesciption, dynasty, assumeTime));                  }
+                            figures.add(new Emperor(name, names, "", shortDesciption, dynasty, assumeTime));                  }
                 }
 		}
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();

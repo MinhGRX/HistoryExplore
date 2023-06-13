@@ -1,0 +1,1698 @@
+[
+  {
+    "homeForce": "Văn Lang (Lạc Việt) thời Hùng Vương",
+    "enemyForce": "Âu Việt của Thục Phán",
+    "result": "Thay đổi lãnh thổ và triều đại Đất đai Văn Lang sáp nhập vào nhà nước của người Âu Việt Thục Phán lên ngôi Nước Âu Lạc và Nhà Thục thành lập",
+    "name": "Chiến tranh giữa người Âu Việt và Lạc Việt (thế kỷ 3 TCN)",
+    "occurTime": "thế kỷ 3 TCN",
+    "location": ""
+  },
+  {
+    "homeForce": "Các bộ tộc Bách Việt: Âu Lạc thời Nhà Thục Mân Việt Nam Việt Đông Việt",
+    "enemyForce": "Nhà Tần",
+    "result": "Thay đổi lãnh thổ Mân Việt, Nam Việt và Đông Việt bị sáp nhập vào Nhà Tần Âu Lạc giữ được độc lập",
+    "name": "Chiến tranh Bách Việt-Tần (218 TCN - 208 TCN)",
+    "occurTime": "218 TCN - 208 TCN",
+    "location": ""
+  },
+  {
+    "homeForce": "Âu Lạc thời Nhà Thục",
+    "enemyForce": "Nam Việt của Triệu Đà",
+    "result": "Thất bại Âu Lạc sáp nhập vào Nam Việt",
+    "name": "Chiến tranh Âu Lạc-Nam Việt (207 TCN hoặc 179 TCN)",
+    "occurTime": "207 TCN hoặc 179 TCN",
+    "location": ""
+  },
+  {
+    "homeForce": "Nam Việt thời Nhà Triệu",
+    "enemyForce": "Nhà Tây Hán",
+    "result": "Thất bại Nam Việt bị sáp nhập vào Nhà Tây Hán Bắt đầu thời kỳ Bắc thuộc lần 1",
+    "name": "Chiến tranh Nam Việt-Tây Hán (111 TCN)",
+    "occurTime": "111 TCN",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Tây Vu Vương ở Quận Giao Chỉ và Quận Cửu Chân",
+    "enemyForce": "Nhà Đông Hán",
+    "result": "Thất bại Tây Vu Vương bị giết",
+    "name": "Nổi dậy Tây Vu Vương (111 TCN)",
+    "occurTime": "111 TCN",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Hai Bà Trưng ở Giao Chỉ",
+    "enemyForce": "Nhà Đông Hán",
+    "result": "Chiến thắng Trưng Trắc tự xưng vua Nước Lĩnh Nam của Trưng Vương được thành lập Chấm dứt thời kỳ Bắc thuộc lần 1",
+    "name": "Khởi nghĩa Hai Bà Trưng (40)",
+    "occurTime": "40",
+    "location": ""
+  },
+  {
+    "homeForce": "Lĩnh Nam thời Trưng Vương",
+    "enemyForce": "Nhà Đông Hán",
+    "result": "Thất bại Hai Bà Trưng tự vẫn Lĩnh Nam bị sáp nhập vào Nhà Đông Hán Bắt đầu thời kỳ Bắc thuộc lần 2",
+    "name": "Chiến tranh Lĩnh Nam-Đông Hán (42 - 43)",
+    "occurTime": "42 - 43",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Chu Đạt ở Quận Cửu Chân",
+    "enemyForce": "Nhà Đông Hán",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Chu Đạt (157 - 160)",
+    "occurTime": "157 - 160",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lương Long ở Quận Giao Chỉ, Quận Cửu Chân, Quận Nhật Nam và Quận Hợp Phố",
+    "enemyForce": "Nhà Đông Hán",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Lương Long (178 - 181)",
+    "occurTime": "178 - 181",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Khu Liên ở Quận Nhật Nam",
+    "enemyForce": "Nhà Đông Hán",
+    "result": "Chiến thắng Nước Lâm Ấp của Chăm Pa được thành lập ở phía nam",
+    "name": "Khởi nghĩa Khu Liên (192)",
+    "occurTime": "192",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Bà Triệu ở Giao Châu",
+    "enemyForce": "Nhà Đông Ngô",
+    "result": "Thất bại Bà Triệu tự vẫn",
+    "name": "Khởi nghĩa Bà Triệu (248)",
+    "occurTime": "248",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đông Ngô",
+    "enemyForce": "Nhà Tây Tấn",
+    "result": "Nhà Đông Ngô chiến thắng Nhà Đông Ngô thu hồi được Giao Châu",
+    "name": "Chiến dịch Giao-Quảng (268 - 271)",
+    "occurTime": "268 - 271",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Triệu Chỉ ở Quận Cửu Chân",
+    "enemyForce": "Nhà Tây Tấn",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Triệu Chỉ (299)",
+    "occurTime": "299",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lương Thạc ở Giao Châu",
+    "enemyForce": "Nhà Đông Tấn",
+    "result": "Thất bại Nổi loạn bị đánh dẹp",
+    "name": "Nổi loạn Lương Thạc (317 - 323)",
+    "occurTime": "317 - 323",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đông Tấn",
+    "enemyForce": "Lâm Ấp",
+    "result": "Nhà Đông Tấn chiến thắng Lâm Ấp bị tàn phá",
+    "name": "Xung đột Đông Tấn-Lâm Ấp lần 1 (351 - 359)",
+    "occurTime": "351 - 359",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đông Tấn",
+    "enemyForce": "Lâm Ấp",
+    "result": "Nhà Đông Tấn chiến thắng Quân Lâm Ấp bị đẩy lui",
+    "name": "Xung đột Đông Tấn-Lâm Ấp lần 2 (399)",
+    "occurTime": "399",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đông Tấn",
+    "enemyForce": "Lâm Ấp",
+    "result": "Nhà Đông Tấn chiến thắng Quân Lâm Ấp bị đẩy lui",
+    "name": "Xung đột Đông Tấn-Lâm Ấp lần 3 (413 - 415)",
+    "occurTime": "413 - 415",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Lưu Tống",
+    "enemyForce": "Lâm Ấp",
+    "result": "Nhà Lưu Tống chiến thắng Lâm Ấp suy yếu",
+    "name": "Xung đột Lưu Tống-Lâm Ấp (445 - 446)",
+    "occurTime": "445 - 446",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lý Trường Nhân ở Giao Châu",
+    "enemyForce": "Nhà Lưu Tống",
+    "result": "Chiến thắng Nhà Lưu Tống chấp nhận phong Lý Trường Nhân làm Thứ sử",
+    "name": "Nổi loạn Lý Trường Nhân (468)",
+    "occurTime": "468",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lý Bí ở Giao Châu",
+    "enemyForce": "Nhà Lương Lâm Ấp",
+    "result": "Chiến thắng Lý Bí lên ngôi Nước Vạn Xuân và Nhà Tiền Lý thành lập Chấm dứt thời kỳ Bắc thuộc lần 2",
+    "name": "Khởi nghĩa Lý Bí (542)",
+    "occurTime": "542",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Triệu Quang Phục ở Vạn Xuân",
+    "enemyForce": "Lực lượng Lý Phật Tử ở Dã Năng",
+    "result": "Thay đổi lãnh thổ và ngôi vị Lý Phật Tử lên ngôi Dã Năng sáp nhập vào Vạn Xuân",
+    "name": "Chiến tranh Vạn Xuân-Dã Năng (557 - 571)",
+    "occurTime": "557 - 571",
+    "location": ""
+  },
+  {
+    "homeForce": "Vạn Xuân thời Nhà Tiền Lý",
+    "enemyForce": "Nhà Tùy",
+    "result": "Thất bại Lý Phật Tử bị bắt Vạn Xuân bị sáp nhập vào Nhà Tùy Bắt đầu thời kỳ Bắc thuộc lần 3",
+    "name": "Chiến tranh Vạn Xuân-Tùy (602)",
+    "occurTime": "602",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lý Tự Tiên và Đinh Kiến ở An Nam",
+    "enemyForce": "Nhà Đường",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Lý Tự Tiên - Đinh Kiến (687)",
+    "occurTime": "687",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Mai Thúc Loan ở An Nam",
+    "enemyForce": "Nhà Đường",
+    "result": "Thất bại Mai Thúc Loan rút chạy vào rừng, sau bệnh mất",
+    "name": "Khởi nghĩa Mai Thúc Loan (713 - 723)",
+    "occurTime": "713 - 723",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đường",
+    "enemyForce": "Java",
+    "result": "Nhà Đường chiến thắng Nhà Đường tái chiếm An Nam",
+    "name": "Xung đột Đường-Java (767)",
+    "occurTime": "767",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Phùng Hưng ở An Nam",
+    "enemyForce": "Nhà Đường",
+    "result": "Thất bại Phùng Hưng mất sớm, sau con là Phùng An đầu hàng Nhà Đường",
+    "name": "Khởi Nghĩa Phùng Hưng(766 -791)",
+    "occurTime": "766 -791",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đường",
+    "enemyForce": "Hoàn Vương",
+    "result": "Nhà Đường thất bại Quân Hoàn Vương chiếm được một phần An Nam",
+    "name": "Xung đột Đường-Hoàn Vương lần 1 (803)",
+    "occurTime": "803",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đường",
+    "enemyForce": "Hoàn Vương",
+    "result": "Nhà Đường chiến thắng Nhà Đường tái chiếm An Nam",
+    "name": "Xung đột Đường-Hoàn Vương lần 2 (809)",
+    "occurTime": "809",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Dương Thanh ở An Nam",
+    "enemyForce": "Nhà Đường",
+    "result": "Thất bại Dương Thanh bị bắt giết",
+    "name": "Nổi loạn Dương Thanh (819 - 820)",
+    "occurTime": "819 - 820",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đường",
+    "enemyForce": "Nam Chiếu",
+    "result": "Nhà Đường chiến thắng Quân Nam Chiếu bị đẩy lùi",
+    "name": "Xung đột Đường-Nam Chiếu lần 1 (860 - 861)",
+    "occurTime": "860 - 861",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đường",
+    "enemyForce": "Nam Chiếu",
+    "result": "Nhà Đường thất bại Quân Nam Chiếu chiếm được An Nam",
+    "name": "Xung đột Đường-Nam Chiếu lần 2 (863)",
+    "occurTime": "863",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Đường",
+    "enemyForce": "Nam Chiếu",
+    "result": "Nhà Đường chiến thắng Nhà Đường tái chiếm An Nam",
+    "name": "Xung đột Đường-Nam Chiếu lần 3 (865 - 867)",
+    "occurTime": "865 - 867",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Khúc Thừa Dụ ở Tĩnh Hải quân",
+    "enemyForce": "Nhà Đường",
+    "result": "Chiến thắng Nhà Đường phải chấp nhận Khúc Thừa Dụ làm Tiết độ sứ Họ Khúc xây dựng chính quyền tự chủ của người Việt Chấm dứt thời kỳ Bắc thuộc lần 3",
+    "name": "Nổi loạn Khúc Thừa Dụ (905)",
+    "occurTime": "905",
+    "location": ""
+  },
+  {
+    "homeForce": "Tĩnh Hải quân thời Họ Khúc",
+    "enemyForce": "Nhà Nam Hán",
+    "result": "Thất bại Khúc Thừa Mỹ bị bắt Quân Nam Hán kiểm soát Tĩnh Hải quân",
+    "name": "Chiến tranh Tĩnh Hải quân-Nam Hán lần 1 (923 hoặc 930)",
+    "occurTime": "923 hoặc 930",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Dương Đình Nghệ",
+    "enemyForce": "Nhà Nam Hán",
+    "result": "Chiến thắng Dương Đình Nghệ tự xưng Tiết độ sứ",
+    "name": "Nổi dậy Dương Đình Nghệ (931)",
+    "occurTime": "931",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Ngô Quyền",
+    "enemyForce": "Nhà Nam Hán Lực lượng Kiều Công Tiễn",
+    "result": "Chiến thắng Quân Nam Hán đại bại và rút về nước Ngô Quyền lên ngôi Nhà Ngô thành lập Bắt đầu thời kỳ độc lập của Việt Nam",
+    "name": "Chiến tranh Tĩnh Hải quân-Nam Hán lần 2 (938)",
+    "occurTime": "938",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Ngô Xương Ngập sau có thêm Ngô Xương Văn",
+    "enemyForce": "Lực lượng Dương Tam Kha",
+    "result": "Chiến thắng Dương Tam Kha bị đánh dẹp Ngô Xương Văn và Ngô Xương Ngập cùng lên ngôi Nhà Ngô suy yếu Bắt đầu thời kỳ Loạn 12 sứ quân",
+    "name": "Loạn Dương Tam Kha (950)",
+    "occurTime": "950",
+    "location": ""
+  },
+  {
+    "homeForce": "12 sứ quân",
+    "enemyForce": "Lực lượng Đinh Bộ Lĩnh",
+    "result": "Thay đổi triều đại Đinh Bộ Lĩnh thống nhất đất nước và lên ngôi Nước Đại Cồ Việt và Nhà Đinh thành lập",
+    "name": "Loạn 12 sứ quân (965 - 968)",
+    "occurTime": "965 - 968",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Đinh Điền, Nguyễn Bặc, Phạm Hạp",
+    "enemyForce": "Lực lượng Lê Hoàn",
+    "result": "Thay đổi triều đại Lê Hoàn lên ngôi Nhà Tiền Lê thành lập",
+    "name": "Tranh chấp ngôi vị thời Đinh (979)",
+    "occurTime": "979",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Cồ Việt thời Nhà Tiền Lê",
+    "enemyForce": "Nhà Tống",
+    "result": "Chiến thắng Quân Tống đại bại và rút về nước Nhà Tống chính thức thừa nhận Nhà Tiền Lê",
+    "name": "Chiến tranh Đại Cồ Việt-Đại Tống (981)",
+    "occurTime": "981",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Cồ Việt thời Nhà Tiền Lê",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chiêm Thành bị tàn phá",
+    "name": "Chiến tranh Đại Cồ Việt-Chiêm Thành lần 1 (982)",
+    "occurTime": "982",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lê Long Việt",
+    "enemyForce": "Lực lượng Lê Long Tích",
+    "result": "Xác lập ngôi vị Lê Long Việt lên ngôi Lê Long Tích bị giết",
+    "name": "Tranh chấp ngôi vị thời Tiền Lê lần 1 (1005)",
+    "occurTime": "1005",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lê Ngọa Triều",
+    "enemyForce": "Lực lượng Lê Long Cân, Lê Long Kính, Lê Long Đinh",
+    "result": "Xác lập ngôi vị Lê Ngọa Triều giữ được ngôi vị Lê Long Kính bị giết Lê Long Cân và Lê Long Đinh đầu hàng",
+    "name": "Tranh chấp ngôi vị thời Tiền Lê lần 2 (1005)",
+    "occurTime": "1005",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Cồ Việt thời Nhà Lý",
+    "enemyForce": "Đại Lý",
+    "result": "Chiến thắng Đại Cồ Việt chiếm giữ một phần lãnh thổ của Đại Lý",
+    "name": "Chiến tranh Đại Cồ Việt-Đại Lý (1014)",
+    "occurTime": "1014",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lý Phật Mã",
+    "enemyForce": "Lực lượng Đông Chinh Vương, Vũ Đức Vương, Dực Thánh Vương",
+    "result": "Xác lập ngôi vị Lý Phật Mã lên ngôi Vũ Đức Vương bị giết Đông Chinh Vương và Dực Thánh Vương bỏ trốn",
+    "name": "Loạn tam vương thời Lý (1028)",
+    "occurTime": "1028",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Cồ Việt thời Nhà Lý",
+    "enemyForce": "Trường Sinh Quốc của Nùng Tồn Phúc",
+    "result": "Chiến thắng Nùng Tồn Phúc bị tiêu diệt",
+    "name": "Loạn họ Nùng lần 1 (1038 - 1041)",
+    "occurTime": "1038 - 1041",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Cồ Việt thời Nhà Lý",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chiêm Thành bị tàn phá",
+    "name": "Chiến tranh Đại Cồ Việt-Chiêm Thành lần 2 (1044)",
+    "occurTime": "1044",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Cồ Việt thời Nhà Lý",
+    "enemyForce": "Đại Lịch, sau là Đại Nam của Nùng Trí Cao",
+    "result": "Chiến thắng Nùng Trí Cao bị tiêu diệt",
+    "name": "Loạn họ Nùng lần 2 (1048 - 1055)",
+    "occurTime": "1048 - 1055",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chiêm Thành dâng các châu Bố Chính, Ma Linh và Địa Lý cho Đại Việt",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 1 (1069)",
+    "occurTime": "1069",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Nhà Tống",
+    "result": "Chiến thắng Quân Đại Việt tiêu diệt các thành lũy Nhà Tống ngay trên đất Tống rồi rút về",
+    "name": "Chiến dịch đánh Tống 1075–1076 (1075 - 1076)",
+    "occurTime": "1075 - 1076",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Nhà Tống",
+    "result": "Chiến thắng Quân Tống đại bại và rút về nước",
+    "name": "Chiến tranh Đại Việt-Đại Tống lần 2 (1077)",
+    "occurTime": "1077",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Đế quốc Khmer",
+    "result": "Chiến thắng Quân Khmer bị đẩy lùi",
+    "name": "Chiến tranh Đại Việt-Khmer lần 1 (1128)",
+    "occurTime": "1128",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Đế quốc Khmer Chiêm Thành",
+    "result": "Chiến thắng Quân Khmer bị đẩy lùi",
+    "name": "Chiến tranh Đại Việt-Khmer lần 2 (1132)",
+    "occurTime": "1132",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Đế quốc Khmer",
+    "result": "Chiến thắng Quân Khmer bị đẩy lùi",
+    "name": "Chiến tranh Đại Việt-Khmer lần 3 (1138)",
+    "occurTime": "1138",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Lực lượng Quách Bốc",
+    "result": "Chiến thắng Nổi loạn bị đánh dẹp Nhà Lý suy yếu",
+    "name": "Loạn Quách Bốc (1209)",
+    "occurTime": "1209",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lý",
+    "enemyForce": "Lực lượng Nguyễn Nộn",
+    "result": "Chiến thắng Nổi loạn bị đánh dẹp Nhà Lý suy yếu",
+    "name": "Loạn Nguyễn Nộn (1213 - 1219)",
+    "occurTime": "1213 - 1219",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chiêm Thành thần phục Đại Việt",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 2 (1252)",
+    "occurTime": "1252",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Đế quốc Mông Cổ",
+    "result": "Chiến thắng Quân Mông Cổ đại bại và rút về nước",
+    "name": "Chiến tranh Đại Việt-Nguyên Mông lần 1 (1258)",
+    "occurTime": "1258",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần Chiêm Thành",
+    "enemyForce": "Nhà Nguyên",
+    "result": "Chiến thắng Quân Nguyên đại bại và rút về nước",
+    "name": "Chiến tranh Đại Việt-Nguyên Mông lần 2 (1285)",
+    "occurTime": "1285",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Nhà Nguyên",
+    "result": "Chiến thắng Quân Nguyên đại bại và phải từ bỏ ý đồ xâm lược Đại Việt",
+    "name": "Chiến tranh Đại Việt-Nguyên Mông lần 3 (1287 - 1288)",
+    "occurTime": "1287 - 1288",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Ai Lao",
+    "result": "Chiến thắng Chiếm được một phần mà ngày nay là phía đông tỉnh Xiêng Khoảng",
+    "name": "Chiến tranh Đại Việt-Ai Lao lần 1 (1294)",
+    "occurTime": "1294",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Ai Lao",
+    "result": "Chiến thắng Chiếm được một phần mà ngày nay là phía đông tỉnh Xiêng Khoảng",
+    "name": "Chiến tranh Đại Việt-Ai Lao lần 2 (1297)",
+    "occurTime": "1297",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Ai Lao",
+    "result": "Chiến thắng Chiếm được một phần mà ngày nay là phía đông tỉnh Xiêng Khoảng",
+    "name": "Chiến tranh Đại Việt-Ai Lao lần 3 (1301)",
+    "occurTime": "1301",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chế Chí bị bắt",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 3 (1311)",
+    "occurTime": "1311",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chế Năng bỏ chạy sang Java",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 4 (1318)",
+    "occurTime": "1318",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Quân Đại Việt bị phục kích và thiệt hại nặng",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 5 (1367 - 1368)",
+    "occurTime": "1367 - 1368",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Dương Nhật Lễ",
+    "enemyForce": "Lực lượng Trần Phủ",
+    "result": "Dương Nhật Lễ Thất bại Dương Nhật Lễ bị phế Trần Phủ lên ngôi",
+    "name": "Tranh chấp ngôi vị thời Trần (1369 - 1370)",
+    "occurTime": "1369 - 1370",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Quân Chiêm Thành cướp phá Thăng Long",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 6 (1371)",
+    "occurTime": "1371",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Trần Duệ Tông tử trận Quân Chiêm Thành cướp phá Thăng Long",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 7 (1377)",
+    "occurTime": "1377",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Quân Chiêm Thành cướp phá Thăng Long",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 8 (1378)",
+    "occurTime": "1378",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Quân Chiêm Thành bị đẩy lùi",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 9 (1382)",
+    "occurTime": "1382",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Trần",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chế Bồng Nga tử trận Chiêm Thành thần phục Đại Việt Nhà Trần suy yếu",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 10 (1389 - 1390)",
+    "occurTime": "1389 - 1390",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Ngu thời Nhà Hồ",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Quân Đại Việt phải rút lui",
+    "name": "Chiến tranh Đại Ngu-Chiêm Thành lần 1 (1400)",
+    "occurTime": "1400",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Ngu thời Nhà Hồ",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chiêm Thành dâng Chiêm Động và Cổ Lũy cho Đại Ngu",
+    "name": "Chiến tranh Đại Ngu-Chiêm Thành lần 2 (1402)",
+    "occurTime": "1402",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Ngu thời Nhà Hồ",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Quân Đại Việt không hạ được Chà Bàn và rút về Chiêm Thành cầu cứu Nhà Minh",
+    "name": "Chiến tranh Đại Ngu-Chiêm Thành lần 3 (1403)",
+    "occurTime": "1403",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Ngu thời Nhà Hồ",
+    "enemyForce": "Chiêm Thành",
+    "result": "Thất bại Chiêm Thành chiếm lại được Chiêm Động và Cổ Lũy với sự hỗ trợ của quân Minh",
+    "name": "Chiến tranh Đại Ngu-Chiêm Thành lần 4 (1407)",
+    "occurTime": "1407",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Ngu thời Nhà Hồ",
+    "enemyForce": "Nhà Minh Chiêm Thành",
+    "result": "Thất bại Hồ Hán Thương bị bắt giết Đại Ngu bị sáp nhập vào Nhà Minh Bắt đầu thời kỳ Bắc thuộc lần 4",
+    "name": "Chiến tranh Đại Ngu-Đại Minh (1406 - 1407)",
+    "occurTime": "1406 - 1407",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Hậu Trần",
+    "enemyForce": "Nhà Minh",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Nhà Hậu Trần (1407 - 1414)",
+    "occurTime": "1407 - 1414",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lam Sơn",
+    "enemyForce": "Nhà Minh",
+    "result": "Chiến thắng Quân Minh đại bại và rút về nước Chấm dứt thời kỳ Bắc thuộc lần 4 Lê Lợi lên ngôi Nhà Hậu Lê thành lập",
+    "name": "Khởi nghĩa Lam Sơn (1418 - 1427)",
+    "occurTime": "1418 - 1427",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Lực lượng Đèo Cát Hãn",
+    "result": "Chiến thắng Đèo Cát Hãn bị bắt",
+    "name": "Loạn Đèo Cát Hãn (1431 - 1432)",
+    "occurTime": "1431 - 1432",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Bí Cai bị bắt",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 11 (1446)",
+    "occurTime": "1446",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lê Nghi Dân",
+    "enemyForce": "Lực lượng Nguyễn Xí, Đinh Liệt, Lê Lăng",
+    "result": "Thay đổi ngôi vị Lê Nghi Dân bị phế Các đại thần tôn Lê Tư Thành lên ngôi",
+    "name": "Tranh chấp ngôi vị thời Lê sơ lần 1 (1450)",
+    "occurTime": "1450",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Chiêm Thành",
+    "result": "Chiến thắng Chiêm Thành suy vong Miền bắc Chiêm Thành sáp nhập vào Đại Việt",
+    "name": "Chiến tranh Đại Việt-Chiêm Thành lần 12 (1471)",
+    "occurTime": "1471",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Lan Xang Lan Na Bồn Man Ayutthaya Ava",
+    "result": "Chiến thắng Lan Xang, Ayutthaya, Ava thần phục Đại Việt Bồn Man sáp nhập vào Đại Việt",
+    "name": "Chiến tranh Đại Việt-Lan Xang (1478 - 1480)",
+    "occurTime": "1478 - 1480",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lê Uy Mục",
+    "enemyForce": "Lực lượng Lê Oanh",
+    "result": "Thay đổi ngôi vị Lê Uy Mục bị phế Lê Oanh lên ngôi",
+    "name": "Tranh chấp ngôi vị thời Lê sơ lần 2 (1509)",
+    "occurTime": "1509",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Lực lượng Trần Tuân",
+    "result": "Chiến thắng Nổi loạn bị đánh dẹp Nhà Hậu Lê suy yếu",
+    "name": "Loạn Trần Tuân (1511 - 1512)",
+    "occurTime": "1511 - 1512",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Các lực lượng cát cứ",
+    "result": "Thay đổi ngôi vị Nhà Lê Sơ sụp đổ Nhà Mạc nắm quyền",
+    "name": "Khủng hoảng cuối nhà Lê sơ (1516-1526)",
+    "occurTime": "1516-1526",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lê Tương Dực",
+    "enemyForce": "Lực lượng Trịnh Duy Sản, Lê Y",
+    "result": "Thay đổi ngôi vị Lê Tương Dực bị phế Trịnh Duy Sản đưa Lê Y lên ngôi Nhà Hậu Lê suy yếu",
+    "name": "Loạn Trịnh Duy Sản (1516)",
+    "occurTime": "1516",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê sơ",
+    "enemyForce": "Lực lượng Trần Cảo",
+    "result": "Chiến thắng Trần Cảo bỏ chạy Trịnh Duy Sản tử trận Nhà Hậu Lê bắt đầu loạn lạc",
+    "name": "Loạn Trần Cảo (1516 - 1521)",
+    "occurTime": "1516 - 1521",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Lê Chiêu Tông, Mạc Đăng Dung",
+    "enemyForce": "Lực lượng Trịnh Tuy, Lê Bảng, Lê Do",
+    "result": "Thay đổi ngôi vị Trịnh Tuy đưa Lê Bảng rồi Lê Do lên ngôi trong thời gian ngắn ngủi Mạc Đăng Dung trở thành quyền thần Lê Chiêu Tông sau bỏ sang phe Trịnh Tuy",
+    "name": "Loạn Trịnh Tuy (1518 - 1522)",
+    "occurTime": "1518 - 1522",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Mạc Đăng Dung, Lê Cung Hoàng",
+    "enemyForce": "Lực lượng Trịnh Tuy, Lê Chiêu Tông",
+    "result": "Thay đổi ngôi vị và triều đại Mạc Đăng Dung đưa Lê Xuân lên ngôi Lê Chiêu Tông bị bắt giết, Lê Cung Hoàng sau bị phế Mạc Đăng Dung dẹp tan các quân nổi loạn và lên ngôi Nhà Mạc thành lập",
+    "name": "Loạn Mạc Đăng Dung (1522 - 1526)",
+    "occurTime": "1522 - 1526",
+    "location": ""
+  },
+  {
+    "homeForce": "Bắc triều thời Nhà Mạc",
+    "enemyForce": "Nam triều thời Nhà Lê trung hưng Chúa Trịnh Chúa Nguyễn Chúa Bầu",
+    "result": "Thay đổi triều đại Nhà Hậu Lê chiếm được Đông Kinh Tàn dư Nhà Mạc rút lên cát cứ ở Cao Bằng Họ Trịnh và Họ Nguyễn trở thành quyền thần",
+    "name": "Chiến tranh Lê-Mạc lần 1 (1533 - 1592)",
+    "occurTime": "1533 - 1592",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Mạc Phúc Nguyên",
+    "enemyForce": "Lực lượng Mạc Chính Trung",
+    "result": "Xác lập ngôi vị Mạc Phúc Nguyên lên ngôi Mạc Chính Trung bỏ chạy sang Trung Quốc Nhà Mạc suy yếu",
+    "name": "Tranh chấp ngôi vị thời Mạc (1546 - 1547)",
+    "occurTime": "1546 - 1547",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Lê trung hưng Chúa Trịnh Chúa Nguyễn (đến 1600)",
+    "enemyForce": "Nhà Mạc ở Cao Bằng Chúa Bầu (từ 1594)",
+    "result": "Chiến thắng Tàn dư Nhà Mạc chấm dứt Nhà Hậu Lê khôi phục hoàn toàn lãnh thổ Tiếp tục thời kỳ Trịnh-Nguyễn phân tranh",
+    "name": "Chiến tranh Lê-Mạc lần 2 (1592 - 1677)",
+    "occurTime": "1592 - 1677",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Chúa Bầu",
+    "result": "Chiến thắng Chúa Bầu bị tiêu diệt",
+    "name": "Loạn Chúa Bầu (1594 - 1699)",
+    "occurTime": "1594 - 1699",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Lực lượng Hoàng Công Chất",
+    "result": "Chiến thắng Khởi nghĩa bị đánh dẹp",
+    "name": "Khởi nghĩa Hoàng Công Chất (1739 - 1769)",
+    "occurTime": "1739 - 1769",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Lực lượng Lê Duy Mật",
+    "result": "Chiến thắng Khởi nghĩa bị đánh dẹp",
+    "name": "Khởi nghĩa Lê Duy Mật (1740 - 1770)",
+    "occurTime": "1740 - 1770",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Lực lượng Nguyễn Hữu Cầu",
+    "result": "Chiến thắng Khởi nghĩa bị đánh dẹp",
+    "name": "Khởi nghĩa Nguyễn Hữu Cầu (1743 - 1751)",
+    "occurTime": "1743 - 1751",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Lực lượng Nguyễn Danh Phương",
+    "result": "Chiến thắng Khởi nghĩa bị đánh dẹp",
+    "name": "Khởi nghĩa Nguyễn Danh Phương (1744 - 1751)",
+    "occurTime": "1744 - 1751",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Luang Phrabang",
+    "result": "Thất bại Quân Trịnh bị đẩy lùi khỏi Luang Prabang",
+    "name": "Chiến tranh Đại Việt-Luang Phrabang (1749)",
+    "occurTime": "1749",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài thời Chúa Trịnh",
+    "enemyForce": "Lính tam phủ Xứ Thanh - Xứ Nghệ",
+    "result": "Chiến thắng Lính tam phủ tan rã Chúa Trịnh suy yếu",
+    "name": "Nạn kiêu binh (1782 - 1786)",
+    "occurTime": "1782 - 1786",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Panduranga-Chăm Pa",
+    "result": "Chiến thắng Chúa Nguyễn mở rộng lãnh thổ",
+    "name": "Chiến tranh Đại Việt-Panduranga lần 1 (1611)",
+    "occurTime": "1611",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Công ty Đông Ấn Hà Lan",
+    "result": "Chiến thắng Hạm đội Công ty Đông Ấn Hà Lan bị đánh tan",
+    "name": "Xung đột Công ty Đông Ấn Hà Lan với Đàng Trong (1643)",
+    "occurTime": "1643",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Panduranga-Chăm Pa",
+    "result": "Chiến thắng Chúa Nguyễn mở rộng lãnh thổ",
+    "name": "Chiến tranh Đại Việt-Panduranga lần 2 (1653)",
+    "occurTime": "1653",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn Lực lượng Ang Sur và Ang Tan",
+    "enemyForce": "Cao Miên thời Ramathipadi I",
+    "result": "Chiến thắng Ramathipadi I bị bắt",
+    "name": "Chiến tranh Đại Việt-Cao Miên lần 1 (1658)",
+    "occurTime": "1658",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn Lực lượng Ang Nan II và Ang Tan",
+    "enemyForce": "Cao Miên thời Keo Fa II",
+    "result": "Chiến thắng Keo Fa II bỏ chạy Cao Miên bị chia cắt thành 2 nửa do Ang Nan II và Chey Chettha IV lãnh đạo",
+    "name": "Chiến tranh Đại Việt-Cao Miên lần 2 (1674)",
+    "occurTime": "1674",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Panduranga-Chăm Pa",
+    "result": "Thất bại Quân Nguyễn rút lui Panduranga-Chăm Pa được quyền tự trị",
+    "name": "Chiến tranh Đại Việt-Panduranga lần 3 (1693 - 1697)",
+    "occurTime": "1693 - 1697",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Cao Miên thời Chey Chettha IV",
+    "result": "Chiến Thắng Chey Chettha IV xin hàng Chúa Nguyễn",
+    "name": "Chiến tranh Đại Việt-Cao Miên lần 3 (1699)",
+    "occurTime": "1699",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn Lực lượng Ang Em",
+    "enemyForce": "Cao Miên thời Thommo Reachea III Xiêm La thời Nhà Ayutthaya",
+    "result": "Chiến thắng Thommo Reachea III bỏ chạy sang Xiêm La Ang Em lên ngôi vua Cao Miên",
+    "name": "Chiến tranh Đại Việt-Cao Miên lần 4 (1708)",
+    "occurTime": "1708",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Xiêm La thời Nhà Ayutthaya",
+    "result": "Thất bại Quân Xiêm cướp phá Hà Tiên",
+    "name": "Chiến tranh Đại Việt-Xiêm La lần 1 (1718)",
+    "occurTime": "1718",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Cao Miên thời Chey Chettha VII",
+    "result": "Chiến thắng Chey Chettha VII đầu hàng Chúa Nguyễn",
+    "name": "Chiến tranh Đại Việt-Cao Miên lần 5 (1753 - 1756)",
+    "occurTime": "1753 - 1756",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn Lực lượng Outey II",
+    "enemyForce": "Xiêm La thời Nhà Thonburi Lực lượng Ang Non II",
+    "result": "Thất bại Ang Non II lên ngôi vua Cao Miên Quân Nguyễn rút khỏi Cao Miên Chúa Nguyễn suy yếu",
+    "name": "Chiến tranh Đại Việt-Xiêm La lần 2 (1771 - 1772)",
+    "occurTime": "1771 - 1772",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Chúa Nguyễn",
+    "enemyForce": "Lực lượng Tây Sơn",
+    "result": "Thay đổi triều đại Quân Trịnh nam tiến Chúa Nguyễn bị tiêu diệt Nhà Tây Sơn thành lập ở Đàng Trong",
+    "name": "Khởi nghĩa Tây Sơn (1771 - 1777)",
+    "occurTime": "1771 - 1777",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Trịnh thất bại",
+    "name": "Trịnh-Nguyễn phân tranh lần 1 (1627)",
+    "occurTime": "1627",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Trịnh thất bại Quân Nguyễn chiếm được Bố Chính",
+    "name": "Trịnh-Nguyễn phân tranh lần 2 (1633 - 1640)",
+    "occurTime": "1633 - 1640",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Nguyễn thất bại Quân Trịnh tái chiếm Bắc Bố Chính",
+    "name": "Trịnh-Nguyễn phân tranh lần 3 (1643)",
+    "occurTime": "1643",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Bất phân thắng bại",
+    "name": "Trịnh-Nguyễn phân tranh lần 4 (1648)",
+    "occurTime": "1648",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Nguyễn thất bại Quân Trịnh tái chiếm 7 huyện Nghệ An",
+    "name": "Trịnh-Nguyễn phân tranh lần 5 (1655 - 1660)",
+    "occurTime": "1655 - 1660",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Trịnh thất bại Quân Nguyễn giữ được Nam Bố Chính",
+    "name": "Trịnh-Nguyễn phân tranh lần 6 (1661 - 1662)",
+    "occurTime": "1661 - 1662",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Trịnh thất bại Quân Nguyễn giữ được Lũy Trấn Ninh",
+    "name": "Trịnh-Nguyễn phân tranh lần 7 (1672)",
+    "occurTime": "1672",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Ngoài Lực lượng Tây Sơn (từ 1775)",
+    "enemyForce": "Đàng Trong",
+    "result": "Quân Nguyễn thất bại Quân Trịnh và quân Tây Sơn chiếm được Phú Xuân Chúa Nguyễn bỏ chạy vào Nam Hà",
+    "name": "Trịnh-Nguyễn phân tranh lần 8 (1774 - 1775)",
+    "occurTime": "1774 - 1775",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Nhà Tây Sơn",
+    "enemyForce": "Đàng Ngoài thời Chúa Trịnh",
+    "result": "Thay đổi triều đại và lãnh thổ Chúa Trịnh bị tiêu diệt Quân Tây Sơn tiến ra Đàng Ngoài nhưng sau đó rút về Nhà Hậu Lê vẫn cai trị Đàng Ngoài trên danh nghĩa",
+    "name": "Chiến tranh Tây Sơn-Chúa Trịnh (1775 - 1786)",
+    "occurTime": "1775 - 1786",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Nhà Tây Sơn",
+    "enemyForce": "Lực lượng Nguyễn Ánh ở Nam Hà",
+    "result": "Thay đổi lãnh thổ Nguyễn Ánh bỏ chạy sang Xiêm La Nhà Tây Sơn tái chiếm được Nam Hà",
+    "name": "Chiến tranh Tây Sơn-Chúa Nguyễn lần 1 (1771 - 1785)",
+    "occurTime": "1771 - 1785",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Nhà Tây Sơn",
+    "enemyForce": "Xiêm La thời Nhà Chakri Lực lượng Nguyễn Ánh",
+    "result": "Chiến thắng Quân Xiêm bị đánh tan Nguyễn Ánh bỏ chạy sang Xiêm La",
+    "name": "Chiến tranh Đại Việt-Xiêm La lần 3 (1785)",
+    "occurTime": "1785",
+    "location": ""
+  },
+  {
+    "homeForce": "Đàng Trong thời Nhà Tây Sơn",
+    "enemyForce": "Cao Miên",
+    "result": "Chiến thắng Cao Miên thần phục Nhà Tây Sơn",
+    "name": "Chiến tranh Đại Việt-Cao Miên lần 6 (1785)",
+    "occurTime": "1785",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Nguyễn Huệ ở Phú Xuân",
+    "enemyForce": "Lực lượng Nguyễn Nhạc ở Quy Nhơn",
+    "result": "Bất phân thắng bại Nguyễn Nhạc và Nguyễn Huệ giảng hòa Nguyễn Nhạc cho phép Nguyễn Huệ cai quản phía bắc",
+    "name": "Xung đột Nguyễn Huệ-Nguyễn Nhạc (1787)",
+    "occurTime": "1787",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Tây Sơn",
+    "enemyForce": "Nhà Thanh Lực lượng Lê Chiêu Thống",
+    "result": "Chiến thắng Quân Thanh đại bại và rút về nước Nhà Hậu Lê chính thức sụp đổ Nhà Tây Sơn tiến gần đến công cuộc thống nhất đất nước",
+    "name": "Chiến tranh Đại Việt-Đại Thanh (1789)",
+    "occurTime": "1789",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Tây Sơn",
+    "enemyForce": "Viêng Chăn Bồn Man",
+    "result": "Chiến thắng Viêng Chăn thần phục Nhà Tây Sơn Bồn Man sáp nhập vào Đại Việt",
+    "name": "Chiến tranh Đại Việt-Viêng Chăn (1791)",
+    "occurTime": "1791",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Việt thời Nhà Tây Sơn",
+    "enemyForce": "Lực lượng Nguyễn Ánh ở Nam Hà",
+    "result": "Thay đổi triều đại Nhà Tây Sơn sụp đổ Nhà Nguyễn được thành lập và thống nhất đất nước",
+    "name": "Chiến tranh Tây Sơn-Chúa Nguyễn lần 2 (1787 - 1802)",
+    "occurTime": "1787 - 1802",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam thời Nhà Nguyễn",
+    "enemyForce": "Dân tộc thiểu số ở Quảng Ngãi",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy ở Đá Vách thời Nguyễn (1803 - 1885)",
+    "occurTime": "1803 - 1885",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam thời Nhà Nguyễn Cao Miên thời Ang Chan II",
+    "enemyForce": "Xiêm La thời Nhà Chakri Lực lượng Ang Snguon",
+    "result": "Chiến thắng Ang Chan II giữ được ngôi vị Cao Miên suy yếu và lệ thuộc vào Việt Nam",
+    "name": "Nổi loạn Cao Miên (1811 - 1812)",
+    "occurTime": "1811 - 1812",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Phan Bá Vành",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Phan Bá Vành (1821 - 1827)",
+    "occurTime": "1821 - 1827",
+    "location": ""
+  },
+  {
+    "homeForce": "Viêng Chăn Champasak Việt Nam thời Nhà Nguyễn",
+    "enemyForce": "Xiêm La thời Nhà Chakri",
+    "result": "Thất bại Xiêm La kiểm soát Viêng Chăn",
+    "name": "Nổi loạn Viêng Chăn (1826 - 1828)",
+    "occurTime": "1826 - 1828",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Lê Duy Lương",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Lê Duy Lương (1832 - 1837)",
+    "occurTime": "1832 - 1837",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Lê Văn Khôi",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Lê Văn Khôi (1833 - 1835)",
+    "occurTime": "1833 - 1835",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam thời Nhà Nguyễn",
+    "enemyForce": "Xiêm La thời Nhà Chakri",
+    "result": "Chiến thắng Xiêm La xin giảng hòa",
+    "name": "Chiến tranh Việt Nam-Xiêm La (1833 - 1834)",
+    "occurTime": "1833 - 1834",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Nông Văn Vân",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Nông Văn Vân (1833 - 1835)",
+    "occurTime": "1833 - 1835",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Ba Nhàn và Tiền Bột",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Ba Nhàn - Tiền Bột (1833 - 1843)",
+    "occurTime": "1833 - 1843",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Ba Nhàn và Tiền Bột",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Hà Tiên (1840)",
+    "occurTime": "1840",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Khmer ở Hà Tiên",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Ba Xuyên (1841)",
+    "occurTime": "1841",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Khmer ở Thất Sơn",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Thất Sơn (1841)",
+    "occurTime": "1841",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Lâm Sâm",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Lâm Sâm (1841)",
+    "occurTime": "1841",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn Lực lượng Ang Mey",
+    "enemyForce": "Xiêm La thời Nhà Chakri Lực lượng Ang Duong và Ang Em",
+    "result": "Bất phân thắng bại Ký kết hòa ước Cao Miên phải thần phục cả Đại Nam và Xiêm La",
+    "name": "Chiến tranh Đại Nam-Xiêm La (1841 - 1845)",
+    "occurTime": "1841 - 1845",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn Nhà Thanh Vương quốc Anh",
+    "enemyForce": "Hải Tặc Trung Hoa",
+    "result": "Chiến thắng Các tàu chiến hải tặc bị đánh tan",
+    "name": "Tiểu trừ Hải tặc Tàu Ô (1849)",
+    "occurTime": "1849",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Cao Bá Quát",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Cao Bá Quát (1854 - 1856)",
+    "occurTime": "1854 - 1856",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Đế chế Pháp Vương quốc Tây Ban Nha",
+    "result": "Thất bại Hòa ước Nhâm Tuất 1862 Nam Kỳ trở thành thuộc địa của Pháp",
+    "name": "Chiến dịch Nam Kỳ (1858 - 1862)",
+    "occurTime": "1858 - 1862",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Tạ Văn Phụng",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Tạ Văn Phụng (1861 - 1865)",
+    "occurTime": "1861 - 1865",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Cai Vàng",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Cai Vàng (1862 - 1865)",
+    "occurTime": "1862 - 1865",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn Nhà Thanh Quân Cờ Đen (từ 1870)",
+    "enemyForce": "Quân Cờ Đen (đến 1870) Quân Cờ Vàng Quân Cờ Trắng",
+    "result": "Chiến thắng Quân Cờ Đen theo hàng Nhà Nguyễn Quân Cờ Trắng và Quân Cờ Vàng bị tiêu diệt",
+    "name": "Tiểu trừ giặc Khách ở Bắc Kỳ (1865 - 1875)",
+    "occurTime": "1865 - 1875",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn",
+    "enemyForce": "Lực lượng Đoàn Hữu Trưng",
+    "result": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "name": "Nổi dậy Đoàn Hữu Trưng (1866)",
+    "occurTime": "1866",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn Quân Cờ Đen",
+    "enemyForce": "Cộng hòa Pháp",
+    "result": "Bất phân thắng bại Hòa ước Giáp Tuất 1874 Quân Pháp rút khỏi Bắc Kỳ",
+    "name": "Biến cố Bắc Kỳ (1873)",
+    "occurTime": "1873",
+    "location": ""
+  },
+  {
+    "homeForce": "Đại Nam thời Nhà Nguyễn Nhà Thanh Quân Cờ Đen",
+    "enemyForce": "Cộng hòa Pháp",
+    "result": "Thất bại Hòa ước Quý Mùi 1883 và Hòa ước Giáp Thân 1884 Bắc Kỳ và Trung Kỳ trở thành xứ bảo hộ của Pháp Nhà Nguyễn trở thành chế độ bù nhìn",
+    "name": "Chiến dịch Bắc Kỳ (1883 - 1886)",
+    "occurTime": "1883 - 1886",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Trương Định ở Nam Kỳ",
+    "enemyForce": "Đế chế Pháp",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Trương Định (1859 - 1864)",
+    "occurTime": "1859 - 1864",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Nguyễn Hữu Huân ở Nam Kỳ",
+    "enemyForce": "Đế chế Pháp",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Nguyễn Hữu Huân (1859 - 1874)",
+    "occurTime": "1859 - 1874",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Nguyễn Trung Trực ở Nam Kỳ",
+    "enemyForce": "Đế chế Pháp",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Nguyễn Trung Trực (1861 - 1868)",
+    "occurTime": "1861 - 1868",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Trần Văn Thành ở Nam Kỳ",
+    "enemyForce": "Đế chế Pháp",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Bảy Thưa (1867 - 1873)",
+    "occurTime": "1867 - 1873",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhà Thanh Hỗ trợ: Nhà Nguyễn Quân Cờ Đen",
+    "enemyForce": "Cộng hòa Pháp",
+    "result": "Nhà Thanh thất bại Hòa ước Thiên Tân 1885 Nhà Thanh công nhận Đại Nam thuộc quyền bảo hộ của Pháp",
+    "name": "Chiến tranh Pháp-Thanh (1884 - 1885)",
+    "occurTime": "1884 - 1885",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Hoàng Hoa Thám ở Bắc Kỳ",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa Yên Thế (1884 - 1913)",
+    "occurTime": "1884 - 1913",
+    "location": ""
+  },
+  {
+    "homeForce": "Triều đình kháng chiến Hàm Nghi Lực lượng Phan Đình Phùng ở Trung Kỳ Lực lượng Đinh Công Tráng ở Trung Kỳ Lực lượng Mai Xuân Thưởng ở Trung Kỳ Lực lượng Tống Duy Tân ở Trung Kỳ Lực lượng Nguyễn Thiện Thuật ở Bắc Kỳ Lực lượng Đốc Ngữ ở Bắc Kỳ Lực lượng Đèo Văn Trị ở Bắc Kỳ",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "result": "Thất bại Hàm Nghi bị bắt Phong trào tan rã",
+    "name": "Phong trào Cần Vương (1885 - 1896)",
+    "occurTime": "1885 - 1896",
+    "location": ""
+  },
+  {
+    "homeForce": "Cộng hòa Pháp Liên bang Đông Dương",
+    "enemyForce": "Xiêm La thời Nhà Chakri",
+    "result": "Pháp chiến thắng Lào sáp nhập vào Liên bang Đông Dương",
+    "name": "Chiến tranh Pháp-Xiêm (1893)",
+    "occurTime": "1893",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhân dân Trung Kỳ",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "result": "Thất bại Phong trào bị dập tắt",
+    "name": "Phong trào chống sưu thuế Trung Kỳ (1908)",
+    "occurTime": "1908",
+    "location": ""
+  },
+  {
+    "homeForce": "Binh lính và đầu bếp nổi dậy ở Bắc Kỳ",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương",
+    "result": "Thất bại Quân nổi dậy bị bắt giam và xử tử",
+    "name": "Hà Thành đầu độc (1908)",
+    "occurTime": "1908",
+    "location": ""
+  },
+  {
+    "homeForce": "Các bộ lạc Tây Nguyên",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương",
+    "result": "Thất bại Khởi nghĩa bị đàn áp",
+    "name": "Khởi nghĩa N\u0027Trang Lơng (1911 - 1935)",
+    "occurTime": "1911 - 1935",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Quang phục Hội Việt Nam Quang Phục quân",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "result": "Thất bại Phong trào bị dập tắt",
+    "name": "Phong trào Quang phục Quân (1913 - 1925)",
+    "occurTime": "1913 - 1925",
+    "location": ""
+  },
+  {
+    "homeForce": "Lực lượng Phan Xích Long ở Nam Kỳ",
+    "enemyForce": "Liên bang Đông Dương",
+    "result": "Thất bại Phong trào bị dập tắt",
+    "name": "Phong trào hội kín Nam Kỳ (1913 - 1916)",
+    "occurTime": "1913 - 1916",
+    "location": ""
+  },
+  {
+    "homeForce": "Nghĩa quân Thái Nguyên",
+    "enemyForce": "Liên bang Đông Dương",
+    "result": "Thất bại Khởi nghĩa thất bại",
+    "name": "Khởi nghĩa Thái Nguyên (1917)",
+    "occurTime": "1917",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Việt Nam",
+    "enemyForce": "Liên bang Đông Dương",
+    "result": "Thất bại Pháp đã tiến hành bắt giữ tất cả các lãnh đạo của phong trào Phú Riềng",
+    "name": "Phú Riềng Đỏ (1930)",
+    "occurTime": "1930",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Quốc dân quân",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "result": "Thất bại Lực lượng khởi nghĩa bị đánh bại Đảng viên bị Pháp truy nã, giam cầm, lưu đày, hành quyết",
+    "name": "Khởi nghĩa Yên Bái (1930)",
+    "occurTime": "1930",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Việt Nam Xứ ủy Trung Kỳ Tự vệ Đỏ",
+    "enemyForce": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "result": "Thất bại Nhiều cuộc biểu tình tự vệ vũ trang kết hợp yêu sách chính trị, kết hợp đấu tranh bạo động và đấu tranh chính trị nổ ra. Cuối cùng bị quân đội Pháp trấn áp và tan rã.",
+    "name": "Xô Viết Nghệ Tĩnh (1930 - 1931)",
+    "occurTime": "1930 - 1931",
+    "location": ""
+  },
+  {
+    "homeForce": "Quốc gia Pháp Liên bang Đông Dương",
+    "enemyForce": "Đế quốc Nhật Bản Lục quân Đế quốc Nhật Bản",
+    "result": "Pháp thất bại Nhật Bản chiến thắng Nhật chiếm đóng Đông Dương",
+    "name": "Chiến dịch Đông Dương (1940)",
+    "occurTime": "1940",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Việt Nam Đội du kích Bắc Sơn",
+    "enemyForce": "Quốc gia Pháp Đế quốc Nhật Bản",
+    "result": "Thất bại Pháp - Nhật hòa nhau Pháp tập trung quân lực chiếm lại các đồn, đàn áp và tàn sát dân chúng, cán bộ, đảng viên, cuộc khởi nghĩa hoàn toàn tan rã",
+    "name": "Khởi nghĩa Bắc Sơn (1940)",
+    "occurTime": "1940",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Việt Nam Xứ ủy Nam Kỳ Quân du kích Nam Kỳ",
+    "enemyForce": "Quốc gia Pháp Đế quốc Nhật Bản",
+    "result": "Thất bại Cuộc khởi nghĩa tạo thành tiếng vang lớn, gây nhiều tổn hại cho Pháp-Nhật, nhưng về sau bị đàn áp và thất bại, nhiều đảng viên, cán bộ cao cấp của Đảng cộng sản Đông Dương bị xử tử. Một bộ phận nghĩa quân rút vào rừng tiến hành chiến tranh du kích",
+    "name": "Nam Kỳ khởi nghĩa (1940)",
+    "occurTime": "1940",
+    "location": ""
+  },
+  {
+    "homeForce": "Quốc gia Pháp Liên bang Đông Dương",
+    "enemyForce": "Thái Lan",
+    "result": "Bất phân thắng bại Nhật Bản dàn xếp việc ngừng bắn Thái Lan giành thắng lợi về chiến thuật",
+    "name": "Chiến tranh Pháp-Thái (1940 - 1941)",
+    "occurTime": "1940 - 1941",
+    "location": ""
+  },
+  {
+    "homeForce": "Đội Cung và binh lính nổi dậy ở Trung Kỳ",
+    "enemyForce": "Quốc gia Pháp",
+    "result": "Thất bại Đội Cung bị bắt và xử tử",
+    "name": "Binh biến Đô Lương (1941)",
+    "occurTime": "1941",
+    "location": ""
+  },
+  {
+    "homeForce": "Khối Đồng Minh: Vương quốc Liên hiệp Anh và Bắc Ireland Ấn Độ thuộc Anh Miến Điện thuộc Anh (đến 1942) Hoa Kỳ Trung Quốc Việt Minh",
+    "enemyForce": "Phe Trục: Đế quốc Nhật Bản Đế quốc Việt Nam (từ 1945) Lào thuộc Nhật (từ 1945) Campuchia thuộc Nhật (từ 1945) Nhà nước Miến Điện (từ 1942) Quốc gia Pháp (đến 1944) Liên bang Đông Dương (đến 1945) Thái Lan",
+    "result": "Khối Đồng minh chiến thắng Đế Quốc Nhật Bản đầu hàng",
+    "name": "Mặt trận Đông Nam Á trong Thế Chiến thứ Hai (1941 - 1945)",
+    "occurTime": "1941 - 1945",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Minh",
+    "enemyForce": "Quốc gia Pháp",
+    "result": "Chiến thắng Việt Minh chiến thắng",
+    "name": "Trận Phai Khắt, Nà Ngần (1944)",
+    "occurTime": "1944",
+    "location": ""
+  },
+  {
+    "homeForce": "Cộng hoà Pháp Vương quốc Liên hiệp Anh và Bắc Ireland Việt Minh",
+    "enemyForce": "Đế quốc Nhật Bản Lục quân Đế quốc Nhật Bản Đế quốc Việt Nam",
+    "result": "Pháp thất bại Nhật Bản đảo chính thành công tại Đông Dương Chính phủ Vichy đầu hàng Đế quốc Nhật Bản Đế quốc Việt Nam được thành lập",
+    "name": "Chiến dịch Đông Dương (1945)",
+    "occurTime": "1945",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Việt Nam Việt Minh",
+    "enemyForce": "Đế quốc Nhật Bản Lục quân Đế quốc Nhật Bản Đế quốc Việt Nam",
+    "result": "Chiến thắng Việt Minh tổ chức tổng khởi nghĩa Cách mạng tháng Tám giành chính quyền Hồ Chí Minh đọc tuyên ngôn độc lập Pháp quay lại tái chiếm thuộc địa Chiến tranh Đông Dương bùng nổ",
+    "name": "Cao trào kháng Nhật cứu nước (1945)",
+    "occurTime": "1945",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Việt Nam Đội du kích Cứu quốc quân Ba Tơ",
+    "enemyForce": "Đế quốc Nhật Bản Cộng hòa Pháp",
+    "result": "Chiến thắng Ba Tơ trở thành trung tâm của cao trào kháng Nhật ở miền Trung Việt Nam và là hạt nhân của các lực lượng vũ trang Liên khu V sau này",
+    "name": "Khởi nghĩa Ba Tơ (1945)",
+    "occurTime": "1945",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Minh",
+    "enemyForce": "Đế quốc Nhật Bản Đế quốc Việt Nam Cộng hoà Pháp",
+    "result": "Chiến thắng Việt Minh giành được chính quyền, thành lập Việt Nam Dân chủ Cộng hòa Vua Bảo Đại thoái vị, chấm dứt chế độ quân chủ chuyên chế Nhà Nguyễn Đế quốc Nhật Bản đầu hàng Việt Minh",
+    "name": "Cách mạng Tháng Tám (1945)",
+    "occurTime": "1945",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Dân chủ Cộng hòa",
+    "enemyForce": "Trung Hoa Dân Quốc Việt Nam Quốc dân Đảng Đại Việt Quốc dân Đảng Việt Nam Cách mệnh Đồng minh Hội",
+    "result": "Chiến thắng Quốc quân Trung Hoa Dân Quốc rút khỏi miền bắc Việt Nam Việt Nam Quốc dân Đảng và Việt Nam Cách mệnh Đồng minh Hội bắt đầu xung đột với Việt Minh",
+    "name": "Hoa quân nhập Việt (1945)",
+    "occurTime": "1945",
+    "location": ""
+  },
+  {
+    "homeForce": "Nhân dân Nam Bộ Việt Nam Dân chủ Cộng hòa Bộ đội Bình Xuyên Bộ đội Hòa Hảo Bộ đội Cao Đài Việt Nam Quốc dân Đảng",
+    "enemyForce": "Chính phủ lâm thời Cộng hòa Pháp Liên bang Đông Dương Đế quốc Anh Ấn Độ thuộc Anh Đế quốc Nhật Bản",
+    "result": "Thất bại Việt Minh và các nhóm chống Pháp rút vào chiến khu Pháp và Anh chiếm được Nam Bộ",
+    "name": "Nam Bộ kháng chiến (1945 - 1946)",
+    "occurTime": "1945 - 1946",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Độc lập Đồng minh Đảng Lao động Việt Nam Đảng Xã hội Việt Nam Đảng Dân chủ Việt Nam Thanh niên Tiền phong Việt Nam Vệ quốc đoàn Hội Phật giáo Cứu quốc Hội Cao Đài Cứu quốc Hội Công giáo Cứu quốc Nhóm Bình Xuyên chống Pháp",
+    "enemyForce": "Mặt trận Quốc dân Đảng Việt Nam Quốc dân Đảng Đại Việt Quốc dân Đảng Đại Việt Dân chính Đảng Mặt trận Thống nhất Quốc gia Liên hiệp Việt Nam Cách mệnh Đồng minh Hội Việt Nam Dân chúng Liên đoàn Việt Nam Dân chủ Xã hội Đảng Liên đoàn Công giáo Việt Nam Mặt trận Quốc gia Liên hiệp Hòa Hảo Cao Đài Nhóm Bình Xuyên theo Pháp Hỗ trợ: Trung Hoa Dân Quốc Pháp",
+    "result": "Chiến thắng Các tổ chức chống đối Việt Minh bị đánh dẹp",
+    "name": "Xung đột đảng phái Việt Nam Dân chủ Cộng hòa (1945 - 1947)",
+    "occurTime": "1945 - 1947",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Dân chủ Cộng hòa Việt Minh Lào Issara Pathet Lào (từ 1949) Khmer Issarak Mặt trận Issarak Thống nhất Lính tình nguyện Nhật Bản trong Chiến sĩ \"Việt Nam mới\" Viện trợ: Liên Xô Trung Quốc",
+    "enemyForce": "Liên hiệp Pháp Cộng hòa Pháp Liên bang Đông Dương Cộng hòa Tự trị Nam Kỳ (1946 -1948) Quốc gia Việt Nam (1949 - 1954) Vương quốc Lào (1949 - 1954) Vương quốc Campuchia (1953 - 1954) Viện trợ: Hoa Kỳ (từ 1950)",
+    "result": "Chiến thắng Quân đội Pháp thất bại và rút khỏi Đông Dương Việt Nam Dân chủ Cộng hòa, Vương quốc Lào và Vương quốc Campuchia giành được độc lập Hiệp định Genève 1954 Việt Nam bị phân chia tạm thời ở vĩ tuyến 17",
+    "name": "Chiến tranh Đông Dương (1946 - 1954)",
+    "occurTime": "1946 - 1954",
+    "location": ""
+  },
+  {
+    "homeForce": "Quân Giải phóng Nhân dân Trung Quốc Quân đội Nhân dân Việt Nam",
+    "enemyForce": "Quốc quân Trung Hoa Dân Quốc",
+    "result": "Đảng Cộng sản Trung Quốc chiến thắng Trung Hoa Dân quốc mất quyền kiểm soát Nam Ninh và một số địa phương khác tại Quảng Tây",
+    "name": "Chiến dịch Thập Vạn Đại Sơn (1949)",
+    "occurTime": "1949",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Dân chủ Cộng hòa Cộng hòa Miền Nam Việt Nam Mặt trận Dân tộc Giải phóng miền Nam Việt Nam Khmer Đỏ Pathet Lào Viện trợ: Liên Xô Trung Quốc Khối Warszawa CHDCND Triều Tiên Cuba",
+    "enemyForce": "Hợp chúng quốc Hoa Kỳ Việt Nam Cộng hòa Cộng hòa Khmer Vương quốc Lào Hàn Quốc Úc New Zealand Thái Lan Philippines Viện trợ: Tây Đức Anh Tây Ban Nha Đài Loan",
+    "result": "Chiến thắng Quân đội Hoa Kỳ và đồng minh rút khỏi Việt Nam Việt Nam thống nhất dưới sự lãnh đạo của Đảng Cộng sản Việt Nam Chính quyền thân Mỹ ở Lào và Campuchia sụp đổ",
+    "name": "Chiến tranh Việt Nam (1955 - 1975)",
+    "occurTime": "1955 - 1975",
+    "location": ""
+  },
+  {
+    "homeForce": "Pathet Lào Lực lượng Trung lập Lào (1960-1962) Lực lượng Trung lập Yêu nước Lào (từ 1963) Việt Nam Dân chủ Cộng hòa Viện trợ: Liên Xô Trung Quốc",
+    "enemyForce": "Vương quốc Lào Lực lượng Trung lập Lào (từ 1962) Hợp chúng quốc Hoa Kỳ Việt Nam Cộng hòa Thái Lan Viện trợ: Philippines Đài Loan",
+    "result": "Pathet Lào chiến thắng Cộng hòa Dân chủ Nhân dân Lào thành lập",
+    "name": "Nội chiến Lào (1959 - 1975)",
+    "occurTime": "1959 - 1975",
+    "location": ""
+  },
+  {
+    "homeForce": "Đảng Cộng sản Thái Lan Pathet Lào Khmer Đỏ (đến 1978) Hỗ trợ: Việt Nam Dân chủ Cộng hòa (đến 1976) Cộng hòa Xã hội Chủ nghĩa Việt Nam (từ 1976) Trung Quốc Đảng Cộng sản Malaya",
+    "enemyForce": "Vương quốc Thái Lan Hợp chúng quốc Hoa Kỳ Hỗ trợ: Đài Loan (đến 1967) Malaysia",
+    "result": "Đảng Cộng sản Thái Lan thất bại Phong trào cộng sản chấm dứt Hiệp định ân xá được ký kết",
+    "name": "Nổi dậy cộng sản tại Thái Lan (1965 - 1983)",
+    "occurTime": "1965 - 1983",
+    "location": ""
+  },
+  {
+    "homeForce": "Chính phủ Liên hiệp Dân tộc Hoàng gia Campuchia Mặt trận Đoàn kết Dân tộc Campuchia Khmer Đỏ Khmer Giải phóng Việt Nam Dân chủ Cộng hòa Mặt trận Dân tộc Giải phóng miền Nam Việt Nam Viện trợ: Liên Xô Trung Quốc",
+    "enemyForce": "Cộng hòa Khmer Hợp chúng quốc Hoa Kỳ Việt Nam Cộng hòa",
+    "result": "Khmer Đỏ chiến thắng Campuchia Dân chủ thành lập Bắt đầu thời kỳ Diệt chủng Campuchia",
+    "name": "Nội chiến Campuchia (1968 - 1975)",
+    "occurTime": "1968 - 1975",
+    "location": ""
+  },
+  {
+    "homeForce": "Các nhóm ủng hộ Thủ tướng Ngô Đình Diệm Ủy ban Cách mạng Quốc gia Đảng Cần lao Nhân vị Việt Nam Quân đội Quốc gia Việt Nam Hỗ trợ: Hoa Kỳ",
+    "enemyForce": "Các nhóm ủng hộ Quốc trưởng Bảo Đại Mặt trận Thống nhứt Toàn lực Quốc gia Bình Xuyên Hòa Hảo Cao Đài Đại Việt Quốc dân Đảng Việt Nam Quốc dân Đảng Hỗ trợ: Pháp",
+    "result": "Ngô Đình Diệm chiến thắng Ngô Đình Diệm trở thành Tổng thống Việt Nam Cộng hòa thành lập",
+    "name": "Xung đột giáo phái Quốc gia Việt Nam (1955)",
+    "occurTime": "1955",
+    "location": ""
+  },
+  {
+    "homeForce": "Quân lực Việt Nam Cộng hòa trung thành với Ngô Đình Diệm",
+    "enemyForce": "Quân lực Việt Nam Cộng hòa nổi dậy",
+    "result": "Ngô Đình Diệm chiến thắng Đảo chính thất bại",
+    "name": "Đảo chính Việt Nam Cộng hòa lần 1 (1960)",
+    "occurTime": "1960",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa thời Đệ Nhất",
+    "enemyForce": "Các nhóm Phật giáo",
+    "result": "Ngô Đình Diệm thất bại và thay đổi chế độ Đảo chính Việt Nam Cộng hòa lần 2",
+    "name": "Biến cố Phật giáo (1963)",
+    "occurTime": "1963",
+    "location": ""
+  },
+  {
+    "homeForce": "Quân lực Việt Nam Cộng hòa trung thành với Ngô Đình Diệm",
+    "enemyForce": "Quân lực Việt Nam Cộng hòa nổi dậy Hỗ trợ: Hoa Kỳ",
+    "result": "Ngô Đình Diệm thất bại và thay đổi chế độ Ngô Đình Diệm và Ngô Đình Nhu bị ám sát Bắt đầu thời kỳ quân quản Việt Nam Cộng hòa",
+    "name": "Đảo chính Việt Nam Cộng hòa lần 2 (1963)",
+    "occurTime": "1963",
+    "location": ""
+  },
+  {
+    "homeForce": "Hội đồng Quân nhân Cách mạng Quân lực Việt Nam Cộng hòa trung thành",
+    "enemyForce": "Quân lực Việt Nam Cộng hòa nổi dậy",
+    "result": "Nguyễn Khánh và phe đảo chính chiến thắng Lực lượng đảo chính của Nguyễn Khánh thâu tóm quyền hành Hội đồng Quân nhân Cách mạng",
+    "name": "Chỉnh lý Việt Nam Cộng hòa (1964)",
+    "occurTime": "1964",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa thời Quân quản Hỗ trợ: Hoa Kỳ",
+    "enemyForce": "BAJARAKA (đến 1964) FULRO (từ 1964)",
+    "result": "Chính phủ Việt Nam Cộng hòa chiến thắng Phiến quân BAJARAKA và FULRO bị tiêu diệt và đàn áp",
+    "name": "Nổi loạn người Thượng (1964 - 1969)",
+    "occurTime": "1964 - 1969",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa thời Quân quản Hỗ trợ: Hoa Kỳ",
+    "enemyForce": "Giáo hội Phật giáo Việt Nam Thống nhất Nhân dân Trung Phần",
+    "result": "Chính phủ Việt Nam Cộng hòa chiến thắng Các cuộc biểu tình bị trấn áp Việt Nam Cộng hòa suy yếu",
+    "name": "Biến động Miền Trung (1966)",
+    "occurTime": "1966",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa thời Đệ Nhị",
+    "enemyForce": "Cộng hòa Philippines",
+    "result": "Thất bại Philippines chiếm đảo Song Tử Đông và Song Tử Tây ở Trường Sa",
+    "name": "Sự kiện Song Tử Đông (1968)",
+    "occurTime": "1968",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa thời Đệ Nhị",
+    "enemyForce": "Cộng hòa Philippines",
+    "result": "Chiến thắng Việt Nam Cộng hòa tái chiếm đảo Song Tử Tây ở Trường Sa",
+    "name": "Sự kiện Song Tử Tây (1970)",
+    "occurTime": "1970",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa thời Đệ Nhị",
+    "enemyForce": "Cộng hòa Nhân dân Trung Hoa",
+    "result": "Thất bại Trung Quốc chiếm đóng quần đảo Hoàng Sa",
+    "name": "Hải chiến Hoàng Sa (1974)",
+    "occurTime": "1974",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa Nhân dân Campuchia (từ 1979) Cộng hòa Dân chủ Nhân dân Lào Viện trợ: Liên Xô",
+    "enemyForce": "FULRO Mặt trận Giải phóng Cao Nguyên Mặt trận Giải phóng Chăm Pa Mặt trận Giải phóng Campuchia Hạ Mặt trận Giải phóng Campuchia Thượng Viện trợ: Trung Quốc Khmer Đỏ",
+    "result": "Chiến thắng FULRO đầu hàng và trao vũ khí cho Liên Hợp Quốc",
+    "name": "Nổi dậy FULRO (1975 - 1992)",
+    "occurTime": "1975 - 1992",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam",
+    "enemyForce": "Campuchia Dân chủ (Nhiều người gọi là Khmer Đỏ",
+    "result": "Chiến thắng Quân Campuchia bị đẩy lùi Bắt đầu Chiến tranh biên giới Tây Nam",
+    "name": "Xung đột biên giới Việt Nam-Campuchia (1975 - 1978)",
+    "occurTime": "1975 - 1978",
+    "location": ""
+  },
+  {
+    "homeForce": "Cộng hòa Dân chủ Nhân dân Lào Người H\u0027Mông thân chính phủ Việt Nam Viện trợ: Liên Xô (đến 1978)",
+    "enemyForce": "Người H\u0027Mông nổi loạn ở Thái Lan và Lào Nhóm cánh hữu nổi loạn: Mặt trận Thống nhất Giải phóng Lào (từ 1980) Nhóm bảo hoàng nổi loạn: Mặt trận Giải phóng Dân tộc Lào Chính phủ Dân chủ Hoàng gia Lào (1982) Viện trợ: Trung Quốc (đến 1988) Khmer Đỏ (đến 1999) Hoa Kỳ (đến 1990) Thái Lan (đến 1990) Chính phủ Lưu vong Hoàng gia Lào",
+    "result": "Lào chiến thắng Nổi loạn bị dẹp",
+    "name": "Xung đột tại Lào (1975 - 2007)",
+    "occurTime": "1975 - 2007",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa Nhân dân Campuchia (1979-1989) Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia Nhà nước Campuchia (1989-1993) Viện trợ: Liên Xô Cuba Ba Lan Tiệp Khắc",
+    "enemyForce": "Campuchia Dân chủ (1979-1982) Liên minh chính phủ Kampuchea Dân chủ (1982-1990) Khmer Đỏ Mặt trận Dân tộc Giải phóng Nhân dân Khmer (từ 1979) FUNCINPEC (từ 1981) Vương quốc Thái Lan Viện trợ: Trung Quốc Hoa Kỳ Singapore",
+    "result": "Chiến thắng Khmer Đỏ bị lật đổ Chấm dứt thời kỳ Diệt chủng Campuchia Quân đội Việt Nam chiếm đóng Campuchia sau đó rút về Xung đột đảng phái tại Campuchia",
+    "name": "Chiến tranh biên giới Tây Nam (1978 - 1989)",
+    "occurTime": "1978 - 1989",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Ủng hộ: Cuba Liên Xô",
+    "enemyForce": "Cộng hòa Nhân dân Trung Hoa",
+    "result": "Cả hai bên cùng tuyên bố chiến thắng: Trung Quốc phải rút quân Việt Nam tái chiếm lãnh thổ, tiếp tục tham chiến ở Campuchia. Xung đột Biên giới tiếp diễn đến năm 1990",
+    "name": "Chiến tranh biên giới Việt Nam-Trung Quốc (1979)",
+    "occurTime": "1979",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam",
+    "enemyForce": "Cộng hòa Nhân dân Trung Hoa",
+    "result": "Bất phân thắng bại: Giao tranh tại một số khu vực biên giới nhưng không bùng phát thành chiến tranh lớn. Hai nước bình thường hóa quan hệ vào cuối năm 1991.",
+    "name": "Xung đột Việt-Trung (1979 - 1991)",
+    "occurTime": "1979 - 1991",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Cộng hòa Nhân dân Campuchia",
+    "enemyForce": "Vương quốc Thái Lan Khmer Đỏ FUNCINPEC Viện trợ: Hoa Kỳ Trung Quốc",
+    "result": "Chiến thắng: Nhiều căn cứ du kích và các trại tị nạn dọc theo biên giới Campuchia-Thái Lan bị phá hủy và làm tự phát những hành động thù địch công khai giữa quân đội Việt Nam và Thái Lan.",
+    "name": "Xung đột Việt Nam-Thái Lan (1979 - 1989)",
+    "occurTime": "1979 - 1989",
+    "location": ""
+  },
+  {
+    "homeForce": "Cộng hòa Dân chủ Nhân dân Lào Việt Nam",
+    "enemyForce": "Vương quốc Thái Lan",
+    "result": "Lào chiến thắng",
+    "name": "Chiến tranh biên giới Lào-Thái Lan (1987 - 1988)",
+    "occurTime": "1987 - 1988",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Hải quân Nhân dân Việt Nam",
+    "enemyForce": "Cộng hòa Nhân dân Trung Hoa Hải quân Quân Giải phóng Nhân dân Trung Quốc",
+    "result": "Thất bại Trung Quốc chiếm Đá Gạc Ma Việt Nam giữ được đá Cô Lin và đá Len Đao",
+    "name": "Xung đột Trường Sa (1988)",
+    "occurTime": "1988",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam",
+    "enemyForce": "Người H\u0027Mông nổi loạn ở Tây Nguyên Nhà nước Đề Ga Hỗ trợ: Tổ chức Quỹ người Thượng",
+    "result": "Chiến thắng Các nhóm nổi loạn bị bắt",
+    "name": "Bạo loạn Tây Nguyên (2004)",
+    "occurTime": "2004",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam",
+    "enemyForce": "Hải tặc Indonesia",
+    "result": "Chiến thắng Thủy thủ đoàn được giải cứu Các tên hải tặc bị bắt",
+    "name": "Vụ cướp tàu MT Zafirah (2012)",
+    "occurTime": "2012",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam",
+    "enemyForce": "Trung Quốc",
+    "result": "Chiến thắng Trung Quốc rút giàn khoan khỏi vùng biển tranh chấp",
+    "name": "Vụ hạ giàn khoan Hải Dương 981 (2014)",
+    "occurTime": "2014",
+    "location": ""
+  },
+  {
+    "homeForce": "Việt Nam Malaysia Úc Indonesia Thái Lan",
+    "enemyForce": "Hải tặc Indonesia",
+    "result": "Chiến thắng Thủy thủ đoàn được giải cứu Các tên hải tặc bị bắt",
+    "name": "Vụ cướp tàu MT Orkim Harmony (2015)",
+    "occurTime": "2015",
+    "location": ""
+  }
+]
