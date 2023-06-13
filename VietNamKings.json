@@ -1,1378 +1,1966 @@
 [
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "2879 TCN - 2794 TCN",
     "name": "Kinh Dương Vương",
-    "otherName": "Lộc Tục",
-    "lifeTime": "unknow",
-    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
-    "category": "King of Viet Nam(2879 TCN - 2794 TCN)",
-    "family": "Khai sáng triều đại, con thứ Đế Minh, em Đế Nghi"
+    "otherName": [
+      "Kinh Dương Vương",
+      "Lộc Tục"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "2525 TCN - 2253 TCN",
     "name": "Lạc Long Quân",
-    "otherName": "Sùng Lãm",
-    "lifeTime": "unknow",
+    "otherName": [
+      "Lạc Long Quân",
+      "Sùng Lãm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
     "dynasty": "Hồng Bàng thị (2897–258 TCN)",
-    "category": "King of Viet Nam(2525 TCN - 2253 TCN)",
-    "family": "Con Kinh Dương Vương"
-  },
-  {
+    "reignTime": "TK VII TCN - ?",
     "name": "Hùng Vương thứ nhất",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(TK VII TCN - ?)",
-    "family": "Con trưởng Lạc Long Quân"
+    "otherName": [
+      "Hùng Vương thứ nhất",
+      "Hùng Quốc Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ hai",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ hai",
+      "Hùng Hiền Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ ba",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ ba",
+      "Hùng Lân Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ tư",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ tư",
+      "Hùng Diệp Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ năm",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ năm",
+      "Hùng Hy Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ sáu",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ sáu",
+      "Hùng Huy Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ bảy",
-    "otherName": "Lang Liêu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ bảy",
+      "Hùng Chiêu Vương",
+      "Lang Liêu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ tám",
-    "otherName": "Thừa Vân Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ tám",
+      "Hùng Vĩ Vương",
+      "Thừa Vân Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ chín",
-    "otherName": "Quân Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ chín",
+      "Hùng Định Vương",
+      "Quân Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ mười",
-    "otherName": "Hùng Hải Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ mười",
+      "Hùng Uy Vương",
+      "Hùng Hải Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 11",
-    "otherName": "Hưng Đức Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 11",
+      "Hùng Trinh Vương",
+      "Hưng Đức Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 12",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 12",
+      "Hùng Vũ Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 13",
-    "otherName": "Tuấn Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 13",
+      "Hùng Việt Vương",
+      "Tuấn Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 14",
-    "otherName": "Chân Nhân Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 14",
+      "Hùng Anh Vương",
+      "Chân Nhân Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 15",
-    "otherName": "Cảnh Chiêu Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 15",
+      "Hùng Triêu Vương",
+      "Cảnh Chiêu Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 16",
-    "otherName": "Đức Quân Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 16",
+      "Hùng Tạo Vương",
+      "Đức Quân Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - ?",
     "name": "Hùng Vương thứ 17",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - ?)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 17",
+      "Hùng Nghị Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "? - 258 TCN hoặc 208 TCN",
     "name": "Hùng Vương thứ 18",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - 258 TCN hoặc 208 TCN)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 18",
+      "Hùng Duệ Vương Hùng Tuyền Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "? - 6 năm",
     "name": "Hùng Vương thứ 19",
-    "otherName": "Huệ Lang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(? - 6 năm)",
-    "family": ""
+    "otherName": [
+      "Hùng Vương thứ 19",
+      "Hùng Kính Vương",
+      "Huệ Lang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "An Dương Vương",
-    "otherName": "Thục Phán (蜀泮)",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Thục (258–207 TCN)",
-    "category": "King of Viet Nam(257 – 208TCN hoặc 207 – 179TCN - )",
-    "family": "Hậu duệ Khai Minh thị nước Thục thời Xuân Thu Chiến Quốc."
+    "reignTime": "257 – 208TCN hoặc 207 – 179TCN - ",
+    "name": "An Dương Vương",
+    "otherName": [
+      "An Dương Vương",
+      "Thục Phán (蜀泮)"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Triệu (207–111 TCN)",
+    "reignTime": "204 - 137TCN",
     "name": "Triệu Vũ Vương",
-    "otherName": "Triệu Đà",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(204 - 137TCN)",
-    "family": "Dòng dõi nước Triệu thời Chiến Quốc, khai sáng triều đại."
+    "otherName": [
+      "Triệu Vũ Vương",
+      "Vũ Vương Vũ Đế",
+      "Triệu Đà"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Triệu (207–111 TCN)",
+    "reignTime": "137 - 125TCN",
     "name": "Triệu Văn Vương",
-    "otherName": "Triệu Hồ Triệu Muội",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(137 - 125TCN)",
-    "family": "Cháu nội Triệu Đà, con Triệu Trọng Thủy."
+    "otherName": [
+      "Triệu Văn Vương",
+      "Văn Vương Văn Đế",
+      "Triệu Hồ Triệu Muội"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Triệu (207–111 TCN)",
+    "reignTime": "125 - 113TCN",
     "name": "Triệu Minh Vương",
-    "otherName": "Triệu Anh Tề",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(125 - 113TCN)",
-    "family": "Con Triệu Hồ"
+    "otherName": [
+      "Triệu Minh Vương",
+      "Minh Vương",
+      "Triệu Anh Tề"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Triệu (207–111 TCN)",
+    "reignTime": "113 - 112TCN",
     "name": "Triệu Ai Vương",
-    "otherName": "Triệu Hưng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(113 - 112TCN)",
-    "family": "Con thứ Triệu Anh Tề"
+    "otherName": [
+      "Triệu Ai Vương",
+      "Ai Vương",
+      "Triệu Hưng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Triệu (207–111 TCN)",
+    "reignTime": "112 - 111TCN",
     "name": "Triệu Dương Vương",
-    "otherName": "Triệu Kiến Đức",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(112 - 111TCN)",
-    "family": "Con trưởng Triệu Anh Tề, anh Triệu Hưng."
+    "otherName": [
+      "Triệu Dương Vương",
+      "Dương Vương Thuật Dương Vương Vệ Dương vương Vệ Dương hầu",
+      "Triệu Kiến Đức"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "40 - 43",
     "name": "Trưng Vương",
-    "otherName": "Trưng Trắc (徵側) Lạc Trắc",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(40 - 43)",
-    "family": "Vợ Thi Sách, sáng lập triều đại"
+    "otherName": [
+      "Trưng Vương",
+      "Trinh Linh Chi Phu Nhân",
+      "Trưng Trắc (徵側) Lạc Trắc"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Lý Nam Đế",
-    "otherName": "Lý Bí Lý Bôn (李賁)",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Tiền Lý (544–602)",
-    "category": "King of Viet Nam(544 - 548)",
-    "family": "Nổi dậy tự lập, khai sáng triều đại"
+    "reignTime": "544 - 548",
+    "name": "Lý Nam Đế",
+    "otherName": [
+      "Lý Nam Đế",
+      "Nam Đế",
+      "Nam Việt Đế",
+      "Lý Bí Lý Bôn (李賁)"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tiền Lý (544–602)",
+    "reignTime": "548 - 571",
     "name": "Triệu Việt Vương",
-    "otherName": "Triệu Quang Phục (趙光復)",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(548 - 571)",
-    "family": "Con Thái phó Triệu Túc, được Lý Nam Đế giao toàn bộ quyền hành."
+    "otherName": [
+      "Triệu Việt Vương",
+      "Nam Việt Quốc Vương",
+      "Dạ Trạch Vương Thần Vũ Hoàng Đế",
+      "Triệu Quang Phục (趙光復)"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tiền Lý (544–602)",
+    "reignTime": "549 - 555",
     "name": "Đào Lang Vương",
-    "otherName": "Lý Thiên Bảo",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(549 - 555)",
-    "family": "Anh trai Lý Nam Đế"
+    "otherName": [
+      "Đào Lang Vương",
+      "Lý Thiên Bảo"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tiền Lý (544–602)",
+    "reignTime": "555 - 602",
     "name": "Hậu Lý Nam Đế",
-    "otherName": "Lý Phật Tử (李佛子)",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(555 - 602)",
-    "family": "Người trong họ Lý Nam Đế"
+    "otherName": [
+      "Hậu Lý Nam Đế",
+      "Nam Đế Anh Liệt Nhân Hiếu Khâm Minh Thánh Vũ Hoàng Đế",
+      "Lý Phật Tử (李佛子)"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tiền Lý (544–602)",
+    "reignTime": "602 - 603",
     "name": "Lý Sư Lợi",
-    "otherName": "Lý Sư Lợi",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(602 - 603)",
-    "family": "con Hậu Lý Nam Đế"
+    "otherName": [
+      "Lý Sư Lợi"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chống Bắc thuộc lần ba Họ Mai (713–723) Họ Phùng (779–791)",
+    "reignTime": "713 - 722",
     "name": "Mai Hắc Đế",
-    "otherName": "Mai Thúc Loan, (梅叔鸞) Mai Huyền Thành, Mai Lập Thành, Mai Thúc Yên, Mai Phượng.",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(713 - 722)",
-    "family": "Con Mai Hoàn, sáng lập triều đại."
+    "otherName": [
+      "Mai Hắc Đế",
+      "Đại Đế",
+      "Hắc Đế",
+      "Mai Thúc Loan, (梅叔鸞) Mai Huyền Thành, Mai Lập Thành, Mai Thúc Yên, Mai Phượng."
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chống Bắc thuộc lần ba Họ Mai (713–723) Họ Phùng (779–791)",
+    "reignTime": "722 - 723",
     "name": "Mai Thiếu Đế",
-    "otherName": "Mai Thúc Huy, Mai Bảo Sơn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(722 - 723)",
-    "family": "Con út Mai Hắc Đế, em song sinh với Bạch Đầu Đế."
+    "otherName": [
+      "Mai Thiếu Đế",
+      "Mai Thúc Huy",
+      "Mai Bảo Sơn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chống Bắc thuộc lần ba Họ Mai (713–723) Họ Phùng (779–791)",
+    "reignTime": "723 - 723",
     "name": "Bạch Đầu Đế",
-    "otherName": "Mai Kỳ Sơn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(723 - 723)",
-    "family": "Con thứ hai Mai Hắc Đế, anh song sinh với Mai Thiếu Đế."
+    "otherName": [
+      "Bạch Đầu Đế",
+      "Mai Kỳ Sơn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chống Bắc thuộc lần ba Họ Mai (713–723) Họ Phùng (779–791)",
+    "reignTime": "766 - 791",
     "name": "Phùng Hưng",
-    "otherName": "Phùng Hưng (馮興), Phùng Cự Lão",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(766 - 791)",
-    "family": "con Phùng Hạp Khanh, thế tập Biên Khố Di Tù Trưởng"
+    "otherName": [
+      "Phùng Hưng",
+      "Bố Cái Đại Vương",
+      "Phùng Hưng (馮興)",
+      "Phùng Cự Lão"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chống Bắc thuộc lần ba Họ Mai (713–723) Họ Phùng (779–791)",
+    "reignTime": "791 - 791",
     "name": "Phùng An",
-    "otherName": "Phùng An",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(791 - 791)",
-    "family": "con Phùng Hưng"
+    "otherName": [
+      "Phùng An"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Tự chủ (905–930; 931–938)",
+    "reignTime": "905 - 907",
     "name": "Khúc Tiên Chủ",
-    "otherName": "Khúc Thừa Dụ (曲承裕)",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(905 - 907)",
-    "family": "Mở màn nền tự chủ"
+    "otherName": [
+      "Khúc Tiên Chủ",
+      "Tiên Vương",
+      "Khúc Thừa Dụ (曲承裕)"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Tự chủ (905–930; 931–938)",
+    "reignTime": "907 - 917",
     "name": "Khúc Trung Chủ",
-    "otherName": "Khúc Hạo, (曲顥) Khúc Thừa Hạo",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(907 - 917)",
-    "family": "Con Khúc Thừa Dụ"
+    "otherName": [
+      "Khúc Trung Chủ",
+      "Trung Vương",
+      "Khúc Hạo, (曲顥) Khúc Thừa Hạo"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Tự chủ (905–930; 931–938)",
+    "reignTime": "917 - 923 930",
     "name": "Khúc Hậu Chủ",
-    "otherName": "Khúc Thừa Mỹ (曲承美) Khúc Toàn Mỹ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(917 - 923 930)",
-    "family": "Con Khúc Hạo"
+    "otherName": [
+      "Khúc Hậu Chủ",
+      "Hậu Vương",
+      "Khúc Thừa Mỹ (曲承美) Khúc Toàn Mỹ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "931 - 937",
     "name": "Dương Chính Công",
-    "otherName": "Dương Đình Nghệ, (楊廷藝) Dương Diên Nghệ (楊筵藝)",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(931 - 937)",
-    "family": "Khôi phục nền tự chủ; nha tướng của Khúc Hạo"
+    "otherName": [
+      "Dương Chính Công",
+      "Dương Đình Nghệ, (楊廷藝) Dương Diên Nghệ (楊筵藝)"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Tự chủ (905–930; 931–938)",
+    "reignTime": "937 - 938",
     "name": "Kiều Công Tiễn",
-    "otherName": "Kiều Công Tiễn, (矯公羨) Kiểu Công Tiễn, Kiểu Công Hạo,",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(937 - 938)",
-    "family": "Con nuôi và nha tướng của Dương Đình Nghệ"
+    "otherName": [
+      "Kiều Công Tiễn",
+      "Kiều Công Tiễn, (矯公羨) Kiểu Công Tiễn, Kiểu Công Hạo,"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "",
-    "otherName": "",
-    "lifeTime": "unknow",
     "dynasty": "",
-    "category": "King of Viet Nam( - )",
-    "family": ""
-  },
-  {
+    "reignTime": "Nhà Hồ - ",
     "name": "Nhà Ngô",
-    "otherName": "Nhà Lý",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(Nhà Hồ - )",
-    "family": "Nhà Trần"
+    "otherName": [
+      "Nhà Ngô",
+      "Nhà Đinh",
+      "Nhà Lý"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "",
-    "otherName": "",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam( - )",
-    "family": ""
-  },
-  {
-    "name": "",
-    "otherName": "",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam( - )",
-    "family": ""
-  },
-  {
-    "name": "",
-    "otherName": "",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam( - )",
-    "family": ""
-  },
-  {
-    "name": "",
-    "otherName": "1225",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam( - 1427)",
-    "family": "1400"
-  },
-  {
-    "name": "Tiền Ngô Vương",
-    "otherName": "Ngô Quyền",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Ngô (938–965)",
-    "category": "King of Viet Nam(939 - 944)",
-    "family": "Sáng lập triều đại; con rể Dương Đình Nghệ"
+    "reignTime": "939 - 944",
+    "name": "Tiền Ngô Vương",
+    "otherName": [
+      "Tiền Ngô Vương",
+      "Ngô Quyền"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Ngô (938–965)",
+    "reignTime": "944 - 950",
     "name": "Dương Bình Vương",
-    "otherName": "Dương Tam Kha, Dương Chủ Tướng, Dương Thiệu Hồng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(944 - 950)",
-    "family": "Con trai Dương Đình Nghệ"
+    "otherName": [
+      "Dương Bình Vương",
+      "Trương Dương Công",
+      "Dương Tam Kha, Dương Chủ Tướng, Dương Thiệu Hồng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Ngô (938–965)",
+    "reignTime": "951 - 954",
     "name": "Thiên Sách Vương",
-    "otherName": "Ngô Xương Ngập",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(951 - 954)",
-    "family": "Con trưởng Ngô Quyền"
+    "otherName": [
+      "Thiên Sách Vương",
+      "Ngô Xương Ngập"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Ngô (938–965)",
+    "reignTime": "950 - 965",
     "name": "Nam Tấn Vương",
-    "otherName": "Ngô Xương Tấn, Ngô Xương Văn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(950 - 965)",
-    "family": "Con thứ Ngô Quyền"
+    "otherName": [
+      "Nam Tấn Vương",
+      "Ngô Xương Tấn, Ngô Xương Văn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Ngô (938–965)",
+    "reignTime": "965 - 966",
     "name": "Ngô Sứ Quân",
-    "otherName": "Ngô Xương Xí",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(965 - 966)",
-    "family": "Con Ngô Xương Ngập"
+    "otherName": [
+      "Ngô Sứ Quân",
+      "Ngô Xương Xí"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Đinh (968–980)",
+    "reignTime": "968 - 979",
     "name": "Đinh Tiên Hoàng",
-    "otherName": "Đinh Bộ Lĩnh, Đinh Hoàn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(968 - 979)",
-    "family": "Sáng lập triều đại; con nuôi Sứ quân Trần Minh Công"
+    "otherName": [
+      "Đinh Tiên Hoàng",
+      "Tiên Hoàng Đế Đại Thắng Minh Hoàng Đế",
+      "Đinh Bộ Lĩnh, Đinh Hoàn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Đinh (968–980)",
+    "reignTime": "979 - 980",
     "name": "Đinh Phế Đế",
-    "otherName": "Đinh Toàn, Đinh Tuệ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(979 - 980)",
-    "family": "Con trai thứ 2 Đinh Tiên Hoàng"
+    "otherName": [
+      "Đinh Phế Đế",
+      "Phế Đế Thiếu Đế",
+      "Đinh Toàn, Đinh Tuệ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tiền Lê (980–1009)",
+    "reignTime": "980 - 1005",
     "name": "Lê Đại Hành",
-    "otherName": "Lê Hoàn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(980 - 1005)",
-    "family": "Sáng lập triều đại, Phó vương nhiếp chính thời Đinh Phế Đế"
+    "otherName": [
+      "Lê Đại Hành",
+      "Đại Hành Hoàng Đế Minh Càn Ứng Vận Thần Vũ Thăng Bình Chí Nhân Quảng Hiếu Hoàng đế",
+      "Lê Hoàn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Lê Trung Tông",
-    "otherName": "Lê Long Việt",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Tiền Lê (980–1009)",
-    "category": "King of Viet Nam(1005 - 1005)",
-    "family": "Con thứ Lê Đại Hành"
+    "reignTime": "1005 - 1005",
+    "name": "Lê Trung Tông",
+    "otherName": [
+      "Lê Trung Tông",
+      "Lê Long Việt"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1005 - 1009",
     "name": "Lê Ngọa Triều",
-    "otherName": "Lê Long Đĩnh,",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1005 - 1009)",
-    "family": "Con thứ năm Lê Đại Hành"
+    "otherName": [
+      "Lê Ngọa Triều",
+      "Khai Thiên Ứng Vận Thánh Văn Thần Vũ Tắc Thiên Sùng Đạo Đại Thắng Minh Quang Hiếu Hoàng Đế Ngọa Triều Hoàng Đế",
+      "Lê Long Đĩnh,"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1009 - 1028",
     "name": "Lý Thái Tổ",
-    "otherName": "Lý Công Uẩn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1009 - 1028)",
-    "family": "Sáng lập triều đại. Nguyên là Điện tiền Chỉ huy sứ và là Phò mã trưởng Lê Đại Hành"
+    "otherName": [
+      "Lý Thái Tổ",
+      "Thần Vũ Hoàng Đế",
+      "Lý Công Uẩn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1028 - 1054",
     "name": "Lý Thái Tông",
-    "otherName": "Lý Phật Mã, Lý Đức Chính",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1028 - 1054)",
-    "family": "Con trưởng Lý Thái Tổ"
+    "otherName": [
+      "Lý Thái Tông",
+      "Từ Hiếu Hoàng đế",
+      "Lý Phật Mã, Lý Đức Chính"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1054 - 1072",
     "name": "Lý Thánh Tông",
-    "otherName": "Lý Nhật Tôn",
-    "lifeTime": "unknow",
-    "dynasty": "Nhà Lý (1009–1225)",
-    "category": "King of Viet Nam(1054 - 1072)",
-    "family": "Con trưởng Lý Thái Tông"
+    "otherName": [
+      "Lý Thánh Tông",
+      "Thánh Thần Hoàng đế",
+      "Lý Nhật Tôn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1072 - 1127",
     "name": "Lý Nhân Tông",
-    "otherName": "Lý Càn Đức",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1072 - 1127)",
-    "family": "Con trưởng Lý Thánh Tông"
+    "otherName": [
+      "Lý Nhân Tông",
+      "Hiếu Từ Thánh Thần Văn Vũ Hoàng Đế",
+      "Lý Càn Đức"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Lý Thần Tông",
-    "otherName": "Lý Dương Hoán",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1127 - 1138)",
-    "family": "con Sùng Hiền Hầu, cháu nội Lý Thánh Tông"
-  },
-  {
-    "name": "Lý Anh Tông",
-    "otherName": "Lý Thiên Tộ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1138 - 1175)",
-    "family": "Con thứ Lý Thần Tông"
-  },
-  {
-    "name": "Lý Cao Tông",
-    "otherName": "Lý Long Cán Lý Long Trát",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Lý (1009–1225)",
-    "category": "King of Viet Nam(1176 - 1204)",
-    "family": "Con thứ 6 Lý Anh Tông"
+    "reignTime": "1127 - 1138",
+    "name": "Lý Thần Tông",
+    "otherName": [
+      "Lý Thần Tông",
+      "Quảng Văn Sùng Hiếu Khâm Minh Văn Vũ Hoàng Đế",
+      "Lý Dương Hoán"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1138 - 1175",
+    "name": "Lý Anh Tông",
+    "otherName": [
+      "Lý Anh Tông",
+      "Chí Hiếu Hoàng Đế",
+      "Lý Thiên Tộ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1176 - 1204",
+    "name": "Lý Cao Tông",
+    "otherName": [
+      "Lý Cao Tông",
+      "Quang Hiếu Hoàng Đế",
+      "Lý Long Cán Lý Long Trát"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1209 - 1209",
     "name": "Lý Thẩm",
-    "otherName": "Lý Thẩm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1209 - 1209)",
-    "family": "Con thứ Lý Cao Tông"
+    "otherName": [
+      "Lý Thẩm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1211 - 1224",
     "name": "Lý Huệ Tông",
-    "otherName": "Lý Sảm, Lý Hạo Sảm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1211 - 1224)",
-    "family": "Con trưởng Lý Cao Tông"
+    "otherName": [
+      "Lý Huệ Tông",
+      "Hoành Hiếu Hoàng đế",
+      "Lý Sảm, Lý Hạo Sảm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1214 - 1216",
     "name": "Lý Nguyên Vương",
-    "otherName": "không rõ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1214 - 1216)",
-    "family": "Con thứ Lý Anh Tông"
+    "otherName": [
+      "Lý Nguyên Vương",
+      "Nguyên Vương Văn Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lý (1009–1225)",
+    "reignTime": "1224 - 1225",
     "name": "Lý Chiêu Hoàng",
-    "otherName": "Lý Phật Kim, Lý Thiên Hinh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1224 - 1225)",
-    "family": "Con gái Lý Huệ Tông, vợ Trần Thái Tông"
+    "otherName": [
+      "Lý Chiêu Hoàng",
+      "Chiêu Hoàng",
+      "Lý Phật Kim, Lý Thiên Hinh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1225 - 1258",
     "name": "Trần Thái Tông",
-    "otherName": "Trần Cảnh Trần Bồ Trần Quang Bỉnh Trần Nhật Cảnh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1225 - 1258)",
-    "family": "Sáng lập triều đại, chồng và anh họ Lý Chiêu Hoàng"
+    "otherName": [
+      "Trần Thái Tông",
+      "Thống Thiên Ngự Cực Long Công Hậu Đức Hiền Công Hựu Thuận Thánh Văn Thần Vũ Hiếu Nguyên Hoàng Đế",
+      "Trần Cảnh Trần Bồ Trần Quang Bỉnh Trần Nhật Cảnh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1258 - 1279",
     "name": "Trần Thánh Tông",
-    "otherName": "Trần Hoảng Trần Uy Hoảng Trần Quang Bính Trần Nhật Huyên",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1258 - 1279)",
-    "family": "Con thứ hai Trần Thái Tông"
+    "otherName": [
+      "Trần Thánh Tông",
+      "Huyền Công Thịnh Đức Nhân Minh Văn Vũ Tuyên Hiếu Hoàng Đế",
+      "Trần Hoảng Trần Uy Hoảng Trần Quang Bính Trần Nhật Huyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1278 - 1293",
     "name": "Trần Nhân Tông",
-    "otherName": "Trần Khâm Trần Nhật Tuấn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1278 - 1293)",
-    "family": "Con trưởng Trần Thánh Tông"
+    "otherName": [
+      "Trần Nhân Tông",
+      "Pháp Thiên Sùng Đạo Ứng Thế Hóa Dân Long Từ Hiển Hiệu Thánh Văn Thần Vũ Nguyên Minh Duệ Hiếu Hoàng Đế",
+      "Trần Khâm Trần Nhật Tuấn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1293 - 1314",
     "name": "Trần Anh Tông",
-    "otherName": "Trần Thuyên Trần Nhật 㷃 Trần Nhật 𤊞",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1293 - 1314)",
-    "family": "Con trưởng Trần Nhân Tông"
+    "otherName": [
+      "Trần Anh Tông",
+      "Hiển Văn Duệ Vũ Khâm Minh Nhân Hiếu Hoàng Đế",
+      "Trần Thuyên Trần Nhật 㷃 Trần Nhật 𤊞"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1314 - 1329",
     "name": "Trần Minh Tông",
-    "otherName": "Trần Mạnh Trần Thánh Sinh Trần Nhật Khoáng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1314 - 1329)",
-    "family": "Con thứ tư Trần Anh Tông"
+    "otherName": [
+      "Trần Minh Tông",
+      "Chương Nghiêu Văn Triết Hoàng Đế",
+      "Trần Mạnh Trần Thánh Sinh Trần Nhật Khoáng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1329 - 1341",
     "name": "Trần Hiến Tông",
-    "otherName": "Trần Vượng Trần Thiên Kiến  Trần Nhật 㷆",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1329 - 1341)",
-    "family": "Con trưởng Trần Minh Tông"
+    "otherName": [
+      "Trần Hiến Tông",
+      " Thể Nguyên Ngự Cực Duệ Thánh Chí Hiếu Hoàng Đế",
+      "Trần Vượng Trần Thiên Kiến  Trần Nhật 㷆"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1341 - 1369",
     "name": "Trần Dụ Tông",
-    "otherName": "Trần Hạo Trần Nhật Khuê",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1341 - 1369)",
-    "family": "Con thứ mười Trần Minh Tông, dòng hoàng đích tử"
+    "otherName": [
+      "Trần Dụ Tông",
+      "Thống Thiên Thể Đạo Nhân Minh Quang Hiếu Hoàng đế",
+      "Trần Hạo Trần Nhật Khuê"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1369 - 1370",
     "name": "Đại Định Đế",
-    "otherName": "Trần Nhật Lễ Dương Nhật Lễ Trần Nhật Kiên",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1369 - 1370)",
-    "family": "Con riêng của chị dâu Trần Dụ Tông"
+    "otherName": [
+      "Đại Định Đế",
+      "Hôn Đức Công",
+      "Trần Nhật Lễ Dương Nhật Lễ Trần Nhật Kiên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1370 - 1372",
     "name": "Trần Nghệ Tông",
-    "otherName": "Trần Phủ Trần Thúc Minh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1370 - 1372)",
-    "family": "Con thứ ba Trần Minh Tông"
+    "otherName": [
+      "Trần Nghệ Tông",
+      "Quang Nhiên Anh Triết Hoàng Đế Thể Thiên Kiến Cực Thuần Hiếu Hoàng Đế",
+      "Trần Phủ Trần Thúc Minh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1372 - 1377",
     "name": "Trần Duệ Tông",
-    "otherName": "Trần Kính Trần Nhật Đoan",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1372 - 1377)",
-    "family": "Con thứ 11 Trần Minh Tông"
+    "otherName": [
+      "Trần Duệ Tông",
+      "Kế Thiên Ứng Vận Nhân Minh Khâm Hiếu Hoàng Đế",
+      "Trần Kính Trần Nhật Đoan"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Đinh (968–980)",
+    "reignTime": "1377 - 1388",
     "name": "Trần Phế Đế",
-    "otherName": "Trần Hiện Trần Nhật Vĩ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1377 - 1388)",
-    "family": "Con thứ Trần Duệ Tông"
+    "otherName": [
+      "Trần Phế Đế",
+      "Phế Đế",
+      "Trần Hiện Trần Nhật Vĩ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Trần (1225–1400)",
+    "reignTime": "1388 - 1398",
     "name": "Trần Thuận Tông",
-    "otherName": "Trần Ngung Trần Nhật Hỗn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1388 - 1398)",
-    "family": "Con thứ của Trần Nghệ Tông"
+    "otherName": [
+      "Trần Thuận Tông",
+      "Trần Ngung Trần Nhật Hỗn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chống Bắc thuộc lần ba Họ Mai (713–723) Họ Phùng (779–791)",
+    "reignTime": "1398 - 1400",
     "name": "Trần Thiếu Đế",
-    "otherName": "Trần An",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1398 - 1400)",
-    "family": "Con trưởng Trần Thuận Tông, cháu ngoại Hồ Quý Ly"
+    "otherName": [
+      "Trần Thiếu Đế",
+      "Thiếu Đế",
+      "Trần An"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Hồ Quý Ly",
-    "otherName": "Hồ Quý Ly Hồ Nhất Nguyên Lê Quý Ly Lê Nhất Nguyên",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1400 - 1400)",
-    "family": "Sáng lập triều đại, phò mã Trần Minh Tông, ông ngoại Trần Thiếu Đế"
-  },
-  {
-    "name": "Hồ Hán Thương",
-    "otherName": "Hồ Hán Thương Lê Hán Thương Hồ Hỏa",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Hồ (1400–1407)",
-    "category": "King of Viet Nam(1400 - 1407)",
-    "family": "Con thứ Hồ Quý Ly"
+    "reignTime": "1400 - 1400",
+    "name": "Hồ Quý Ly",
+    "otherName": [
+      "Hồ Quý Ly",
+      "Chương Hoàng",
+      "Hồ Quý Ly Hồ Nhất Nguyên Lê Quý Ly Lê Nhất Nguyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Hồ (1400–1407)",
+    "reignTime": "1400 - 1407",
+    "name": "Hồ Hán Thương",
+    "otherName": [
+      "Hồ Hán Thương",
+      "Hồ Hán Thương Lê Hán Thương Hồ Hỏa"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "",
+    "reignTime": "1407 - 1407",
     "name": "Trần Nguyệt Hồ",
-    "otherName": "Trần Nguyệt Hồ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1407 - 1407)",
-    "family": "không rõ"
+    "otherName": [
+      "Trần Nguyệt Hồ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Hậu Trần (1407–1414; 1426–1427)",
+    "reignTime": "1407 - 1409",
     "name": "Giản Định Đế",
-    "otherName": "Trần Ngỗi, Trần Quỹ",
-    "lifeTime": "unknow",
-    "dynasty": "Nhà Hậu Trần (1407–1414; 1426–1427)",
-    "category": "King of Viet Nam(1407 - 1409)",
-    "family": "Con trai thứ Trần Nghệ Tông"
+    "otherName": [
+      "Giản Định Đế",
+      "Trần Ngỗi",
+      "Trần Quỹ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Hậu Trần (1407–1414; 1426–1427)",
+    "reignTime": "1409 - 1414",
     "name": "Trùng Quang Đế",
-    "otherName": "Trần Quý Khoáng, Trần Quý Khoách",
-    "lifeTime": "unknow",
+    "otherName": [
+      "Trùng Quang Đế",
+      "Trần Quý Khoáng",
+      "Trần Quý Khoách"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
     "dynasty": "Nhà Hậu Trần (1407–1414; 1426–1427)",
-    "category": "King of Viet Nam(1409 - 1414)",
-    "family": "Cháu nội Trần Nghệ Tông"
-  },
-  {
+    "reignTime": "— - ",
     "name": "Trần Cảo",
-    "otherName": "Trần Cảo, Trần Địch, Trần Cao, Trần Hồ Ông",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(— - )",
-    "family": "1426"
+    "otherName": [
+      "Trần Cảo",
+      "Trần Cảo, Trần Địch, Trần Cao, Trần Hồ Ông"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Lê Thái Tổ",
-    "otherName": "Lê Lợi",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1428 - 1433)",
-    "family": "Sáng lập triểu đại"
-  },
-  {
-    "name": "Lê Thái Tông",
-    "otherName": "Lê Nguyên Long Lê Lân",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1433 - 1442)",
-    "family": "Con thứ hai Lê Thái Tổ"
-  },
-  {
-    "name": "Lê Nhân Tông",
-    "otherName": "Lê Bang Cơ Lê Cơ Long Lê Tuấn",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Lê sơ (1428–1527)",
-    "category": "King of Viet Nam(1442 - 1459)",
-    "family": "Con thứ ba Lê Thái Tông"
+    "reignTime": "1428 - 1433",
+    "name": "Lê Thái Tổ",
+    "otherName": [
+      "Lê Thái Tổ",
+      "Thống Thiên Khải Vận Thánh Đức Thần Công Duệ Văn Anh Vũ Khoan Minh Dũng Trí Hoàng Nghĩa Chí Minh Đại Hiếu Cao Hoàng Đế",
+      "Lê Lợi"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1433 - 1442",
+    "name": "Lê Thái Tông",
+    "otherName": [
+      "Lê Thái Tông",
+      "Kế Thiên Thể Đạo Hiển Đức Thánh Công Khâm Minh Văn Tư Anh Duệ Triết Chiêu Hiến Kiến Trung Văn Hoàng Đế",
+      "Lê Nguyên Long Lê Lân"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1442 - 1459",
+    "name": "Lê Nhân Tông",
+    "otherName": [
+      "Lê Nhân Tông",
+      "Khâm Văn Nhân Hiếu Tuyên Minh Thông Duệ Tuyên Hoàng Đế",
+      "Lê Bang Cơ Lê Cơ Long Lê Tuấn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "",
+    "reignTime": "1459 - 1460",
     "name": "Lạng Sơn Vương",
-    "otherName": "Lê Nghi Dân Lê Tông",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1459 - 1460)",
-    "family": "Con trưởng Lê Thái Tông"
+    "otherName": [
+      "Lạng Sơn Vương",
+      "Lệ Đức Hầu",
+      "Lê Nghi Dân Lê Tông"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1460 - 1497",
     "name": "Lê Thánh Tông",
-    "otherName": "Lê Tư Thành Lê Hạo",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1460 - 1497)",
-    "family": "Con thứ tư Lê Thái Tông"
+    "otherName": [
+      "Lê Thánh Tông",
+      "Sùng Thiên Quảng Vận Cao Minh Quang Chính Chí Đức Đại Công Thánh Văn Thần Vũ Đạt Hiếu Thuần Hoàng Đế",
+      "Lê Tư Thành Lê Hạo"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1497 - 1504",
     "name": "Lê Hiến Tông",
-    "otherName": "Lê Tranh Lê Sanh Lê Huy Lê Tăng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1497 - 1504)",
-    "family": "Con trưởng Lê Thánh Tông"
+    "otherName": [
+      "Lê Hiến Tông",
+      "Thể Thiên Ngưng Đạo Mậu Đức Chí Chiêu Văn Thiệu Vũ Tuyên Triết Khâm Thành Chương Hiếu Duệ Hoàng Đế",
+      "Lê Tranh Lê Sanh Lê Huy Lê Tăng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1504 - 1504",
     "name": "Lê Túc Tông",
-    "otherName": "Lê Thuần",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1504 - 1504)",
-    "family": "Con thứ ba Lê Hiến Tông"
+    "otherName": [
+      "Lê Túc Tông",
+      "Chiêu Nghĩa Hiển Nhân Ôn Cung Uyên Mặc Hiếu Doãn Cung Khâm Hoàng Đế",
+      "Lê Thuần"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1504 - 1509",
     "name": "Lê Uy Mục",
-    "otherName": "Lê Tuấn Lê Huyên",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1504 - 1509)",
-    "family": "Con thứ hai Lê Hiến Tông"
+    "otherName": [
+      "Lê Uy Mục",
+      "Uy Mục Đế",
+      "Lê Tuấn Lê Huyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1509 - 1516",
     "name": "Lê Tương Dực",
-    "otherName": "Lê Oánh Lê Oanh Lê Dinh Lê Trừu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1509 - 1516)",
-    "family": "Con Lê Đức Tông, cháu nội Lê Thánh Tông"
+    "otherName": [
+      "Lê Tương Dực",
+      "Tương Dực Đế",
+      "Lê Oánh Lê Oanh Lê Dinh Lê Trừu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1516 - 1516",
     "name": "Lê Quang Trị",
-    "otherName": "Lê Quang Trị",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1516 - 1516)",
-    "family": "Con Lê Doanh, cháu nội Lê Đức Tông, cháu gọi Lê Tương Dực bằng bác"
+    "otherName": [
+      "Lê Quang Trị"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1516 - 1525",
     "name": "Lê Chiêu Tông",
-    "otherName": "Lê Y Lê Huệ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1516 - 1525)",
-    "family": "Anh họ Lê Quang Trị, chắt Lê Thánh Tông"
+    "otherName": [
+      "Lê Chiêu Tông",
+      "Thần Hoàng Đế",
+      "Lê Y Lê Huệ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1518 - 1519",
     "name": "Lê Bảng",
-    "otherName": "Lê Bảng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1518 - 1519)",
-    "family": "Con Lê Lộc, Lộc là cháu nội Lê Khắc Xương, Khắc Xương là anh của Lê Thánh Tông"
+    "otherName": [
+      "Lê Bảng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1519 - 1519",
     "name": "Lê Do",
-    "otherName": "Lê Do Lê Dữu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1519 - 1519)",
-    "family": "Em cùng mẹ với Lê Bảng"
+    "otherName": [
+      "Lê Do",
+      "Lê Do Lê Dữu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê sơ (1428–1527)",
+    "reignTime": "1522 - 1527",
     "name": "Lê Cung Hoàng",
-    "otherName": "Lê Xuân Lê Lự Lê Khánh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1522 - 1527)",
-    "family": "Em Lê Chiêu Tông"
+    "otherName": [
+      "Lê Cung Hoàng",
+      "Cung Hoàng Đế",
+      "Lê Xuân Lê Lự Lê Khánh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1527 - 1530",
     "name": "Mạc Thái Tổ",
-    "otherName": "Mạc Đăng Dung",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1527 - 1530)",
-    "family": "Cháu 7 đời Mạc Đĩnh Chi, sáng lập triều đại"
+    "otherName": [
+      "Mạc Thái Tổ",
+      "Nhân Minh Cao Hoàng Đế",
+      "Mạc Đăng Dung"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1530 - 1540",
     "name": "Mạc Thái Tông",
-    "otherName": "Mạc Đăng Doanh Mạc Phương Doanh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1530 - 1540)",
-    "family": "Con trưởng Mạc Thái Tổ"
+    "otherName": [
+      "Mạc Thái Tông",
+      "Khâm Triết Văn Hoàng Đế",
+      "Mạc Đăng Doanh Mạc Phương Doanh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1540 - 1546",
     "name": "Mạc Hiến Tông",
-    "otherName": "Mạc Phúc Hải Mạc Đức Nguyên",
-    "lifeTime": "unknow",
-    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
-    "category": "King of Viet Nam(1540 - 1546)",
-    "family": "Con trưởng Mạc Thái Tông"
+    "otherName": [
+      "Mạc Hiến Tông",
+      "Hiển Hoàng Đế",
+      "Mạc Phúc Hải Mạc Đức Nguyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1546 - 1547",
     "name": "Mạc Chính Trung",
-    "otherName": "Mạc Chính Trung",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1546 - 1547)",
-    "family": "Em Mạc Thái Tông"
+    "otherName": [
+      "Mạc Chính Trung"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Mạc Tuyên Tông",
-    "otherName": "Mạc Phúc Nguyên",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
-    "category": "King of Viet Nam(1546 - 1561)",
-    "family": "Con Mạc Hiến Tông"
+    "reignTime": "1546 - 1561",
+    "name": "Mạc Tuyên Tông",
+    "otherName": [
+      "Mạc Tuyên Tông",
+      "Anh Nghị Hoàng Đế Duệ Hoàng Đế",
+      "Mạc Phúc Nguyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1561 - 1592",
     "name": "Mạc Mục Tông Mạc Anh Tổ",
-    "otherName": "Mạc Mậu Hợp",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1561 - 1592)",
-    "family": "Con trai Mạc Tuyên Tông"
+    "otherName": [
+      "Mạc Mục Tông Mạc Anh Tổ",
+      "An Thiên Huy Địa Trang Văn Cẩn Vũ Bình Định Huệ Cương Hiếu Tĩnh Hoàng Đế",
+      "Mạc Mậu Hợp"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1592 - 1592",
     "name": "Mạc Cảnh Tông",
-    "otherName": "Mạc Toàn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1592 - 1592)",
-    "family": "Con thứ Mạc Mậu Hợp"
+    "otherName": [
+      "Mạc Cảnh Tông",
+      "Khai Thiên Xung Địa An Văn Đoạt Vũ Thành Hoàng Đế",
+      "Mạc Toàn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1592 - 1593",
     "name": "Mạc Mẫn Tông",
-    "otherName": "Mạc Kính Chỉ Mạc Kính Bang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1592 - 1593)",
-    "family": "Con trưởng Mạc Kính Điển, cháu nội Mạc Thái Tông"
+    "otherName": [
+      "Mạc Mẫn Tông",
+      "Hoài Nghị Minh Huấn Trinh Hoàng Đế",
+      "Mạc Kính Chỉ Mạc Kính Bang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1592 - 1625",
     "name": "Mạc Đại Tông",
-    "otherName": "Mạc Kính Cung",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1592 - 1625)",
-    "family": "Con thứ 7 Mạc Kính Điển"
+    "otherName": [
+      "Mạc Đại Tông",
+      "Khởi Thiên Đĩnh Địa Khắc Văn Định Vũ Linh Hoàng Đế",
+      "Mạc Kính Cung"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Mạc (1527–1592; 1593–1683)",
+    "reignTime": "1623 - 1638",
     "name": "Mạc Quang Tổ",
-    "otherName": "Mạc Kính Khoan",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1623 - 1638)",
-    "family": "Cháu nội Mạc Kính Điển"
+    "otherName": [
+      "Mạc Quang Tổ",
+      "Hoà Thiên Phù Địa Độ Văn Khánh Vũ Huệ Nguyên Hoàng Đế",
+      "Mạc Kính Khoan"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1638 - 1677",
     "name": "Mạc Minh Tông",
-    "otherName": "Mạc Kính Vũ Mạc Kính Hoàn Mạc Kính Diệu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1638 - 1677)",
-    "family": "Con Mạc Kính Khoan"
+    "otherName": [
+      "Mạc Minh Tông",
+      "Trang Thiên Huệ Địa Cảnh Văn Di Vũ Khai Hoàng Đế",
+      "Mạc Kính Vũ Mạc Kính Hoàn Mạc Kính Diệu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1677 - 1681",
     "name": "Mạc Quý Tông",
-    "otherName": "Mạc Kính Hẻ Mạc Kính Thụy Mạc Nguyên Thanh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1677 - 1681)",
-    "family": "Con Mạc Kính Vũ"
+    "otherName": [
+      "Mạc Quý Tông",
+      "Hoàn Thiên Thanh Địa Đoạt Văn Dương Vũ Huệ Đại Vương",
+      "Mạc Kính Hẻ Mạc Kính Thụy Mạc Nguyên Thanh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1681 - 1683",
     "name": "Mạc Đức Tông",
-    "otherName": "Mạc Kính Quang Mạc Kính Tiêu Mạc Kính Hoảng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1681 - 1683)",
-    "family": "Con Mạc Kính Vũ, em Mạc Nguyên Thanh"
+    "otherName": [
+      "Mạc Đức Tông",
+      "Thiên Địa Đại Bảo Văn Vũ Độ Đại Vương",
+      "Mạc Kính Quang Mạc Kính Tiêu Mạc Kính Hoảng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1533 - 1548",
     "name": "Lê Trang Tông",
-    "otherName": "Lê Ninh Lê Huyến Lê Duy Ninh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1533 - 1548)",
-    "family": "Được cho là con Lê Chiêu Tông"
+    "otherName": [
+      "Lê Trang Tông",
+      "Dụ Hoàng Đế",
+      "Lê Ninh Lê Huyến Lê Duy Ninh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Lê Trung Tông",
-    "otherName": "Lê Huyên Lê Duy Huyên",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Tiền Lê (980–1009)",
-    "category": "King of Viet Nam(1548 - 1556)",
-    "family": "Con Lê Trang Tông"
+    "reignTime": "1548 - 1556",
+    "name": "Lê Trung Tông",
+    "otherName": [
+      "Lê Trung Tông",
+      "Vũ Hoàng Đế",
+      "Lê Huyên Lê Duy Huyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1556 - 1573",
     "name": "Lê Anh Tông",
-    "otherName": "Lê Duy Bang",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1556 - 1573)",
-    "family": "Cháu 6 đời của Lê Trừ, anh Lê Thái Tổ"
+    "otherName": [
+      "Lê Anh Tông",
+      "Tuấn Hoàng Đế",
+      "Lê Duy Bang"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1573 - 1599",
     "name": "Lê Thế Tông",
-    "otherName": "Lê Đàm Lê Duy Đàm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1573 - 1599)",
-    "family": "Con thứ năm Lê Anh Tông"
+    "otherName": [
+      "Lê Thế Tông",
+      "Nghị Hoàng Đế",
+      "Lê Đàm Lê Duy Đàm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1599 - 1619",
     "name": "Lê Kính Tông",
-    "otherName": "Lê Duy Tân",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1599 - 1619)",
-    "family": "Con thứ Lê Thế Tông"
+    "otherName": [
+      "Lê Kính Tông",
+      "Huệ Hoàng Đế Giản Huy Đế",
+      "Lê Duy Tân"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1619 - 1643",
     "name": "Lê Thần Tông",
-    "otherName": "Lê Duy Kỳ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1619 - 1643)",
-    "family": "Con trưởng Lê Kính Tông"
+    "otherName": [
+      "Lê Thần Tông",
+      "Uyên Hoàng Đế",
+      "Lê Duy Kỳ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1643 - 1649",
     "name": "Lê Chân Tông",
-    "otherName": "Lê Duy Hựu Lê Duy Đề",
-    "lifeTime": "unknow",
-    "dynasty": "Nhà Lê trung hưng (1533–1789)",
-    "category": "King of Viet Nam(1643 - 1649)",
-    "family": "Con trưởng Lê Thần Tông"
+    "otherName": [
+      "Lê Chân Tông",
+      "Thuận Hoàng Đế",
+      "Lê Duy Hựu Lê Duy Đề"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1649 - 1662",
     "name": "Lê Thần Tông",
-    "otherName": "Lê Duy Kỳ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1649 - 1662)",
-    "family": "Làm vua lần 2"
+    "otherName": [
+      "Lê Thần Tông",
+      "Uyên Hoàng Đế",
+      "Lê Duy Kỳ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
-    "name": "Lê Huyền Tông",
-    "otherName": "Lê Duy Vũ Lê Duy Hy",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1663 - 1671)",
-    "family": "Con thứ Lê Thần Tông"
-  },
-  {
-    "name": "Lê Gia Tông",
-    "otherName": "Lê Duy Cối Lê Duy Khoái",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1671 - 1675)",
-    "family": "Con thứ Lê Thần Tông"
-  },
-  {
-    "name": "Lê Hy Tông",
-    "otherName": "Lê Duy Hợp Lê Duy Hiệp Lê Duy Cáp",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1675 - 1705)",
-    "family": "con thứ tư Lê Thần Tông"
-  },
-  {
-    "name": "Lê Dụ Tông",
-    "otherName": "Lê Duy Đường Lê Duy Tạo",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1705 - 1729)",
-    "family": "con trưởng Lê Hy Tông"
-  },
-  {
-    "name": "Lê Duy Phường",
-    "otherName": "Lê Duy Phường",
-    "lifeTime": "unknow",
     "dynasty": "Nhà Lê trung hưng (1533–1789)",
-    "category": "King of Viet Nam(1729 - 1732)",
-    "family": "con thứ Lê Dụ Tông"
+    "reignTime": "1663 - 1671",
+    "name": "Lê Huyền Tông",
+    "otherName": [
+      "Lê Huyền Tông",
+      "Mục Hoàng Đế",
+      "Lê Duy Vũ Lê Duy Hy"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1671 - 1675",
+    "name": "Lê Gia Tông",
+    "otherName": [
+      "Lê Gia Tông",
+      "Mỹ Hoàng Đế",
+      "Lê Duy Cối Lê Duy Khoái"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1675 - 1705",
+    "name": "Lê Hy Tông",
+    "otherName": [
+      "Lê Hy Tông",
+      "Chương Hoàng Đế",
+      "Lê Duy Hợp Lê Duy Hiệp Lê Duy Cáp"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1705 - 1729",
+    "name": "Lê Dụ Tông",
+    "otherName": [
+      "Lê Dụ Tông",
+      "Hòa Hoàng Đế",
+      "Lê Duy Đường Lê Duy Tạo"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1729 - 1732",
+    "name": "Lê Duy Phường",
+    "otherName": [
+      "Lê Duy Phường",
+      "Hôn Đức Công"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
+  },
+  {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1732 - 1735",
     "name": "Lê Thuần Tông",
-    "otherName": "Lê Duy Tường Lê Duy Hỗ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1732 - 1735)",
-    "family": "con trưởng Lê Dụ Tông"
+    "otherName": [
+      "Lê Thuần Tông",
+      "Giản Hoàng Đế",
+      "Lê Duy Tường Lê Duy Hỗ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1735 - 1740",
     "name": "Lê Ý Tông",
-    "otherName": "Lê Duy Thận Lê Duy Chấn Lê Duy Hỗ",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1735 - 1740)",
-    "family": "con thứ 11 Lê Dụ Tông"
+    "otherName": [
+      "Lê Ý Tông",
+      "Huy Hoàng Đế",
+      "Lê Duy Thận Lê Duy Chấn Lê Duy Hỗ"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Lê trung hưng (1533–1789)",
+    "reignTime": "1740 - 1786",
     "name": "Lê Hiển Tông",
-    "otherName": "Lê Duy Diêu Lê Duy Đào",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1740 - 1786)",
-    "family": "con trưởng Lê Thuần Tông"
+    "otherName": [
+      "Lê Hiển Tông",
+      "Vĩnh Hoàng Đế",
+      "Lê Duy Diêu Lê Duy Đào"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1786 - 1789",
     "name": "Lê Chiêu Thống",
-    "otherName": "Lê Duy Kỳ Lê Duy Khiêm Lê Tư Khiêm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1786 - 1789)",
-    "family": "con Lê Duy Vỹ, cháu đích tôn Lê Hiển Tông"
+    "otherName": [
+      "Lê Chiêu Thống",
+      "Mẫn Hoàng Đế",
+      "Lê Duy Kỳ Lê Duy Khiêm Lê Tư Khiêm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1545 - 1570",
     "name": "Trịnh Kiểm",
-    "otherName": "Trịnh Kiểm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1545 - 1570)",
-    "family": "con rể Nguyễn Kim"
+    "otherName": [
+      "Trịnh Kiểm",
+      "Minh Khang Thái Vương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1570 - 1570",
     "name": "Trịnh Cối",
-    "otherName": "Trịnh Cối",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1570 - 1570)",
-    "family": "con cả Trịnh Kiểm"
+    "otherName": [
+      "Trịnh Cối",
+      "Tuấn Đức Hầu",
+      "Trung Quốc Công"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1570 - 1623",
     "name": "Bình An Vương",
-    "otherName": "Trịnh Tùng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1570 - 1623)",
-    "family": "con thứ Trịnh Kiểm, chúa Trịnh đầu tiên"
+    "otherName": [
+      "Bình An Vương",
+      "Triết Vương",
+      "Trịnh Tùng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "1623 - 1657",
     "name": "Thanh Đô Vương",
-    "otherName": "Trịnh Tráng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1623 - 1657)",
-    "family": "con thứ hai Trịnh Tùng"
+    "otherName": [
+      "Thanh Đô Vương",
+      "Nghị Vương",
+      "Trịnh Tráng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "1657 - 1682",
     "name": "Tây Định Vương",
-    "otherName": "Trịnh Tạc",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1657 - 1682)",
-    "family": "con thứ hai Trịnh Tráng"
+    "otherName": [
+      "Tây Định Vương",
+      "Dương Vương",
+      "Trịnh Tạc"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1682 - 1709",
     "name": "Định Nam Vương",
-    "otherName": "Trịnh Căn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1682 - 1709)",
-    "family": "con trưởng Trịnh Tạc"
+    "otherName": [
+      "Định Nam Vương",
+      "Khang Vương",
+      "Trịnh Căn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1709 - 1729",
     "name": "An Đô Vương",
-    "otherName": "Trịnh Cương",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1709 - 1729)",
-    "family": "chắt của Trịnh Căn, cháu Trịnh Vịnh, con Trịnh Bính"
+    "otherName": [
+      "An Đô Vương",
+      "Nhân Vương",
+      "Trịnh Cương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1729 - 1740",
     "name": "Uy Nam Vương",
-    "otherName": "Trịnh Giang Trịnh Khương Trịnh 𣞪",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1729 - 1740)",
-    "family": "con trưởng Trịnh Cương"
+    "otherName": [
+      "Uy Nam Vương",
+      "Thuận Vương",
+      "Trịnh Giang Trịnh Khương Trịnh 𣞪"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "1740 - 1767",
     "name": "Minh Đô Vương",
-    "otherName": "Trịnh Doanh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1740 - 1767)",
-    "family": "con thứ Trịnh Cương, em Trịnh Giang"
+    "otherName": [
+      "Minh Đô Vương",
+      "Ân Vương",
+      "Trịnh Doanh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1767 - 1782",
     "name": "Tĩnh Đô Vương",
-    "otherName": "Trịnh Sâm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1767 - 1782)",
-    "family": "con trưởng Trịnh Doanh"
+    "otherName": [
+      "Tĩnh Đô Vương",
+      "Thịnh Vương",
+      "Trịnh Sâm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1782 - 1782",
     "name": "Điện Đô Vương",
-    "otherName": "Trịnh Cán",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1782 - 1782)",
-    "family": "con thứ Trịnh Sâm"
+    "otherName": [
+      "Điện Đô Vương",
+      "Xung Mẫn Vương",
+      "Trịnh Cán"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1782 - 1786",
     "name": "Đoan Nam Vương",
-    "otherName": "Trịnh Khải Trịnh Tông",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1782 - 1786)",
-    "family": "con trưởng Trịnh Sâm"
+    "otherName": [
+      "Đoan Nam Vương",
+      "Anh Liệt Linh Vương",
+      "Trịnh Khải Trịnh Tông"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Trịnh (1545–1787)",
+    "reignTime": "1786 - 1787",
     "name": "Án Đô Vương",
-    "otherName": "Trịnh Bồng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1786 - 1787)",
-    "family": "con Trịnh Giang, anh họ Trịnh Sâm"
+    "otherName": [
+      "Án Đô Vương",
+      "Huệ Định Công",
+      "Trịnh Bồng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Nguyễn (1558–1777; 1780–1802)",
+    "reignTime": "1558 - 1613",
     "name": "Tiên Vương",
-    "otherName": "Nguyễn Hoàng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1558 - 1613)",
-    "family": "con út Nguyễn Kim"
+    "otherName": [
+      "Tiên Vương",
+      "Triệu Cơ Tùy Thống Khâm Minh Cung Ý Cần Nghĩa Đạt Lý Hiển Ứng Chiêu Hựu Diệu Linh Gia Dụ Hoàng Đế",
+      "Nguyễn Hoàng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Nguyễn (1558–1777; 1780–1802)",
+    "reignTime": "1613 - 1635",
     "name": "Sãi Vương Phật Vương",
-    "otherName": "Nguyễn Phúc Nguyên",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1613 - 1635)",
-    "family": "con trai thứ sáu Chúa Tiên"
+    "otherName": [
+      "Sãi Vương Phật Vương",
+      "Hiển Mô Quang Liệt Ôn Cung Minh Duệ Dực Thiện Tuy Du Hiếu Văn Hoàng Đế",
+      "Nguyễn Phúc Nguyên"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Nguyễn (1558–1777; 1780–1802)",
+    "reignTime": "1635 - 1648",
     "name": "Thượng Vương",
-    "otherName": "Nguyễn Phúc Lan",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1635 - 1648)",
-    "family": "con trai thứ hai Chúa Sãi"
+    "otherName": [
+      "Thượng Vương",
+      "Thừa Cơ Toàn Thống Quân Minh Hùng Nghị Uy Đoán Anh Vũ Hiếu Chiêu Hoàng Đế",
+      "Nguyễn Phúc Lan"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "1648 - 1687",
     "name": "Hiền Vương",
-    "otherName": "Nguyễn Phúc Tần Nguyễn Phúc Cần",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1648 - 1687)",
-    "family": "con trai thứ hai Chúa Thượng"
+    "otherName": [
+      "Hiền Vương",
+      "Tuyên Uy Kiến Vũ Anh Minh Trang Chính Thánh Đức Thần Công Hiếu Triết Hoàng Đế",
+      "Nguyễn Phúc Tần Nguyễn Phúc Cần"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1687 - 1691",
     "name": "Nghĩa Vương",
-    "otherName": "Nguyễn Phúc Thái Nguyễn Phúc Trăn Nguyễn Phúc Ngàn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1687 - 1691)",
-    "family": "con trai thứ hai Chúa Hiền"
+    "otherName": [
+      "Nghĩa Vương",
+      "Thiệu Hư Toản Nghiệp Khoan Hồng Bác Hậu Ôn Huệ Từ Tường Hiếu Nghĩa Hoàng Đế",
+      "Nguyễn Phúc Thái Nguyễn Phúc Trăn Nguyễn Phúc Ngàn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1691 - 1725",
     "name": "Minh Vương Quốc Chúa",
-    "otherName": "Nguyễn Phúc Chu Nguyễn Phúc Tùng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1691 - 1725)",
-    "family": "con trưởng Chúa Nghĩa"
+    "otherName": [
+      "Minh Vương Quốc Chúa",
+      "Anh Mô Hùng Lược Thánh Minh Tuyên Đạt Khoan Từ Nhân Thứ Hiếu Minh Hoàng Đế",
+      "Nguyễn Phúc Chu Nguyễn Phúc Tùng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "",
+    "reignTime": "1725 - 1738",
     "name": "Ninh Vương",
-    "otherName": "Nguyễn Phúc Chú Nguyễn Phúc Trú Nguyễn Phúc Thụ Nguyễn Phúc Vượng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1725 - 1738)",
-    "family": "con trưởng Chúa Minh"
+    "otherName": [
+      "Ninh Vương",
+      "Tuyên Quang Thiệu Liệt Tuấn Triết Tĩnh Uyên Kinh Văn Vĩ Vũ Hiếu Ninh Hoàng Đế",
+      "Nguyễn Phúc Chú Nguyễn Phúc Trú Nguyễn Phúc Thụ Nguyễn Phúc Vượng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "1738 - 1765",
     "name": "Vũ Vương",
-    "otherName": "Nguyễn Phúc Khoát Nguyễn Phúc Hiểu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1738 - 1765)",
-    "family": "con trưởng Chúa Ninh"
+    "otherName": [
+      "Vũ Vương",
+      "Kiền Cương Uy Đoán Thần Nghị Thánh Du Nhân Từ Duệ Trí Hiếu Vũ Hoàng Đế",
+      "Nguyễn Phúc Khoát Nguyễn Phúc Hiểu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "1765 - 1776",
     "name": "Định Vương",
-    "otherName": "Nguyễn Phúc Thuần Nguyễn Phúc Hân",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1765 - 1776)",
-    "family": "con trai thứ 16 Chúa Vũ"
+    "otherName": [
+      "Định Vương",
+      "Thông Minh Khoan Hậu Anh Mẫn Huệ Hòa Hiếu Định Hoàng Đế",
+      "Nguyễn Phúc Thuần Nguyễn Phúc Hân"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Chúa Nguyễn (1558–1777; 1780–1802)",
+    "reignTime": "1776 - 1777",
     "name": "Tân Chính Vương",
-    "otherName": "Nguyễn Phúc Dương",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1776 - 1777)",
-    "family": "con Nguyễn Phúc Hiệu, cháu nội Chúa Vũ, em con chú với vua Gia Long"
+    "otherName": [
+      "Tân Chính Vương",
+      "Cung Mẫn Anh Đoán Huyền Mặc Vĩ Văn Mục Vương",
+      "Nguyễn Phúc Dương"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tây Sơn (1778–1802)",
+    "reignTime": "1778 - 1788",
     "name": "Thái Đức",
-    "otherName": "Hồ Nhạc Nguyễn Nhạc Nguyễn Văn Nhạc",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1778 - 1788)",
-    "family": "con trưởng Hồ Phi Phúc, sáng lập triều đại"
+    "otherName": [
+      "Thái Đức",
+      "Minh Đức Hoàng Đế",
+      "Hồ Nhạc Nguyễn Nhạc Nguyễn Văn Nhạc"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tây Sơn (1778–1802)",
+    "reignTime": "1788 - 1792",
     "name": "Quang Trung",
-    "otherName": "Nguyễn Huệ Nguyễn Quang Bình Nguyễn Văn Huệ Hồ Thơm",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1788 - 1792)",
-    "family": "con thứ Hồ Phi Phúc, em Nguyễn Nhạc, con rể Lê Hiển Tông"
+    "otherName": [
+      "Quang Trung",
+      "Vũ Hoàng Đế Trung Thuần Vương",
+      "Nguyễn Huệ Nguyễn Quang Bình Nguyễn Văn Huệ Hồ Thơm"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Tây Sơn (1778–1802)",
+    "reignTime": "1792 - 1802",
     "name": "Nguyễn Quang Toản",
-    "otherName": "Nguyễn Quang Toản Nguyễn Trát",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1792 - 1802)",
-    "family": "con thứ Quang Trung, con rể Lê Hiển Tông"
+    "otherName": [
+      "Nguyễn Quang Toản",
+      "Nguyễn Quang Toản Nguyễn Trát"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1802 - 1820",
     "name": "Gia Long",
-    "otherName": "Nguyễn Phúc Ánh Nguyễn Phúc Chủng Nguyễn Phúc Noãn",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1802 - 1820)",
-    "family": "Sáng lập triều đại. Con thứ ba của Nguyễn Phúc Luân, cháu nội Nguyễn Phúc Khoát, con rể Lê Hiển Tông"
+    "otherName": [
+      "Gia Long",
+      "Khai Thiên Hoằng Đạo Lập Kỷ Thùy Thống Thần Văn Thánh Vũ Tuấn Đức Long Công Chí Nhân Đại Hiếu Cao Hoàng Đế",
+      "Nguyễn Phúc Ánh Nguyễn Phúc Chủng Nguyễn Phúc Noãn"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1820 - 1841",
     "name": "Minh Mạng",
-    "otherName": "Nguyễn Phúc Đảm Nguyễn Phúc Kiểu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1820 - 1841)",
-    "family": "Con thứ tư Gia Long"
+    "otherName": [
+      "Minh Mạng",
+      "Thể Thiên Xương Vận Chí Hiếu Thuần Đức Văn Vũ Minh Đoán Sáng Thuật Đại Thành Hậu Trạch Phong Công Nhân Hoàng Đế",
+      "Nguyễn Phúc Đảm Nguyễn Phúc Kiểu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1841 - 1847",
     "name": "Thiệu Trị",
-    "otherName": "Nguyễn Phúc Miên Tông Nguyễn Phúc Tuyền Nguyễn Phúc Dung",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1841 - 1847)",
-    "family": "Con trưởng Minh Mạng"
+    "otherName": [
+      "Thiệu Trị",
+      "Thiệu Thiên Long Vận Chí Thiện Thuần Hiếu Khoan Minh Duệ Đoán Văn Trị Vũ Công Thánh Triết Chương Hoàng Đế",
+      "Nguyễn Phúc Miên Tông Nguyễn Phúc Tuyền Nguyễn Phúc Dung"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1847 - 1883",
     "name": "Tự Đức",
-    "otherName": "Nguyễn Phúc Hồng Nhậm Nguyễn Phúc Thì",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1847 - 1883)",
-    "family": "Con thứ Thiệu Trị"
+    "otherName": [
+      "Tự Đức",
+      "Thể Thiên Hanh Vận Chí Thành Đạt Hiếu Thể Kiện Đôn Nhân Khiêm Cung Minh Lược Duệ Văn Anh Hoàng Đế",
+      "Nguyễn Phúc Hồng Nhậm Nguyễn Phúc Thì"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1883 - 1883",
     "name": "Dục Đức",
-    "otherName": "Nguyễn Phúc Ưng Chân Nguyễn Phúc Ưng Ái",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1883 - 1883)",
-    "family": "Con thứ Nguyễn Phúc Hồng Y, cháu nội Thiệu Trị, con nuôi Tự Đức"
+    "otherName": [
+      "Dục Đức",
+      "Huệ Hoàng Đế",
+      "Nguyễn Phúc Ưng Chân Nguyễn Phúc Ưng Ái"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Đinh (968–980)",
+    "reignTime": "1883 - 1883",
     "name": "Hiệp Hòa",
-    "otherName": "Nguyễn Phúc Hồng Dật Nguyễn Phúc Thăng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1883 - 1883)",
-    "family": "Con thứ 29 Thiệu Trị"
+    "otherName": [
+      "Hiệp Hòa",
+      "Phế Đế",
+      "Nguyễn Phúc Hồng Dật Nguyễn Phúc Thăng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1883 - 1884",
     "name": "Kiến Phúc",
-    "otherName": "Nguyễn Phúc Ưng Đăng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1883 - 1884)",
-    "family": "Con thứ Nguyễn Phúc Hồng Cai, cháu nội Thiệu Trị"
+    "otherName": [
+      "Kiến Phúc",
+      "Thiệu Đức Chí Hiếu Uyên Duệ Nghị Hoàng Đế",
+      "Nguyễn Phúc Ưng Đăng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1884 - 1885",
     "name": "Hàm Nghi",
-    "otherName": "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1884 - 1885)",
-    "family": "Em trai Kiến Phúc"
+    "otherName": [
+      "Hàm Nghi",
+      "Xuất Đế",
+      "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1885 - 1889",
     "name": "Đồng Khánh",
-    "otherName": "Nguyễn Phúc Ưng Kỷ Nguyễn Phúc Ưng Đường Nguyễn Phúc Ưng Thị Nguyễn Phúc Biện Chánh Mông",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1885 - 1889)",
-    "family": "Con trưởng Nguyễn Phúc Hồng Cai, anh Kiến Phúc và Hàm Nghi"
+    "otherName": [
+      "Đồng Khánh",
+      "Hoằng Liệt Thống Thiết Mẫn Huệ Thuần Hoàng Đế",
+      "Nguyễn Phúc Ưng Kỷ Nguyễn Phúc Ưng Đường Nguyễn Phúc Ưng Thị Nguyễn Phúc Biện Chánh Mông"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Đinh (968–980)",
+    "reignTime": "1889 - 1907",
     "name": "Thành Thái",
-    "otherName": "Nguyễn Phúc Bửu Lân Nguyễn Phúc Chiêu",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1889 - 1907)",
-    "family": "Con Dục Đức"
+    "otherName": [
+      "Thành Thái",
+      "Phế Đế",
+      "Nguyễn Phúc Bửu Lân Nguyễn Phúc Chiêu"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Đinh (968–980)",
+    "reignTime": "1907 - 1916",
     "name": "Duy Tân",
-    "otherName": "Nguyễn Phúc Vĩnh San Nguyễn Phúc Hoảng",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1907 - 1916)",
-    "family": "Con thứ Thành Thái"
+    "otherName": [
+      "Duy Tân",
+      "Phế Đế",
+      "Nguyễn Phúc Vĩnh San Nguyễn Phúc Hoảng"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1916 - 1925",
     "name": "Khải Định",
-    "otherName": "Nguyễn Phúc Bửu Đảo",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1916 - 1925)",
-    "family": "Con trưởng Đồng Khánh"
+    "otherName": [
+      "Khải Định",
+      "Tự Thiên Gia Vận Thánh Minh Thần Trí Nhân Hiếu Thành Kính Di Mô Thừa Liệt Tuyên Hoàng Đế",
+      "Nguyễn Phúc Bửu Đảo"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   },
   {
+    "dynasty": "Nhà Nguyễn (1802–1945)",
+    "reignTime": "1925 - 1945",
     "name": "Bảo Đại",
-    "otherName": "Nguyễn Phúc Vĩnh Thụy Nguyễn Phúc Thiển",
-    "lifeTime": "unknow",
-    "dynasty": "",
-    "category": "King of Viet Nam(1925 - 1945)",
-    "family": "Con Khải Định"
+    "otherName": [
+      "Bảo Đại",
+      "Nguyễn Phúc Vĩnh Thụy Nguyễn Phúc Thiển"
+    ],
+    "lifeTime": "",
+    "category": "Vua Việt Nam"
   }
 ]
