@@ -7,4 +7,86 @@ Data creadit:
     + VietNam War: https://vi.wikipedia.org/wiki/C%C3%A1c_cu%E1%BB%99c_chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_Nam_tham_gia
     + VietNam Festival: https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_Vi%E1%BB%87t_Nam
 
+Có rất nhiều các trang web cung cấp thông tin về lịch sử Việt Nam (https://nguoikesu.com/, Wikipedia, DBPedia, …). 
+Cần tìm các trang web này và thu thập tự động dữ liệu về lịch sử Việt Nam và liên kết các dữ liệu này lại với nhau
+
+
+Các thực thể cần thu thập bao gồm:
+
+    + Các triều đại lịch sử Việt Nam (thời Tiền Sử, Hồng Bàng, An Dương Vương, Bắc Thuộc lần I, …)
+    + Các nhân vật lịch sử Việt Nam (Ví dụ, các vị vua Việt Nam có thể thu thập tại https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam)
+    + Các địa điểm du lịch (chùa, đình, miếu, gò, …) và các di tích lịch sử Việt Nam
+    + Các lễ hội văn hóa Việt Nam
+    + Các sự kiện lịch sử Việt Nam
+
+Mỗi thực thể cần có định danh, có các thuộc tính, và quan trọng, các thực thể cần được liên kết với nhau. Một số ví dụ:
+
+    - Lễ hội đền Hùng:
+
+        + Địa điểm: Tổ chức ở TP Việt Trì, tỉnh Phú Thọ
+        + Ngày tổ chức: 10/3 âm lịch
+        + Nhân vật lịch sử liên quan: Tưởng nhớ Vua Hùng
+        + Sự kiện liên quan : vua Hùng dựng nước
+        + Di tích liên quan: Đền Hùng
+        …
+
+    - Nhân vật lịch sử Vua Hùng:
+
+        + Cha: Lạc Long Quân
+        + Lên ngôi: năm 2524 trước công nguyên
+        + Năm sinh: không rõ
+        + Năm mất: không rõ
+        …
+
+Lưu ý:
+
+Việc thu thập dữ liệu phải là tự động
+Phải thống nhất cách đặt tên các thuộc tính cho mỗi loại thực thể
+
+Yêu cầu cần đạt:
+
+- Số lượng thực thể thu thập cho mỗi loại phải đa dạng phong phú (cần thu thập từ nhiều nguồn). 
+Nếu thu thập được số lượng ít, kết quả của nhóm sẽ bị đánh giá thấp.
+- Đảm bảo độ chính xác
+- Cần xử lý hợp nhất dữ liệu từ nhiều nguồn
+    + VD1: nguồn X thu thập được 1200 nhân vật lịch sử, nguồn Y thu thập được 1500 nhân vật lịch sử. 
+    Cần xử lý lấy hợp lại thành 1700 nhân vật lịch sử (có những nhân vật lịch sử có ở nguồn này, 
+    nhưng lại không có ở nguồn kia, và có những nhân vật lịch sử có ở cả 2 nguồn)
+    + VD2: Nguồn X và Y cùng thu thập được dữ liệu về nhân vật lịch sử H. Nguồn X tìm được 10 thông tin, nguồn Y tìm được 15 thông tin về nhân vật lịch sử H. 
+    Khi đó cần xử lý hợp lại thành 18 thông tin cho nhân vật lịch sử H.
+    Nếu có trường thông tin bị xung đột, cần tổ chức dữ liệu sao cho lưu lại thông tin rõ ràng. 
+    VD: H sinh năm 1230 theo nguồn X, H sinh năm 1231 theo nguồn Y, và H sinh năm 1232 theo nguồn Z.
+- Dữ liệu thu thập được cần được lưu trữ dưới dạng JSON hoặc CSV. Sau đó cung cấp chức năng tìm kiếm và hiển thị thông tin cho người dùng.
+
+
+
+Các yêu cầu:
+
+- Tất cả cần nộp cùng 1 thời điểm: upload lên thư mục GG Drive + bản cứng báo cáo. Khi bảo vệ, các nhóm download xuống
+- Sản phẩm cần nộp (nộp vào tuần …):
+- Báo cáo
+- Slide trình bày
+- Video demo
+- Mã nguồn chương trình
+- Các file tài nguyên (Cần chạy chương trình ở nhà trước, để lấy được đủ dữ liệu)
+- Nộp báo cáo bản cứng
+
+Báo cáo:
+- Phân công công việc các thành viên trong nhóm
+- % đóng góp (con số lượng hóa cụ thể) của từng thành viên
+- Con số thống kê về dữ liệu thu thập được. Ví dụ: Bao nhiêu nhân vật lịch sử, bao nhiêu lễ hội, bao nhiêu di tích, …
+- Bao nhiêu thuộc tính dữ liệu cho mỗi loại thực thể
+- Bao nhiêu liên kết giữa các thực thể
+- Lấy dữ liệu của bao nhiêu nguồn, là những nguồn nào. Mỗi nguồn lấy được dữ liệu gì
+- Vẽ biểu đồ UML
+- Biểu đồ phụ thuộc gói
+- Biểu đồ lớp
+- Giải thích thiết kế
+- Các gói (package) dùng để làm gì
+- Các lớp ý tưởng là gì
+- Giải thích các kỹ thuật lập trình hướng đối tượng đã áp dụng
+- Nhóm đã áp dụng kỹ thuật gì, ở đâu, lợi ích đem lại là gì
+- Liệt kê công nghệ sử dụng, thuật toán hay ho (nếu có)
+- Hướng dẫn sử dụng ngắn gọn + 1 số ảnh quan trọng demo chương trình
+
 
