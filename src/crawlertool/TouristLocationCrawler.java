@@ -38,7 +38,7 @@ public class TouristLocationCrawler {
 
     public static void crawlLocation() {
 
-        String fileOutputPath = "TourismLocation.json";
+        String fileOutputPath = "lib/ObjectData/TourismLocation.json";
         PrintWriter writer = createAppendFileWriter(fileOutputPath);
         List<TourismLocation> locations = new ArrayList<TourismLocation>();
         String url = "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam";

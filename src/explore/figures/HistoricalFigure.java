@@ -6,8 +6,9 @@ public class HistoricalFigure {
     
     protected String name;
     protected List<String> otherName;
-    private String lifeTime;
     private String category;
+    private String birth;
+    private String death;
     
     // Getters
     public String getName() {
@@ -16,18 +17,23 @@ public class HistoricalFigure {
     public List<String> getOtherName() {
         return otherName;
     }
-    public String getLifeTime() {
-        return lifeTime;
-    }
     public String getCategory() {
         return category;
     }
-
+    public String getBirth() {
+        return birth;
+    }
+    public String getDeath() {
+        return death;
+    }
     // Contructors
-    public HistoricalFigure(String name, List<String> otherName, String lifeTime, String category) {
+    public HistoricalFigure(String name, List<String> otherName, String category, String birth,
+            String death) {
         this.name = name;
         this.otherName = otherName;
-        this.lifeTime = lifeTime;
         this.category = category;
+        this.birth = birth;
+        this.death = death;
     }
+    
 }
