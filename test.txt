@@ -1,0 +1,13 @@
+
+  {
+    "dynasty": "Hồng Bàng thị (2897–258 TCN)",
+    "reignTime": "2879 TCN - 2794 TCN",
+    "name": "Kinh Dương Vương",
+    "otherName": [
+      "Kinh Dương Vương",
+      "Lộc Tục"
+    ],
+    "category": "Vua Việt Nam",
+    "birth": "15 tháng 8 năm 2919 TCN",
+    "death": "18 tháng 1 năm 2792 TCN (127 tuổi)"
+  

@@ -12,11 +12,10 @@ public class Emperor extends HistoricalFigure {
     public String getReignTime() {
         return reignTime;
     }
-
-    public Emperor(String name, List<String> otherName, String lifeTime, String category, String dynasty, String reignTime) {
-        super(name, otherName, lifeTime, category);
+    public Emperor(String name, List<String> otherName, String category, String birth, String death,
+            String dynasty, String reignTime) {
+        super(name, otherName, category, birth, death);
         this.dynasty = dynasty;
         this.reignTime = reignTime;
-    }
- 
+    } 
 }

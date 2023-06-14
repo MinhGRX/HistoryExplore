@@ -52,7 +52,7 @@ public class DynastyCrawler {
     }
     
     private static void crawlVietNamDynasty() {
-        String fileOutput = "Dynasty.json";
+        String fileOutput = "lib/ObjectData/Dynasty.json";
         PrintWriter writer = createAppendFileWriter(fileOutput);
         List<Dynasty> dynasties = new ArrayList<Dynasty>();
         String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam";

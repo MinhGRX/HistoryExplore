@@ -4,6 +4,18 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\gson-2.8.2.jar",
-        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jsoup-1.16.1.jar"
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jsoup-1.16.1.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.base.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.controls.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.fxml.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.graphics.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.media.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.swing.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.web.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx-swt.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jackson-core-2.13.0.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jar_files\\jackson-annotations-2.13.0.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jar_files\\jackson-core-2.13.0.jar",
+        "d:\\projects\\code\\zHJuniikJava\\lib\\jar_files\\jar_files\\jackson-databind-2.13.0.jar"
     ]
 }

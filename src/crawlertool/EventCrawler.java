@@ -60,7 +60,7 @@ public class EventCrawler {
         }
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(events);
-        PrintWriter writer = createAppendFileWriter("VietNamWar.json");
+        PrintWriter writer = createAppendFileWriter("lib/ObjectData/VietNamWar.json");
         writer.print(json);
         writer.close();
     }
@@ -91,7 +91,7 @@ public class EventCrawler {
         }
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(events);
-        PrintWriter writer = createAppendFileWriter("VietNamFestival.json");
+        PrintWriter writer = createAppendFileWriter("lib/ObjectData/VietNamFestival.json");
         writer.print(json);
         writer.close();
     }
