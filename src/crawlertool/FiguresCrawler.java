@@ -2,7 +2,6 @@ package crawlertool;
 
 import java.io.*;
 import java.net.URLDecoder;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.*;
@@ -11,28 +10,11 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import explore.figures.Emperor;
 import explore.figures.HistoricalFigure;
 
 public class FiguresCrawler {
-    private static PrintWriter createAppendFileWriter(String filePath) {
-        try {
-			File outputFile = new File(filePath);
-			if (!outputFile.exists()) {
-				outputFile.createNewFile();
-			}
-			FileOutputStream outputStream = new FileOutputStream(outputFile, true);
-			PrintWriter writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream, StandardCharsets.UTF_8)));
-			return writer;
-			}
-			catch(IOException e) {
-				e.printStackTrace();
-				return null;
-			}
-        }
+
     private static int getDynasty(List<String> names, List<String>kings) {
         int i = 0;
         for(String king: kings)
@@ -62,11 +44,9 @@ public class FiguresCrawler {
         return time;
     }
 
-  	private static void crawlVietNamKings() {
+  	public List<HistoricalFigure> crawlVietNamKings() {
 		List<HistoricalFigure> figures = new ArrayList<HistoricalFigure>();
 		String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam#";
-		String outputFileName = "lib/ObjectData/VietNamKings.json";
-		PrintWriter writer = createAppendFileWriter(outputFileName);
 		Document doc = new Document("UTF-8");
 		try {
 			doc = Jsoup.connect(url).get();
@@ -131,18 +111,10 @@ public class FiguresCrawler {
                             dynasty = dynasties.get(getDynasty(names, kings));
                             dynasty = pattern.matcher(dynasty).replaceAll("");
                             figures.add(new Emperor(name, names, shortDesciption, birth, death, dynasty, assumeTime));
-                            System.out.println(name);
                         }
                     }
                 }
 		}
-		Gson gson = new GsonBuilder().setPrettyPrinting().create();
-		String json = gson.toJson(figures);
-		writer.print(json);
-		writer.close();
+		return figures;
 	}
-
-	public static void main(String[] args) {
-        crawlVietNamKings();
-    }
 }

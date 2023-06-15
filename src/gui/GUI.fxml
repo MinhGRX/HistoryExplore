@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<fx:root id="Lịch sử Việt Nam" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="670.0" style="-fx-border-color: red; -fx-background-color: green;" type="BorderPane" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <Label alignment="CENTER" ellipsisString="" prefHeight="67.0" prefWidth="683.0" style="-fx-border-color: red;" styleClass="Heading" text="Lịch sử Việt Nam" textAlignment="CENTER" textFill="#ebef1b" wrapText="true" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="Berlin Sans FB" size="48.0" />
+         </font>
+      </Label>
+   </top>
+</fx:root>

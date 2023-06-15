@@ -13,9 +13,9 @@ public class VietNamWar extends Event {
     public String getResult() {
         return result;
     }
-    public VietNamWar(String name, String occurTime, String location, String homeForce, String enemyForce,
+    public VietNamWar(String name, String occurTime, String homeForce, String enemyForce,
             String result) {
-        super(name, occurTime, location);
+        super(name, occurTime);
         this.homeForce = homeForce;
         this.enemyForce = enemyForce;
         this.result = result;

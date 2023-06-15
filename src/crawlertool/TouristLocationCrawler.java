@@ -1,12 +1,6 @@
 package crawlertool;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,32 +8,11 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import explore.location.TourismLocation;
 
 public class TouristLocationCrawler {
-    private static PrintWriter createAppendFileWriter(String filePath) {
-        try {
-            File outputFile = new File(filePath);
-            if (!outputFile.exists()) {
-                outputFile.createNewFile();
-            }
-            FileOutputStream outputStream = new FileOutputStream(outputFile, true);
-            PrintWriter writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream, StandardCharsets.UTF_8)));
-            return writer;
-            }
-            catch(IOException e) {
-                e.printStackTrace();
-                return null;
-            }
-        }
 
-    public static void crawlLocation() {
-
-        String fileOutputPath = "lib/ObjectData/TourismLocation.json";
-        PrintWriter writer = createAppendFileWriter(fileOutputPath);
+    public List<TourismLocation> crawlLocation() {
         List<TourismLocation> locations = new ArrayList<TourismLocation>();
         String url = "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam";
         String name;
@@ -71,17 +44,10 @@ public class TouristLocationCrawler {
                     }
                 }
             } 
-            Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            String json = gson.toJson(locations);
-            writer.print(json);
-            writer.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-    
-    public static void main(String[] args) {
-        crawlLocation();
+        return locations;
     }
 }
 // https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam#

@@ -1,12 +1,6 @@
 package crawlertool;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -16,28 +10,9 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import explore.dynasty.Dynasty;
 
 public class DynastyCrawler {
-
-    private static PrintWriter createAppendFileWriter(String filePath) {
-        try {
-            File outputFile = new File(filePath);
-            if (!outputFile.exists()) {
-                outputFile.createNewFile();
-            }
-            FileOutputStream outputStream = new FileOutputStream(outputFile, true);
-            PrintWriter writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream, StandardCharsets.UTF_8)));
-            return writer;
-            }
-            catch(IOException e) {
-                e.printStackTrace();
-                return null;
-            }
-        }
 
     private static String getTimeLine(String name, List<String> details) {
         String timeline = "";
@@ -51,9 +26,7 @@ public class DynastyCrawler {
         return timeline;
     }
     
-    private static void crawlVietNamDynasty() {
-        String fileOutput = "lib/ObjectData/Dynasty.json";
-        PrintWriter writer = createAppendFileWriter(fileOutput);
+    public List<Dynasty> crawlVietNamDynasty() {
         List<Dynasty> dynasties = new ArrayList<Dynasty>();
         String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam";
         Pattern pattern = Pattern.compile("\\[\\w+\\]");
@@ -101,15 +74,6 @@ public class DynastyCrawler {
                 dynasties.add(new Dynasty(name, founder, capital, time));
             }
         }
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        String json = gson.toJson(dynasties);
-        writer.print(json);
-        writer.close();
-    }
-
-    public static void main(String[] args){
-        crawlVietNamDynasty();
-    }
-
-    
+        return dynasties;
+    }    
 }

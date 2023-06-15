@@ -3,7 +3,6 @@ package explore.event;
 public class Event {
     private String name;
     private String occurTime;
-    private String location;
     
     public String getName() {
         return name;
@@ -11,13 +10,9 @@ public class Event {
     public String getOccurTime() {
         return occurTime;
     }
-    public String getLocation() {
-        return location;
-    }
 
-    public Event(String name, String occurTime, String location) {
+    public Event(String name, String occurTime) {
         this.name = name;
         this.occurTime = occurTime;
-        this.location = location;
     }
 }
